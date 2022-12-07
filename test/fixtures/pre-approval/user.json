@@ -1,0 +1,11 @@
+{
+    "user": {
+        "phone": "+17135626553",
+        "firstName": "Joe",
+        "lastName": "Example",
+        "birthday": "1989-01-01",
+        "address": "3309 Elm St.",
+        "housingType": "rent",
+        "housingPayment": 1800.00
+    }
+}

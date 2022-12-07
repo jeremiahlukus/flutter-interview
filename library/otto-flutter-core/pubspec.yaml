@@ -1,0 +1,36 @@
+name: otto_flutter_core
+description: A new Flutter package project.
+version: 0.0.1
+homepage:
+
+environment:
+  sdk: ">=2.12.0 <3.0.0"
+  flutter: ">=1.17.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  
+  ##Services
+  #API
+  dio: ^4.0.0
+  
+  #Connection checker
+  connectivity_plus: ^1.1.0
+
+  #Depenedency Injection
+  get_it: ^7.2.0
+  freezed_annotation: ^2.1.0
+
+  #Local storage
+  hive: ^2.0.4
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^1.0.0
+  freezed: ^2.1.0+1
+  build_runner: ^2.1.2
+
+flutter:
+  # fonts:

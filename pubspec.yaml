@@ -1,0 +1,75 @@
+name: otto_app
+description: Unlocking your car to get ahead.
+
+# Prevent accidental publishing to pub.dev.
+publish_to: 'none'
+
+version: 0.0.2+21
+
+environment:
+  sdk: ">=2.12.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  flutter_localizations:
+    sdk: flutter
+
+  equatable: ^2.0.3
+  flutter_svg: ^1.0.0
+  percent_indicator: ^4.2.2
+  share_plus: ^4.0.9
+
+  #Core
+  otto_flutter_core:
+    path: ./library/otto-flutter-core
+
+  #State management
+  provider: ^6.0.0
+
+  #UI
+  mask_text_input_formatter: ^2.0.0
+  pin_code_text_field: ^1.8.0
+  styled_text: ^5.0.0+1
+  top_snackbar_flutter: ^1.0.2
+  flutter_keyboard_visibility: ^5.1.1
+  shimmer: ^2.0.0 #Skeleton Loader effect
+  lottie: ^1.4.0
+  pdfx: ^2.2.0
+
+  freezed_annotation: ^2.1.0
+
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+  flutter_lints: ^2.0.1
+  build_runner: ^2.1.0
+  freezed: ^2.1.0+1
+  mocktail: ^0.3.0
+
+flutter:
+  uses-material-design: true
+
+  # Enable generation of localized Strings from arb files.
+  generate: true
+
+  assets:
+    # Add assets from the images and svg directory to the application.
+    - assets/jsons/
+    - assets/svgs/
+    - assets/svgs/logos/
+    - assets/svgs/toast/
+    - assets/svgs/pre-approval/
+    - assets/svgs/icons/
+
+  fonts:
+    - family: DMSans
+      fonts:
+        - asset: assets/fonts/DMSans/DMSans-Regular.ttf
+          weight: 400
+        - asset: assets/fonts/DMSans/DMSans-Medium.ttf
+          weight: 500
+        - asset: assets/fonts/DMSans/DMSans-Bold.ttf
+          weight: 700

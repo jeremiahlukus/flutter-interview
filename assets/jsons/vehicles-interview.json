@@ -1,0 +1,8342 @@
+[
+    {
+        "year": "2022",
+        "make": "Acura",
+        "model": "ILX",
+        "trim": "4D Sdn w/Prem&A-SPEC"
+    },
+    {
+        "year": "2022",
+        "make": "Acura",
+        "model": "ILX",
+        "trim": "4D Sdn w/Tech&A-SPEC"
+    },
+    {
+        "year": "2022",
+        "make": "Acura",
+        "model": "ILX",
+        "trim": "4D Sedan"
+    },
+    {
+        "year": "2022",
+        "make": "Acura",
+        "model": "ILX",
+        "trim": "4D Sedan w/Prem Pkg"
+    },
+    {
+        "year": "2022",
+        "make": "Acura",
+        "model": "MDX",
+        "trim": "Base4D SUV"
+    },
+    {
+        "year": "2022",
+        "make": "Acura",
+        "model": "MDX",
+        "trim": "Base4D SUV w/Tech Pkg"
+    },
+    {
+        "year": "2022",
+        "make": "Acura",
+        "model": "MDX",
+        "trim": "SH-AWD4D SUV"
+    },
+    {
+        "year": "2022",
+        "make": "Acura",
+        "model": "MDX",
+        "trim": "SH-AWD4D SUV w/A-Spec"
+    },
+    {
+        "year": "2022",
+        "make": "Acura",
+        "model": "MDX",
+        "trim": "SH-AWD4D SUV w/Tech Pkg"
+    },
+    {
+        "year": "2022",
+        "make": "Acura",
+        "model": "MDX",
+        "trim": "SH-AWD Advance4D SUV"
+    },
+    {
+        "year": "2022",
+        "make": "Ford",
+        "model": "Escape",
+        "trim": "S4D SUV AWD"
+    },
+    {
+        "year": "2022",
+        "make": "Ford",
+        "model": "Escape",
+        "trim": "S4D SUV FWD"
+    },
+    {
+        "year": "2022",
+        "make": "Ford",
+        "model": "Escape",
+        "trim": "SE4D SUV AWD"
+    },
+    {
+        "year": "2022",
+        "make": "Ford",
+        "model": "Escape",
+        "trim": "SE4D SUV FWD"
+    },
+    {
+        "year": "2022",
+        "make": "Ford",
+        "model": "Escape",
+        "trim": "SE Hybrid4D SUV AWD"
+    },
+    {
+        "year": "2022",
+        "make": "Ford",
+        "model": "Escape",
+        "trim": "SE Hybrid4D SUV FWD"
+    },
+    {
+        "year": "2022",
+        "make": "Ford",
+        "model": "Escape",
+        "trim": "SE PHEV4D SUV FWD"
+    },
+    {
+        "year": "2022",
+        "make": "Ford",
+        "model": "Escape",
+        "trim": "SEL4D SUV AWD"
+    },
+    {
+        "year": "2022",
+        "make": "Ford",
+        "model": "Escape",
+        "trim": "SEL4D SUV AWD 2.0L"
+    },
+    {
+        "year": "2022",
+        "make": "Ford",
+        "model": "Escape",
+        "trim": "SEL4D SUV FWD"
+    },
+    {
+        "year": "2022",
+        "make": "Ford",
+        "model": "Escape",
+        "trim": "SEL HEV4D SUV AWD"
+    },
+    {
+        "year": "2022",
+        "make": "Ford",
+        "model": "Escape",
+        "trim": "SEL HEV4D SUV FWD"
+    },
+    {
+        "year": "2022",
+        "make": "Ford",
+        "model": "Escape",
+        "trim": "SEL PHEV4D SUV FWD"
+    },
+    {
+        "year": "2022",
+        "make": "Ford",
+        "model": "Escape",
+        "trim": "Titanium4D SUV AWD"
+    },
+    {
+        "year": "2022",
+        "make": "Ford",
+        "model": "Escape",
+        "trim": "Titanium Hybrid4D SUV AWD"
+    },
+    {
+        "year": "2022",
+        "make": "Ford",
+        "model": "Escape",
+        "trim": "Titanium Hybrid4D SUV FWD"
+    },
+    {
+        "year": "2022",
+        "make": "Ford",
+        "model": "Escape",
+        "trim": "Titanium PHEV4D SUV FWD"
+    },
+    {
+        "year": "2022",
+        "make": "Ford",
+        "model": "Explorer",
+        "trim": "Base4D SUV 4WD"
+    },
+    {
+        "year": "2022",
+        "make": "Ford",
+        "model": "Explorer",
+        "trim": "Base4D SUV RWD"
+    },
+    {
+        "year": "2022",
+        "make": "Ford",
+        "model": "Explorer",
+        "trim": "King Ranch4D SUV 4WD"
+    },
+    {
+        "year": "2022",
+        "make": "Ford",
+        "model": "Explorer",
+        "trim": "King Ranch4D SUV RWD"
+    },
+    {
+        "year": "2022",
+        "make": "Ford",
+        "model": "Explorer",
+        "trim": "Limited4D SUV 4WD"
+    },
+    {
+        "year": "2022",
+        "make": "Ford",
+        "model": "Explorer",
+        "trim": "Limited4D SUV RWD"
+    },
+    {
+        "year": "2022",
+        "make": "Ford",
+        "model": "Explorer",
+        "trim": "Limited HEV4D SUV 4WD"
+    },
+    {
+        "year": "2022",
+        "make": "Ford",
+        "model": "Explorer",
+        "trim": "Limited HEV4D SUV RWD"
+    },
+    {
+        "year": "2022",
+        "make": "Ford",
+        "model": "Explorer",
+        "trim": "Platinum4D SUV 4WD"
+    },
+    {
+        "year": "2022",
+        "make": "Ford",
+        "model": "Explorer",
+        "trim": "Platinum4D SUV RWD"
+    },
+    {
+        "year": "2022",
+        "make": "Ford",
+        "model": "Explorer",
+        "trim": "Platinum HEV4D SUV 4WD"
+    },
+    {
+        "year": "2022",
+        "make": "Ford",
+        "model": "Explorer",
+        "trim": "ST4D SUV 4WD"
+    },
+    {
+        "year": "2022",
+        "make": "Ford",
+        "model": "Explorer",
+        "trim": "ST4D SUV RWD"
+    },
+    {
+        "year": "2022",
+        "make": "Ford",
+        "model": "Explorer",
+        "trim": "ST-Line4D SUV 4WD"
+    },
+    {
+        "year": "2022",
+        "make": "Ford",
+        "model": "Explorer",
+        "trim": "ST-Line4D SUV RWD"
+    },
+    {
+        "year": "2022",
+        "make": "Ford",
+        "model": "Explorer",
+        "trim": "Timberline4D SUV 4WD"
+    },
+    {
+        "year": "2022",
+        "make": "Ford",
+        "model": "Explorer",
+        "trim": "XLT4D SUV 4WD"
+    },
+    {
+        "year": "2022",
+        "make": "Ford",
+        "model": "Explorer",
+        "trim": "XLT4D SUV RWD"
+    },
+    {
+        "year": "2022",
+        "make": "Ford",
+        "model": "F250SD",
+        "trim": "King RanchCrew Cab 4WD LWB"
+    },
+    {
+        "year": "2022",
+        "make": "Ford",
+        "model": "F250SD",
+        "trim": "King RanchCrew Cab 4WD SWB"
+    },
+    {
+        "year": "2022",
+        "make": "Ford",
+        "model": "F250SD",
+        "trim": "LariatCrew Cab 2WD LWB"
+    },
+    {
+        "year": "2022",
+        "make": "Ford",
+        "model": "F250SD",
+        "trim": "LariatCrew Cab 2WD SWB"
+    },
+    {
+        "year": "2022",
+        "make": "Ford",
+        "model": "F250SD",
+        "trim": "LariatCrew Cab 4WD LWB"
+    },
+    {
+        "year": "2022",
+        "make": "Ford",
+        "model": "F250SD",
+        "trim": "LariatCrew Cab 4WD SWB"
+    },
+    {
+        "year": "2022",
+        "make": "Ford",
+        "model": "F250SD",
+        "trim": "LariatSupercab 2WD LWB"
+    },
+    {
+        "year": "2022",
+        "make": "Ford",
+        "model": "F250SD",
+        "trim": "LariatSupercab 2WD SWB"
+    },
+    {
+        "year": "2022",
+        "make": "Ford",
+        "model": "F250SD",
+        "trim": "LariatSupercab 4WD LWB"
+    },
+    {
+        "year": "2022",
+        "make": "Ford",
+        "model": "F250SD",
+        "trim": "LariatSupercab 4WD SWB"
+    },
+    {
+        "year": "2022",
+        "make": "Ford",
+        "model": "F250SD",
+        "trim": "LimitedCrew Cab 4WD LWB"
+    },
+    {
+        "year": "2022",
+        "make": "Ford",
+        "model": "F250SD",
+        "trim": "LimitedCrew Cab 4WD SWB"
+    },
+    {
+        "year": "2022",
+        "make": "Ford",
+        "model": "F250SD",
+        "trim": "PlatinumCrew Cab 4WD LWB"
+    },
+    {
+        "year": "2022",
+        "make": "Ford",
+        "model": "F250SD",
+        "trim": "PlatinumCrew Cab 4WD SWB"
+    },
+    {
+        "year": "2022",
+        "make": "Ford",
+        "model": "F250SD",
+        "trim": "XLCrew Cab 2WD LWB"
+    },
+    {
+        "year": "2022",
+        "make": "Ford",
+        "model": "F250SD",
+        "trim": "XLCrew Cab 2WD SWB"
+    },
+    {
+        "year": "2022",
+        "make": "Ford",
+        "model": "F250SD",
+        "trim": "XLCrew Cab 4WD LWB"
+    },
+    {
+        "year": "2022",
+        "make": "Ford",
+        "model": "F250SD",
+        "trim": "XLCrew Cab 4WD SWB"
+    },
+    {
+        "year": "2022",
+        "make": "Ford",
+        "model": "F250SD",
+        "trim": "XLReg Cab 2WD"
+    },
+    {
+        "year": "2022",
+        "make": "Ford",
+        "model": "F250SD",
+        "trim": "XLReg Cab 4WD"
+    },
+    {
+        "year": "2022",
+        "make": "Ford",
+        "model": "F250SD",
+        "trim": "XLSupercab 2WD LWB"
+    },
+    {
+        "year": "2022",
+        "make": "Ford",
+        "model": "F250SD",
+        "trim": "XLSupercab 2WD SWB"
+    },
+    {
+        "year": "2022",
+        "make": "Ford",
+        "model": "F250SD",
+        "trim": "XLSupercab 4WD LWB"
+    },
+    {
+        "year": "2022",
+        "make": "Ford",
+        "model": "F250SD",
+        "trim": "XLSupercab 4WD SWB"
+    },
+    {
+        "year": "2022",
+        "make": "Ford",
+        "model": "F250SD",
+        "trim": "XLTCrew Cab 2WD LWB"
+    },
+    {
+        "year": "2022",
+        "make": "Ford",
+        "model": "F250SD",
+        "trim": "XLTCrew Cab 2WD SWB"
+    },
+    {
+        "year": "2022",
+        "make": "Ford",
+        "model": "F250SD",
+        "trim": "XLTCrew Cab 4WD LWB"
+    },
+    {
+        "year": "2022",
+        "make": "Ford",
+        "model": "F250SD",
+        "trim": "XLTCrew Cab 4WD SWB"
+    },
+    {
+        "year": "2022",
+        "make": "Ford",
+        "model": "F250SD",
+        "trim": "XLTReg Cab 2WD"
+    },
+    {
+        "year": "2022",
+        "make": "Ford",
+        "model": "F250SD",
+        "trim": "XLTReg Cab 4WD"
+    },
+    {
+        "year": "2022",
+        "make": "Ford",
+        "model": "F250SD",
+        "trim": "XLTSupercab 2WD LWB"
+    },
+    {
+        "year": "2022",
+        "make": "Ford",
+        "model": "F250SD",
+        "trim": "XLTSupercab 2WD SWB"
+    },
+    {
+        "year": "2022",
+        "make": "Ford",
+        "model": "F250SD",
+        "trim": "XLTSupercab 4WD LWB"
+    },
+    {
+        "year": "2022",
+        "make": "Ford",
+        "model": "F250SD",
+        "trim": "XLTSupercab 4WD SWB"
+    },
+    {
+        "year": "2022",
+        "make": "Ford",
+        "model": "F350SD",
+        "trim": "King RanchCrew Cab 4WD LWB DRW"
+    },
+    {
+        "year": "2022",
+        "make": "Ford",
+        "model": "F350SD",
+        "trim": "King RanchCrew Cab 4WD LWB SRW"
+    },
+    {
+        "year": "2022",
+        "make": "Ford",
+        "model": "F350SD",
+        "trim": "King RanchCrew Cab 4WD SWB SRW"
+    },
+    {
+        "year": "2022",
+        "make": "Ford",
+        "model": "F350SD",
+        "trim": "LariatCrew Cab 2WD LWB DRW"
+    },
+    {
+        "year": "2022",
+        "make": "Ford",
+        "model": "F350SD",
+        "trim": "LariatCrew Cab 2WD LWB SRW"
+    },
+    {
+        "year": "2022",
+        "make": "Ford",
+        "model": "F350SD",
+        "trim": "LariatCrew Cab 2WD SWB SRW"
+    },
+    {
+        "year": "2022",
+        "make": "Ford",
+        "model": "F350SD",
+        "trim": "LariatCrew Cab 4WD LWB DRW"
+    },
+    {
+        "year": "2022",
+        "make": "Ford",
+        "model": "F350SD",
+        "trim": "LariatCrew Cab 4WD LWB SRW"
+    },
+    {
+        "year": "2022",
+        "make": "Ford",
+        "model": "F350SD",
+        "trim": "LariatCrew Cab 4WD SWB SRW"
+    },
+    {
+        "year": "2022",
+        "make": "Ford",
+        "model": "F350SD",
+        "trim": "LariatSupercab 2WD DRW"
+    },
+    {
+        "year": "2022",
+        "make": "Ford",
+        "model": "F350SD",
+        "trim": "LariatSupercab 2WD LWB SRW"
+    },
+    {
+        "year": "2022",
+        "make": "Ford",
+        "model": "F350SD",
+        "trim": "LariatSupercab 2WD SWB SRW"
+    },
+    {
+        "year": "2022",
+        "make": "Ford",
+        "model": "F350SD",
+        "trim": "LariatSupercab 4WD DRW"
+    },
+    {
+        "year": "2022",
+        "make": "Ford",
+        "model": "F350SD",
+        "trim": "LariatSupercab 4WD LWB SRW"
+    },
+    {
+        "year": "2022",
+        "make": "Ford",
+        "model": "F350SD",
+        "trim": "LariatSupercab 4WD SWB SRW"
+    },
+    {
+        "year": "2022",
+        "make": "Ford",
+        "model": "F350SD",
+        "trim": "LimitedCrew Cab 4WD LWB DRW"
+    },
+    {
+        "year": "2022",
+        "make": "Ford",
+        "model": "F350SD",
+        "trim": "LimitedCrew Cab 4WD LWB SRW"
+    },
+    {
+        "year": "2022",
+        "make": "Ford",
+        "model": "F350SD",
+        "trim": "LimitedCrew Cab 4WD SWB SRW"
+    },
+    {
+        "year": "2022",
+        "make": "Ford",
+        "model": "F350SD",
+        "trim": "PlatinumCrew Cab 4WD LWB DRW"
+    },
+    {
+        "year": "2022",
+        "make": "Ford",
+        "model": "F350SD",
+        "trim": "PlatinumCrew Cab 4WD LWB SRW"
+    },
+    {
+        "year": "2022",
+        "make": "Ford",
+        "model": "F350SD",
+        "trim": "PlatinumCrew Cab 4WD SWB SRW"
+    },
+    {
+        "year": "2022",
+        "make": "Ford",
+        "model": "F350SD",
+        "trim": "XLCrew Cab 2WD LWB DRW"
+    },
+    {
+        "year": "2022",
+        "make": "Ford",
+        "model": "F350SD",
+        "trim": "XLCrew Cab 2WD LWB SRW"
+    },
+    {
+        "year": "2022",
+        "make": "Ford",
+        "model": "F350SD",
+        "trim": "XLCrew Cab 2WD SWB SRW"
+    },
+    {
+        "year": "2022",
+        "make": "Ford",
+        "model": "F350SD",
+        "trim": "XLCrew Cab 4WD LWB DRW"
+    },
+    {
+        "year": "2022",
+        "make": "Ford",
+        "model": "F350SD",
+        "trim": "XLCrew Cab 4WD LWB SRW"
+    },
+    {
+        "year": "2022",
+        "make": "Ford",
+        "model": "F350SD",
+        "trim": "XLCrew Cab 4WD SWB SRW"
+    },
+    {
+        "year": "2022",
+        "make": "Ford",
+        "model": "F350SD",
+        "trim": "XLReg Cab 2WD DRW"
+    },
+    {
+        "year": "2022",
+        "make": "Ford",
+        "model": "F350SD",
+        "trim": "XLReg Cab 2WD SRW"
+    },
+    {
+        "year": "2022",
+        "make": "Ford",
+        "model": "F350SD",
+        "trim": "XLReg Cab 4WD DRW"
+    },
+    {
+        "year": "2022",
+        "make": "Ford",
+        "model": "F350SD",
+        "trim": "XLReg Cab 4WD SRW"
+    },
+    {
+        "year": "2022",
+        "make": "Ford",
+        "model": "F350SD",
+        "trim": "XLSupercab 2WD DRW"
+    },
+    {
+        "year": "2022",
+        "make": "Ford",
+        "model": "F350SD",
+        "trim": "XLSupercab 2WD LWB SRW"
+    },
+    {
+        "year": "2022",
+        "make": "Ford",
+        "model": "F350SD",
+        "trim": "XLSupercab 2WD SWB SRW"
+    },
+    {
+        "year": "2022",
+        "make": "Ford",
+        "model": "F350SD",
+        "trim": "XLSupercab 4WD DRW"
+    },
+    {
+        "year": "2022",
+        "make": "Ford",
+        "model": "F350SD",
+        "trim": "XLSupercab 4WD LWB SRW"
+    },
+    {
+        "year": "2022",
+        "make": "Ford",
+        "model": "F350SD",
+        "trim": "XLSupercab 4WD SWB SRW"
+    },
+    {
+        "year": "2022",
+        "make": "Ford",
+        "model": "F350SD",
+        "trim": "XLTCrew Cab 2WD LWB DRW"
+    },
+    {
+        "year": "2022",
+        "make": "Ford",
+        "model": "F350SD",
+        "trim": "XLTCrew Cab 2WD LWB SRW"
+    },
+    {
+        "year": "2022",
+        "make": "Ford",
+        "model": "F350SD",
+        "trim": "XLTCrew Cab 2WD SWB SRW"
+    },
+    {
+        "year": "2022",
+        "make": "Ford",
+        "model": "F350SD",
+        "trim": "XLTCrew Cab 4WD LWB DRW"
+    },
+    {
+        "year": "2022",
+        "make": "Ford",
+        "model": "F350SD",
+        "trim": "XLTCrew Cab 4WD LWB SRW"
+    },
+    {
+        "year": "2022",
+        "make": "Ford",
+        "model": "F350SD",
+        "trim": "XLTCrew Cab 4WD SWB SRW"
+    },
+    {
+        "year": "2022",
+        "make": "Ford",
+        "model": "F350SD",
+        "trim": "XLTReg Cab 2WD DRW"
+    },
+    {
+        "year": "2022",
+        "make": "Ford",
+        "model": "F350SD",
+        "trim": "XLTReg Cab 2WD SRW"
+    },
+    {
+        "year": "2022",
+        "make": "Ford",
+        "model": "F350SD",
+        "trim": "XLTReg Cab 4WD DRW"
+    },
+    {
+        "year": "2022",
+        "make": "Ford",
+        "model": "F350SD",
+        "trim": "XLTReg Cab 4WD SRW"
+    },
+    {
+        "year": "2022",
+        "make": "Ford",
+        "model": "F350SD",
+        "trim": "XLTSupercab 2WD DRW"
+    },
+    {
+        "year": "2022",
+        "make": "Ford",
+        "model": "F350SD",
+        "trim": "XLTSupercab 2WD LWB SRW"
+    },
+    {
+        "year": "2022",
+        "make": "Ford",
+        "model": "F350SD",
+        "trim": "XLTSupercab 2WD SWB SRW"
+    },
+    {
+        "year": "2022",
+        "make": "Ford",
+        "model": "F350SD",
+        "trim": "XLTSupercab 4WD DRW"
+    },
+    {
+        "year": "2022",
+        "make": "Ford",
+        "model": "F350SD",
+        "trim": "XLTSupercab 4WD LWB SRW"
+    },
+    {
+        "year": "2022",
+        "make": "Ford",
+        "model": "F350SD",
+        "trim": "XLTSupercab 4WD SWB SRW"
+    },
+    {
+        "year": "2022",
+        "make": "Ford",
+        "model": "F450SD",
+        "trim": "King RanchCrew Cab 4WD"
+    },
+    {
+        "year": "2022",
+        "make": "Ford",
+        "model": "F450SD",
+        "trim": "LariatCrew Cab 2WD"
+    },
+    {
+        "year": "2022",
+        "make": "Ford",
+        "model": "F450SD",
+        "trim": "LariatCrew Cab 4WD"
+    },
+    {
+        "year": "2022",
+        "make": "Ford",
+        "model": "F450SD",
+        "trim": "LimitedCrew Cab 4WD"
+    },
+    {
+        "year": "2022",
+        "make": "Ford",
+        "model": "F450SD",
+        "trim": "PlatinumCrew Cab 4WD"
+    },
+    {
+        "year": "2022",
+        "make": "Ford",
+        "model": "F450SD",
+        "trim": "XLCrew Cab 2WD"
+    },
+    {
+        "year": "2022",
+        "make": "Ford",
+        "model": "F450SD",
+        "trim": "XLCrew Cab 4WD"
+    },
+    {
+        "year": "2022",
+        "make": "Ford",
+        "model": "F450SD",
+        "trim": "XLReg Cab 2WD"
+    },
+    {
+        "year": "2022",
+        "make": "Ford",
+        "model": "F450SD",
+        "trim": "XLReg Cab 4WD"
+    },
+    {
+        "year": "2022",
+        "make": "Ford",
+        "model": "F450SD",
+        "trim": "XLTCrew Cab 2WD"
+    },
+    {
+        "year": "2022",
+        "make": "Ford",
+        "model": "F450SD",
+        "trim": "XLTCrew Cab 4WD"
+    },
+    {
+        "year": "2022",
+        "make": "Ford",
+        "model": "F450SD",
+        "trim": "XLTReg Cab 2WD"
+    },
+    {
+        "year": "2022",
+        "make": "Ford",
+        "model": "F450SD",
+        "trim": "XLTReg Cab 4WD"
+    },
+    {
+        "year": "2022",
+        "make": "Ford",
+        "model": "Maverick",
+        "trim": "LariatCrew Cab AWD"
+    },
+    {
+        "year": "2022",
+        "make": "Ford",
+        "model": "Maverick",
+        "trim": "LariatCrew Cab FWD"
+    },
+    {
+        "year": "2022",
+        "make": "Ford",
+        "model": "Maverick",
+        "trim": "XLCrew Cab AWD"
+    },
+    {
+        "year": "2022",
+        "make": "Ford",
+        "model": "Maverick",
+        "trim": "XLCrew Cab FWD"
+    },
+    {
+        "year": "2022",
+        "make": "Ford",
+        "model": "Maverick",
+        "trim": "XLTCrew Cab AWD"
+    },
+    {
+        "year": "2022",
+        "make": "Ford",
+        "model": "Maverick",
+        "trim": "XLTCrew Cab FWD"
+    },
+    {
+        "year": "2022",
+        "make": "Honda",
+        "model": "Civic",
+        "trim": "EX4D Sedan at"
+    },
+    {
+        "year": "2022",
+        "make": "Honda",
+        "model": "Civic",
+        "trim": "LX4D Sedan at"
+    },
+    {
+        "year": "2022",
+        "make": "Honda",
+        "model": "Civic",
+        "trim": "Sport4D Sedan at"
+    },
+    {
+        "year": "2022",
+        "make": "Honda",
+        "model": "Civic",
+        "trim": "Touring4D Sedan at"
+    },
+    {
+        "year": "2022",
+        "make": "Honda",
+        "model": "HR-V",
+        "trim": "EX4D SUV AWD at"
+    },
+    {
+        "year": "2022",
+        "make": "Honda",
+        "model": "HR-V",
+        "trim": "EX4D SUV FWD at"
+    },
+    {
+        "year": "2022",
+        "make": "Honda",
+        "model": "HR-V",
+        "trim": "EX-L4D SUV AWD at"
+    },
+    {
+        "year": "2022",
+        "make": "Honda",
+        "model": "HR-V",
+        "trim": "EX-L4D SUV FWD at"
+    },
+    {
+        "year": "2022",
+        "make": "Honda",
+        "model": "HR-V",
+        "trim": "LX4D SUV AWD at"
+    },
+    {
+        "year": "2022",
+        "make": "Honda",
+        "model": "HR-V",
+        "trim": "LX4D SUV FWD at"
+    },
+    {
+        "year": "2022",
+        "make": "Honda",
+        "model": "HR-V",
+        "trim": "Sport4D SUV AWD at"
+    },
+    {
+        "year": "2022",
+        "make": "Honda",
+        "model": "HR-V",
+        "trim": "Sport4D SUV FWD at"
+    },
+    {
+        "year": "2022",
+        "make": "Honda",
+        "model": "Insight",
+        "trim": "EX4D Sedan"
+    },
+    {
+        "year": "2022",
+        "make": "Honda",
+        "model": "Insight",
+        "trim": "Touring4D Sedan"
+    },
+    {
+        "year": "2022",
+        "make": "Honda",
+        "model": "Odyssey",
+        "trim": "EliteWagon"
+    },
+    {
+        "year": "2022",
+        "make": "Honda",
+        "model": "Odyssey",
+        "trim": "EXWagon"
+    },
+    {
+        "year": "2022",
+        "make": "Honda",
+        "model": "Odyssey",
+        "trim": "EX-LWagon"
+    },
+    {
+        "year": "2022",
+        "make": "Honda",
+        "model": "Odyssey",
+        "trim": "LXWagon"
+    },
+    {
+        "year": "2022",
+        "make": "Honda",
+        "model": "Odyssey",
+        "trim": "TouringWagon"
+    },
+    {
+        "year": "2022",
+        "make": "Honda",
+        "model": "Pilot",
+        "trim": "Black Edition4D SUV AWD"
+    },
+    {
+        "year": "2022",
+        "make": "Honda",
+        "model": "Pilot",
+        "trim": "Elite4D SUV AWD"
+    },
+    {
+        "year": "2022",
+        "make": "Honda",
+        "model": "Pilot",
+        "trim": "EX-L4D SUV AWD"
+    },
+    {
+        "year": "2022",
+        "make": "Honda",
+        "model": "Pilot",
+        "trim": "EX-L4D SUV FWD"
+    },
+    {
+        "year": "2022",
+        "make": "Honda",
+        "model": "Pilot",
+        "trim": "SE4D SUV AWD"
+    },
+    {
+        "year": "2022",
+        "make": "Honda",
+        "model": "Pilot",
+        "trim": "SE4D SUV FWD"
+    },
+    {
+        "year": "2022",
+        "make": "Honda",
+        "model": "Pilot",
+        "trim": "Touring4D SUV AWD"
+    },
+    {
+        "year": "2022",
+        "make": "Honda",
+        "model": "Pilot",
+        "trim": "Touring4D SUV AWD w/CapChrs"
+    },
+    {
+        "year": "2022",
+        "make": "Honda",
+        "model": "Pilot",
+        "trim": "Touring4D SUV FWD"
+    },
+    {
+        "year": "2022",
+        "make": "Honda",
+        "model": "Pilot",
+        "trim": "Touring4D SUV FWD w/CapChrs"
+    },
+    {
+        "year": "2022",
+        "make": "Hyundai",
+        "model": "Accent",
+        "trim": "Limited4D Sedan at"
+    },
+    {
+        "year": "2022",
+        "make": "Hyundai",
+        "model": "Accent",
+        "trim": "SE4D Sedan at"
+    },
+    {
+        "year": "2022",
+        "make": "Hyundai",
+        "model": "Accent",
+        "trim": "SEL4D Sedan at"
+    },
+    {
+        "year": "2022",
+        "make": "Hyundai",
+        "model": "Elantra",
+        "trim": "Blue HEV4D Sedan at"
+    },
+    {
+        "year": "2022",
+        "make": "Hyundai",
+        "model": "Elantra",
+        "trim": "Limited4D Sedan at"
+    },
+    {
+        "year": "2022",
+        "make": "Hyundai",
+        "model": "Elantra",
+        "trim": "Limited HEV4D Sedan at"
+    },
+    {
+        "year": "2022",
+        "make": "Hyundai",
+        "model": "Elantra",
+        "trim": "N-Line4D Sedan 6sp"
+    },
+    {
+        "year": "2022",
+        "make": "Hyundai",
+        "model": "Elantra",
+        "trim": "N-Line4D Sedan at"
+    },
+    {
+        "year": "2022",
+        "make": "Hyundai",
+        "model": "Elantra",
+        "trim": "SE4D Sedan at"
+    },
+    {
+        "year": "2022",
+        "make": "Hyundai",
+        "model": "Elantra",
+        "trim": "SEL4D Sedan at"
+    },
+    {
+        "year": "2022",
+        "make": "Hyundai",
+        "model": "Ioniq",
+        "trim": "Limited4D Hbk Plug-In Hyb"
+    },
+    {
+        "year": "2022",
+        "make": "Hyundai",
+        "model": "Ioniq",
+        "trim": "SE4D Hbk Plug-In Hyb"
+    },
+    {
+        "year": "2022",
+        "make": "Hyundai",
+        "model": "Ioniq",
+        "trim": "SEL4D Hbk Plug-In Hyb"
+    },
+    {
+        "year": "2022",
+        "make": "Hyundai",
+        "model": "Kona",
+        "trim": "EV Limited4D SUV FWD"
+    },
+    {
+        "year": "2022",
+        "make": "Hyundai",
+        "model": "Kona",
+        "trim": "EV SEL4D SUV FWD"
+    },
+    {
+        "year": "2022",
+        "make": "Hyundai",
+        "model": "Kona",
+        "trim": "Limited4D SUV AWD 1.6T"
+    },
+    {
+        "year": "2022",
+        "make": "Hyundai",
+        "model": "Kona",
+        "trim": "Limited4D SUV FWD 1.6T"
+    },
+    {
+        "year": "2022",
+        "make": "Hyundai",
+        "model": "Kona",
+        "trim": "N-Line4D SUV AWD 1.6T"
+    },
+    {
+        "year": "2022",
+        "make": "Hyundai",
+        "model": "Kona",
+        "trim": "N-Line4D SUV FWD 1.6T"
+    },
+    {
+        "year": "2022",
+        "make": "Hyundai",
+        "model": "Kona",
+        "trim": "SE4D SUV AWD 2.0L"
+    },
+    {
+        "year": "2022",
+        "make": "Hyundai",
+        "model": "Kona",
+        "trim": "SE4D SUV FWD 2.0L"
+    },
+    {
+        "year": "2022",
+        "make": "Hyundai",
+        "model": "Kona",
+        "trim": "SEL4D SUV AWD 2.0L"
+    },
+    {
+        "year": "2022",
+        "make": "Hyundai",
+        "model": "Kona",
+        "trim": "SEL4D SUV FWD 2.0L"
+    },
+    {
+        "year": "2022",
+        "make": "Hyundai",
+        "model": "Palisade",
+        "trim": "Calligraphy4D SUV AWD"
+    },
+    {
+        "year": "2022",
+        "make": "Hyundai",
+        "model": "Palisade",
+        "trim": "Calligraphy4D SUV FWD"
+    },
+    {
+        "year": "2022",
+        "make": "Hyundai",
+        "model": "Palisade",
+        "trim": "Limited4D SUV AWD"
+    },
+    {
+        "year": "2022",
+        "make": "Hyundai",
+        "model": "Palisade",
+        "trim": "Limited4D SUV FWD"
+    },
+    {
+        "year": "2022",
+        "make": "Hyundai",
+        "model": "Palisade",
+        "trim": "SE4D SUV AWD"
+    },
+    {
+        "year": "2022",
+        "make": "Hyundai",
+        "model": "Palisade",
+        "trim": "SE4D SUV FWD"
+    },
+    {
+        "year": "2022",
+        "make": "Hyundai",
+        "model": "Palisade",
+        "trim": "SEL4D SUV AWD"
+    },
+    {
+        "year": "2022",
+        "make": "Hyundai",
+        "model": "Palisade",
+        "trim": "SEL4D SUV FWD"
+    },
+    {
+        "year": "2022",
+        "make": "Hyundai",
+        "model": "Santa Cruz",
+        "trim": "LimitedCrew Cab AWD"
+    },
+    {
+        "year": "2022",
+        "make": "Hyundai",
+        "model": "Santa Cruz",
+        "trim": "SECrew Cab AWD"
+    },
+    {
+        "year": "2022",
+        "make": "Hyundai",
+        "model": "Santa Cruz",
+        "trim": "SECrew Cab FWD"
+    },
+    {
+        "year": "2022",
+        "make": "Hyundai",
+        "model": "Santa Cruz",
+        "trim": "SELCrew Cab AWD"
+    },
+    {
+        "year": "2022",
+        "make": "Hyundai",
+        "model": "Santa Cruz",
+        "trim": "SELCrew Cab FWD"
+    },
+    {
+        "year": "2022",
+        "make": "Hyundai",
+        "model": "Santa Cruz",
+        "trim": "SEL PremiumCrew Cab AWD"
+    },
+    {
+        "year": "2022",
+        "make": "Hyundai",
+        "model": "Santa Fe",
+        "trim": "Blue HEV4D SUV AWD"
+    },
+    {
+        "year": "2022",
+        "make": "Hyundai",
+        "model": "Santa Fe",
+        "trim": "Calligraphy4D SUV AWD 2.5T"
+    },
+    {
+        "year": "2022",
+        "make": "Hyundai",
+        "model": "Santa Fe",
+        "trim": "Calligraphy4D SUV FWD 2.5T"
+    },
+    {
+        "year": "2022",
+        "make": "Hyundai",
+        "model": "Santa Fe",
+        "trim": "Limited4D SUV AWD 2.5T"
+    },
+    {
+        "year": "2022",
+        "make": "Hyundai",
+        "model": "Santa Fe",
+        "trim": "Limited4D SUV FWD 2.5T"
+    },
+    {
+        "year": "2022",
+        "make": "Hyundai",
+        "model": "Santa Fe",
+        "trim": "Limited HEV4D SUV AWD"
+    },
+    {
+        "year": "2022",
+        "make": "Hyundai",
+        "model": "Santa Fe",
+        "trim": "Limited PHEV4D SUV AWD"
+    },
+    {
+        "year": "2022",
+        "make": "Hyundai",
+        "model": "Santa Fe",
+        "trim": "SE4D SUV AWD 2.5L"
+    },
+    {
+        "year": "2022",
+        "make": "Hyundai",
+        "model": "Santa Fe",
+        "trim": "SE4D SUV FWD 2.5L"
+    },
+    {
+        "year": "2022",
+        "make": "Hyundai",
+        "model": "Santa Fe",
+        "trim": "SEL4D SUV AWD 2.5L"
+    },
+    {
+        "year": "2022",
+        "make": "Hyundai",
+        "model": "Santa Fe",
+        "trim": "SEL4D SUV FWD 2.5L"
+    },
+    {
+        "year": "2022",
+        "make": "Hyundai",
+        "model": "Santa Fe",
+        "trim": "SEL Convenience PHEV4D SUV AWD"
+    },
+    {
+        "year": "2022",
+        "make": "Hyundai",
+        "model": "Santa Fe",
+        "trim": "SEL Premium HEV4D SUV AWD"
+    },
+    {
+        "year": "2022",
+        "make": "Hyundai",
+        "model": "Santa Fe",
+        "trim": "XRT4D SUV AWD 2.5L"
+    },
+    {
+        "year": "2022",
+        "make": "Hyundai",
+        "model": "Santa Fe",
+        "trim": "XRT4D SUV FWD 2.5L"
+    },
+    {
+        "year": "2022",
+        "make": "Hyundai",
+        "model": "Sonata",
+        "trim": "Hybrid Blue4D Sedan"
+    },
+    {
+        "year": "2022",
+        "make": "Hyundai",
+        "model": "Sonata",
+        "trim": "Hybrid Limited4D Sedan"
+    },
+    {
+        "year": "2022",
+        "make": "Hyundai",
+        "model": "Sonata",
+        "trim": "Hybrid SEL4D Sedan"
+    },
+    {
+        "year": "2022",
+        "make": "Hyundai",
+        "model": "Sonata",
+        "trim": "Limited4D Sedan"
+    },
+    {
+        "year": "2022",
+        "make": "Hyundai",
+        "model": "Sonata",
+        "trim": "N-Line4D Sedan"
+    },
+    {
+        "year": "2022",
+        "make": "Hyundai",
+        "model": "Sonata",
+        "trim": "N-Line Night Edition4D Sedan"
+    },
+    {
+        "year": "2022",
+        "make": "Hyundai",
+        "model": "Sonata",
+        "trim": "SE4D Sedan"
+    },
+    {
+        "year": "2022",
+        "make": "Hyundai",
+        "model": "Sonata",
+        "trim": "SEL4D Sedan"
+    },
+    {
+        "year": "2022",
+        "make": "Hyundai",
+        "model": "Sonata",
+        "trim": "SEL Plus4D Sedan"
+    },
+    {
+        "year": "2022",
+        "make": "Hyundai",
+        "model": "Tucson",
+        "trim": "Blue HEV4D SUV AWD"
+    },
+    {
+        "year": "2022",
+        "make": "Hyundai",
+        "model": "Tucson",
+        "trim": "Limited4D SUV AWD"
+    },
+    {
+        "year": "2022",
+        "make": "Hyundai",
+        "model": "Tucson",
+        "trim": "Limited4D SUV FWD"
+    },
+    {
+        "year": "2022",
+        "make": "Hyundai",
+        "model": "Tucson",
+        "trim": "Limited HEV4D SUV AWD"
+    },
+    {
+        "year": "2022",
+        "make": "Hyundai",
+        "model": "Tucson",
+        "trim": "N-Line4D SUV AWD"
+    },
+    {
+        "year": "2022",
+        "make": "Lexus",
+        "model": "RX 350",
+        "trim": "Base4D SUV AWD"
+    },
+    {
+        "year": "2022",
+        "make": "Lexus",
+        "model": "RX 350",
+        "trim": "Base4D SUV FWD"
+    },
+    {
+        "year": "2022",
+        "make": "Lexus",
+        "model": "RX 350",
+        "trim": "F Sport4D SUV AWD"
+    },
+    {
+        "year": "2022",
+        "make": "Lexus",
+        "model": "RX 350",
+        "trim": "F Sport4D SUV FWD"
+    },
+    {
+        "year": "2022",
+        "make": "Lexus",
+        "model": "RX 350",
+        "trim": "F Sport Handling4D SUV AWD"
+    },
+    {
+        "year": "2022",
+        "make": "Lexus",
+        "model": "RX 350",
+        "trim": "F Sport Handling4D SUV FWD"
+    },
+    {
+        "year": "2022",
+        "make": "Lexus",
+        "model": "RX 350L",
+        "trim": "Base4D SUV AWD"
+    },
+    {
+        "year": "2022",
+        "make": "Lexus",
+        "model": "RX 350L",
+        "trim": "Base4D SUV FWD"
+    },
+    {
+        "year": "2022",
+        "make": "Lexus",
+        "model": "RX 350L",
+        "trim": "Luxury4D SUV AWD"
+    },
+    {
+        "year": "2022",
+        "make": "Lexus",
+        "model": "RX 350L",
+        "trim": "Luxury4D SUV FWD"
+    },
+    {
+        "year": "2022",
+        "make": "Lexus",
+        "model": "RX 450h",
+        "trim": "F Sport4D SUV AWD"
+    },
+    {
+        "year": "2022",
+        "make": "Lexus",
+        "model": "RX 450h",
+        "trim": "F Sport Handling4D SUV AWD"
+    },
+    {
+        "year": "2022",
+        "make": "Lexus",
+        "model": "RX 450h",
+        "trim": "Hybrid4D SUV AWD"
+    },
+    {
+        "year": "2022",
+        "make": "Lexus",
+        "model": "RX 450hL",
+        "trim": "Base4D SUV AWD"
+    },
+    {
+        "year": "2022",
+        "make": "Lexus",
+        "model": "RX 450hL",
+        "trim": "Luxury4D SUV AWD"
+    },
+    {
+        "year": "2022",
+        "make": "Toyota",
+        "model": "4Runner",
+        "trim": "Limited4D SUV 4WD V6"
+    },
+    {
+        "year": "2022",
+        "make": "Toyota",
+        "model": "4Runner",
+        "trim": "Limited4D SUV RWD V6"
+    },
+    {
+        "year": "2022",
+        "make": "Toyota",
+        "model": "4Runner",
+        "trim": "SR54D SUV 4WD V6"
+    },
+    {
+        "year": "2022",
+        "make": "Toyota",
+        "model": "4Runner",
+        "trim": "SR54D SUV RWD V6"
+    },
+    {
+        "year": "2022",
+        "make": "Toyota",
+        "model": "4Runner",
+        "trim": "SR5 Premium4D SUV 4WD V6"
+    },
+    {
+        "year": "2022",
+        "make": "Toyota",
+        "model": "4Runner",
+        "trim": "SR5 Premium4D SUV RWD V6"
+    },
+    {
+        "year": "2022",
+        "make": "Toyota",
+        "model": "4Runner",
+        "trim": "Trail4D SUV 4WD V6"
+    },
+    {
+        "year": "2022",
+        "make": "Toyota",
+        "model": "4Runner",
+        "trim": "Trail4D SUV RWD V6"
+    },
+    {
+        "year": "2022",
+        "make": "Toyota",
+        "model": "4Runner",
+        "trim": "TRD Offroad4D SUV 4WD V6"
+    },
+    {
+        "year": "2022",
+        "make": "Toyota",
+        "model": "4Runner",
+        "trim": "TRD Offroad Premium4D SUV 4WD V6"
+    },
+    {
+        "year": "2022",
+        "make": "Toyota",
+        "model": "4Runner",
+        "trim": "TRD Pro4D SUV 4WD V6"
+    },
+    {
+        "year": "2022",
+        "make": "Toyota",
+        "model": "4Runner",
+        "trim": "TRD Sport4D SUV 4WD V6"
+    },
+    {
+        "year": "2022",
+        "make": "Toyota",
+        "model": "4Runner",
+        "trim": "TRD Sport4D SUV RWD V6"
+    },
+    {
+        "year": "2022",
+        "make": "Toyota",
+        "model": "Camry",
+        "trim": "Hybrid LE4D Sedan"
+    },
+    {
+        "year": "2022",
+        "make": "Toyota",
+        "model": "Camry",
+        "trim": "Hybrid Nightshade4D Sedan"
+    },
+    {
+        "year": "2022",
+        "make": "Toyota",
+        "model": "Camry",
+        "trim": "Hybrid SE4D Sedan"
+    },
+    {
+        "year": "2022",
+        "make": "Toyota",
+        "model": "Camry",
+        "trim": "Hybrid XLE4D Sedan"
+    },
+    {
+        "year": "2022",
+        "make": "Toyota",
+        "model": "Camry",
+        "trim": "Hybrid XSE4D Sedan"
+    },
+    {
+        "year": "2022",
+        "make": "Toyota",
+        "model": "Camry",
+        "trim": "LE4D Sedan"
+    },
+    {
+        "year": "2022",
+        "make": "Toyota",
+        "model": "Camry",
+        "trim": "LE4D Sedan AWD"
+    },
+    {
+        "year": "2022",
+        "make": "Toyota",
+        "model": "Camry",
+        "trim": "Nightshade4D Sedan"
+    },
+    {
+        "year": "2022",
+        "make": "Toyota",
+        "model": "Camry",
+        "trim": "Nightshade4D Sedan AWD"
+    },
+    {
+        "year": "2022",
+        "make": "Toyota",
+        "model": "Camry",
+        "trim": "SE4D Sedan"
+    },
+    {
+        "year": "2022",
+        "make": "Toyota",
+        "model": "Camry",
+        "trim": "SE4D Sedan AWD"
+    },
+    {
+        "year": "2022",
+        "make": "Toyota",
+        "model": "Camry",
+        "trim": "TRD4D Sedan V6"
+    },
+    {
+        "year": "2022",
+        "make": "Toyota",
+        "model": "Camry",
+        "trim": "XLE4D Sedan"
+    },
+    {
+        "year": "2022",
+        "make": "Toyota",
+        "model": "Camry",
+        "trim": "XLE4D Sedan AWD"
+    },
+    {
+        "year": "2022",
+        "make": "Toyota",
+        "model": "Camry",
+        "trim": "XLE4D Sedan V6"
+    },
+    {
+        "year": "2022",
+        "make": "Toyota",
+        "model": "Camry",
+        "trim": "XSE4D Sedan"
+    },
+    {
+        "year": "2022",
+        "make": "Toyota",
+        "model": "Camry",
+        "trim": "XSE4D Sedan AWD"
+    },
+    {
+        "year": "2022",
+        "make": "Toyota",
+        "model": "Camry",
+        "trim": "XSE4D Sedan V6"
+    },
+    {
+        "year": "2022",
+        "make": "Toyota",
+        "model": "Corolla",
+        "trim": "APEX SE4D Sedan 6sp"
+    },
+    {
+        "year": "2022",
+        "make": "Toyota",
+        "model": "Corolla",
+        "trim": "APEX SE4D Sedan at"
+    },
+    {
+        "year": "2022",
+        "make": "Toyota",
+        "model": "Corolla",
+        "trim": "APEX XSE4D Sedan at"
+    },
+    {
+        "year": "2022",
+        "make": "Toyota",
+        "model": "Corolla",
+        "trim": "L4D Sedan at"
+    },
+    {
+        "year": "2022",
+        "make": "Toyota",
+        "model": "Corolla",
+        "trim": "LE4D Sedan at"
+    },
+    {
+        "year": "2022",
+        "make": "Toyota",
+        "model": "Corolla",
+        "trim": "LE Hybrid4D Sedan at"
+    },
+    {
+        "year": "2022",
+        "make": "Toyota",
+        "model": "Corolla",
+        "trim": "SE4D Hatchback 6sp"
+    },
+    {
+        "year": "2022",
+        "make": "Toyota",
+        "model": "Corolla",
+        "trim": "SE4D Hatchback at"
+    },
+    {
+        "year": "2022",
+        "make": "Toyota",
+        "model": "Corolla",
+        "trim": "SE4D Sedan 6sp"
+    },
+    {
+        "year": "2022",
+        "make": "Toyota",
+        "model": "Corolla",
+        "trim": "SE4D Sedan at"
+    },
+    {
+        "year": "2022",
+        "make": "Toyota",
+        "model": "Corolla",
+        "trim": "SE Nightshade4D Hatchback at"
+    },
+    {
+        "year": "2022",
+        "make": "Toyota",
+        "model": "Corolla",
+        "trim": "SE Nightshade4D Sedan at"
+    },
+    {
+        "year": "2022",
+        "make": "Toyota",
+        "model": "Corolla",
+        "trim": "XLE4D Sedan at"
+    },
+    {
+        "year": "2022",
+        "make": "Toyota",
+        "model": "Corolla",
+        "trim": "XSE4D Hatchback 6sp"
+    },
+    {
+        "year": "2022",
+        "make": "Toyota",
+        "model": "Corolla",
+        "trim": "XSE4D Hatchback at"
+    },
+    {
+        "year": "2022",
+        "make": "Toyota",
+        "model": "Corolla",
+        "trim": "XSE4D Sedan at"
+    },
+    {
+        "year": "2022",
+        "make": "Toyota",
+        "model": "Prius",
+        "trim": "L4D Hatchback"
+    },
+    {
+        "year": "2022",
+        "make": "Toyota",
+        "model": "Prius",
+        "trim": "LE4D Hatchback"
+    },
+    {
+        "year": "2022",
+        "make": "Toyota",
+        "model": "Prius",
+        "trim": "LE4D Hatchback AWD-e"
+    },
+    {
+        "year": "2022",
+        "make": "Toyota",
+        "model": "Prius",
+        "trim": "Limited4D Hatchback"
+    },
+    {
+        "year": "2022",
+        "make": "Toyota",
+        "model": "Prius",
+        "trim": "XLE4D Hatchback"
+    },
+    {
+        "year": "2022",
+        "make": "Toyota",
+        "model": "Prius",
+        "trim": "XLE4D Hatchback AWD-e"
+    },
+    {
+        "year": "2022",
+        "make": "Toyota",
+        "model": "Prius Prime",
+        "trim": "LE4D Hatchback"
+    },
+    {
+        "year": "2022",
+        "make": "Toyota",
+        "model": "Prius Prime",
+        "trim": "Limited4D Hatchback"
+    },
+    {
+        "year": "2022",
+        "make": "Toyota",
+        "model": "Prius Prime",
+        "trim": "XLE4D Hatchback"
+    },
+    {
+        "year": "2022",
+        "make": "Toyota",
+        "model": "Sequoia",
+        "trim": "Limited4D SUV 4WD"
+    },
+    {
+        "year": "2022",
+        "make": "Toyota",
+        "model": "Sequoia",
+        "trim": "Limited4D SUV RWD"
+    },
+    {
+        "year": "2022",
+        "make": "Toyota",
+        "model": "Sequoia",
+        "trim": "Nightshade4D SUV 4WD"
+    },
+    {
+        "year": "2022",
+        "make": "Toyota",
+        "model": "Sequoia",
+        "trim": "Nightshade4D SUV RWD"
+    },
+    {
+        "year": "2022",
+        "make": "Toyota",
+        "model": "Sequoia",
+        "trim": "Platinum4D SUV 4WD"
+    },
+    {
+        "year": "2022",
+        "make": "Toyota",
+        "model": "Sequoia",
+        "trim": "Platinum4D SUV RWD"
+    },
+    {
+        "year": "2022",
+        "make": "Toyota",
+        "model": "Sequoia",
+        "trim": "SR54D SUV 4WD"
+    },
+    {
+        "year": "2022",
+        "make": "Toyota",
+        "model": "Sequoia",
+        "trim": "SR54D SUV RWD"
+    },
+    {
+        "year": "2022",
+        "make": "Toyota",
+        "model": "Sequoia",
+        "trim": "TRD Pro4D SUV 4WD"
+    },
+    {
+        "year": "2022",
+        "make": "Toyota",
+        "model": "Sequoia",
+        "trim": "TRD Sport4D SUV 4WD"
+    },
+    {
+        "year": "2022",
+        "make": "Toyota",
+        "model": "Sequoia",
+        "trim": "TRD Sport4D SUV RWD"
+    },
+    {
+        "year": "2022",
+        "make": "Toyota",
+        "model": "Sienna",
+        "trim": "Hyb XLE Woodland Ed5D Wagon 7 Pass AWD"
+    },
+    {
+        "year": "2022",
+        "make": "Toyota",
+        "model": "Sienna",
+        "trim": "Hybrid LE5D Wagon 8 Pass"
+    },
+    {
+        "year": "2021",
+        "make": "Acura",
+        "model": "ILX",
+        "trim": "4D Sdn w/Prem&A-SPEC"
+    },
+    {
+        "year": "2021",
+        "make": "Acura",
+        "model": "ILX",
+        "trim": "4D Sdn w/Tech&A-SPEC"
+    },
+    {
+        "year": "2021",
+        "make": "Acura",
+        "model": "ILX",
+        "trim": "4D Sedan"
+    },
+    {
+        "year": "2021",
+        "make": "Acura",
+        "model": "ILX",
+        "trim": "4D Sedan w/Prem Pkg"
+    },
+    {
+        "year": "2021",
+        "make": "Acura",
+        "model": "NSX",
+        "trim": "2D Coupe"
+    },
+    {
+        "year": "2021",
+        "make": "Acura",
+        "model": "RDX",
+        "trim": "Advance4D SUV AWD"
+    },
+    {
+        "year": "2021",
+        "make": "Acura",
+        "model": "RDX",
+        "trim": "Advance4D SUV FWD"
+    },
+    {
+        "year": "2021",
+        "make": "Acura",
+        "model": "RDX",
+        "trim": "Base4D SUV AWD"
+    },
+    {
+        "year": "2021",
+        "make": "Acura",
+        "model": "RDX",
+        "trim": "Base4D SUV AWD w/A-Spec"
+    },
+    {
+        "year": "2021",
+        "make": "Acura",
+        "model": "RDX",
+        "trim": "Base4D SUV AWD w/Tech"
+    },
+    {
+        "year": "2021",
+        "make": "Acura",
+        "model": "RDX",
+        "trim": "Base4D SUV FWD"
+    },
+    {
+        "year": "2021",
+        "make": "Acura",
+        "model": "RDX",
+        "trim": "Base4D SUV FWD w/A-Spec"
+    },
+    {
+        "year": "2021",
+        "make": "Acura",
+        "model": "RDX",
+        "trim": "Base4D SUV FWD w/Tech"
+    },
+    {
+        "year": "2021",
+        "make": "Acura",
+        "model": "TLX",
+        "trim": "Base 2.0L4D Sdn"
+    },
+    {
+        "year": "2021",
+        "make": "Acura",
+        "model": "TLX",
+        "trim": "Base 2.0L4D Sdn w/A-Spec"
+    },
+    {
+        "year": "2021",
+        "make": "Acura",
+        "model": "TLX",
+        "trim": "Base 2.0L4D Sdn w/Advance Pkg"
+    },
+    {
+        "year": "2021",
+        "make": "Acura",
+        "model": "TLX",
+        "trim": "Base 2.0L4D Sdn w/Tech Pkg"
+    },
+    {
+        "year": "2021",
+        "make": "Acura",
+        "model": "TLX",
+        "trim": "SH-AWD4D Sdn w/A-Spec"
+    },
+    {
+        "year": "2021",
+        "make": "Acura",
+        "model": "TLX",
+        "trim": "SH-AWD4D Sdn w/Advance Pkg"
+    },
+    {
+        "year": "2021",
+        "make": "Acura",
+        "model": "TLX",
+        "trim": "SH-AWD4D Sdn w/Tech Pkg"
+    },
+    {
+        "year": "2021",
+        "make": "Acura",
+        "model": "TLX",
+        "trim": "SH-AWD4D Sedan"
+    },
+    {
+        "year": "2021",
+        "make": "Acura",
+        "model": "TLX",
+        "trim": "Type S SH-AWD4D Sdn w/Perf Pkg"
+    },
+    {
+        "year": "2021",
+        "make": "Acura",
+        "model": "TLX",
+        "trim": "Type S SH-AWD4D Sedan"
+    },
+    {
+        "year": "2021",
+        "make": "Ford",
+        "model": "Bronco",
+        "trim": "Badlands2D SUV"
+    },
+    {
+        "year": "2021",
+        "make": "Ford",
+        "model": "Bronco",
+        "trim": "Badlands4D SUV"
+    },
+    {
+        "year": "2021",
+        "make": "Ford",
+        "model": "Bronco",
+        "trim": "Base2D SUV"
+    },
+    {
+        "year": "2021",
+        "make": "Ford",
+        "model": "Bronco",
+        "trim": "Base4D SUV"
+    },
+    {
+        "year": "2021",
+        "make": "Ford",
+        "model": "Bronco",
+        "trim": "Big Bend2D SUV"
+    },
+    {
+        "year": "2021",
+        "make": "Ford",
+        "model": "Bronco",
+        "trim": "Big Bend4D SUV"
+    },
+    {
+        "year": "2021",
+        "make": "Ford",
+        "model": "Bronco",
+        "trim": "Black Diamond2D SUV"
+    },
+    {
+        "year": "2021",
+        "make": "Ford",
+        "model": "Bronco",
+        "trim": "Black Diamond4D SUV"
+    },
+    {
+        "year": "2021",
+        "make": "Ford",
+        "model": "Bronco",
+        "trim": "First Edition2D SUV"
+    },
+    {
+        "year": "2021",
+        "make": "Ford",
+        "model": "Bronco",
+        "trim": "First Edition4D SUV"
+    },
+    {
+        "year": "2021",
+        "make": "Ford",
+        "model": "Bronco",
+        "trim": "Outer Banks2D SUV"
+    },
+    {
+        "year": "2021",
+        "make": "Ford",
+        "model": "Bronco",
+        "trim": "Outer Banks4D SUV"
+    },
+    {
+        "year": "2021",
+        "make": "Ford",
+        "model": "Bronco",
+        "trim": "Wildtrak2D SUV"
+    },
+    {
+        "year": "2021",
+        "make": "Ford",
+        "model": "Bronco",
+        "trim": "Wildtrak4D SUV"
+    },
+    {
+        "year": "2021",
+        "make": "Ford",
+        "model": "Bronco Sport",
+        "trim": "Badlands4D SUV"
+    },
+    {
+        "year": "2021",
+        "make": "Ford",
+        "model": "Bronco Sport",
+        "trim": "Base4D SUV"
+    },
+    {
+        "year": "2021",
+        "make": "Ford",
+        "model": "Bronco Sport",
+        "trim": "Big Bend4D SUV"
+    },
+    {
+        "year": "2021",
+        "make": "Ford",
+        "model": "Bronco Sport",
+        "trim": "First Edition4D SUV"
+    },
+    {
+        "year": "2021",
+        "make": "Ford",
+        "model": "Bronco Sport",
+        "trim": "Outer Banks4D SUV"
+    },
+    {
+        "year": "2021",
+        "make": "Ford",
+        "model": "Commercial Vans",
+        "trim": "E350Cutaway 138WB DRW"
+    },
+    {
+        "year": "2021",
+        "make": "Ford",
+        "model": "Commercial Vans",
+        "trim": "E350Cutaway 138WB SRW"
+    },
+    {
+        "year": "2021",
+        "make": "Ford",
+        "model": "Commercial Vans",
+        "trim": "E350Cutaway 158WB DRW"
+    },
+    {
+        "year": "2021",
+        "make": "Ford",
+        "model": "Commercial Vans",
+        "trim": "E350Cutaway 158WB SRW"
+    },
+    {
+        "year": "2021",
+        "make": "Ford",
+        "model": "Commercial Vans",
+        "trim": "E350Cutaway 176WB DRW"
+    },
+    {
+        "year": "2021",
+        "make": "Ford",
+        "model": "Commercial Vans",
+        "trim": "E450Cutaway 158WB DRW"
+    },
+    {
+        "year": "2021",
+        "make": "Ford",
+        "model": "Commercial Vans",
+        "trim": "E450Cutaway 176WB DRW"
+    },
+    {
+        "year": "2021",
+        "make": "Ford",
+        "model": "EcoSport",
+        "trim": "S4D SUV AWD"
+    },
+    {
+        "year": "2021",
+        "make": "Ford",
+        "model": "EcoSport",
+        "trim": "S4D SUV FWD"
+    },
+    {
+        "year": "2021",
+        "make": "Ford",
+        "model": "EcoSport",
+        "trim": "SE4D SUV AWD"
+    },
+    {
+        "year": "2021",
+        "make": "Ford",
+        "model": "EcoSport",
+        "trim": "SE4D SUV FWD"
+    },
+    {
+        "year": "2021",
+        "make": "Ford",
+        "model": "EcoSport",
+        "trim": "SES4D SUV AWD"
+    },
+    {
+        "year": "2021",
+        "make": "Ford",
+        "model": "EcoSport",
+        "trim": "Titanium4D SUV AWD"
+    },
+    {
+        "year": "2021",
+        "make": "Ford",
+        "model": "EcoSport",
+        "trim": "Titanium4D SUV FWD"
+    },
+    {
+        "year": "2021",
+        "make": "Ford",
+        "model": "Edge",
+        "trim": "SE4D SUV AWD"
+    },
+    {
+        "year": "2021",
+        "make": "Ford",
+        "model": "Edge",
+        "trim": "SE4D SUV FWD"
+    },
+    {
+        "year": "2021",
+        "make": "Ford",
+        "model": "Edge",
+        "trim": "SEL4D SUV AWD"
+    },
+    {
+        "year": "2021",
+        "make": "Ford",
+        "model": "Edge",
+        "trim": "SEL4D SUV FWD"
+    },
+    {
+        "year": "2021",
+        "make": "Ford",
+        "model": "Edge",
+        "trim": "ST4D SUV AWD"
+    },
+    {
+        "year": "2021",
+        "make": "Ford",
+        "model": "Edge",
+        "trim": "ST-Line4D SUV AWD"
+    },
+    {
+        "year": "2021",
+        "make": "Ford",
+        "model": "Edge",
+        "trim": "ST-Line4D SUV FWD"
+    },
+    {
+        "year": "2021",
+        "make": "Ford",
+        "model": "Edge",
+        "trim": "Titanium4D SUV AWD"
+    },
+    {
+        "year": "2021",
+        "make": "Ford",
+        "model": "Edge",
+        "trim": "Titanium4D SUV FWD"
+    },
+    {
+        "year": "2021",
+        "make": "Ford",
+        "model": "Escape",
+        "trim": "S4D SUV AWD"
+    },
+    {
+        "year": "2021",
+        "make": "Ford",
+        "model": "Escape",
+        "trim": "S4D SUV FWD"
+    },
+    {
+        "year": "2021",
+        "make": "Ford",
+        "model": "Escape",
+        "trim": "SE4D SUV AWD"
+    },
+    {
+        "year": "2021",
+        "make": "Ford",
+        "model": "Escape",
+        "trim": "SE4D SUV FWD"
+    },
+    {
+        "year": "2021",
+        "make": "Ford",
+        "model": "Escape",
+        "trim": "SE Sport Hybrid4D SUV AWD"
+    },
+    {
+        "year": "2021",
+        "make": "Ford",
+        "model": "Escape",
+        "trim": "SE Sport Hybrid4D SUV FWD"
+    },
+    {
+        "year": "2021",
+        "make": "Ford",
+        "model": "Escape",
+        "trim": "SEL4D SUV AWD"
+    },
+    {
+        "year": "2021",
+        "make": "Ford",
+        "model": "Escape",
+        "trim": "SEL4D SUV AWD 2.0L"
+    },
+    {
+        "year": "2021",
+        "make": "Ford",
+        "model": "Escape",
+        "trim": "SEL4D SUV FWD"
+    },
+    {
+        "year": "2021",
+        "make": "Ford",
+        "model": "Escape",
+        "trim": "SEL HEV4D SUV AWD"
+    },
+    {
+        "year": "2021",
+        "make": "Ford",
+        "model": "Escape",
+        "trim": "SEL HEV4D SUV FWD"
+    },
+    {
+        "year": "2021",
+        "make": "Ford",
+        "model": "Escape",
+        "trim": "Titanium4D SUV AWD"
+    },
+    {
+        "year": "2021",
+        "make": "Ford",
+        "model": "Escape",
+        "trim": "Titanium Hybrid4D SUV AWD"
+    },
+    {
+        "year": "2021",
+        "make": "Ford",
+        "model": "Escape",
+        "trim": "Titanium Hybrid4D SUV FWD"
+    },
+    {
+        "year": "2021",
+        "make": "Ford",
+        "model": "Expedition",
+        "trim": "King Ranch4D SUV 4WD"
+    },
+    {
+        "year": "2021",
+        "make": "Ford",
+        "model": "Expedition",
+        "trim": "King Ranch4D SUV RWD"
+    },
+    {
+        "year": "2021",
+        "make": "Ford",
+        "model": "Expedition",
+        "trim": "Limited4D SUV 4WD"
+    },
+    {
+        "year": "2021",
+        "make": "Ford",
+        "model": "Expedition",
+        "trim": "Limited4D SUV RWD"
+    },
+    {
+        "year": "2021",
+        "make": "Ford",
+        "model": "Expedition",
+        "trim": "Platinum4D SUV 4WD"
+    },
+    {
+        "year": "2021",
+        "make": "Ford",
+        "model": "Expedition",
+        "trim": "Platinum4D SUV RWD"
+    },
+    {
+        "year": "2021",
+        "make": "Ford",
+        "model": "Expedition",
+        "trim": "XL4D SUV 4WD"
+    },
+    {
+        "year": "2021",
+        "make": "Ford",
+        "model": "Expedition",
+        "trim": "XL4D SUV RWD"
+    },
+    {
+        "year": "2021",
+        "make": "Ford",
+        "model": "Expedition",
+        "trim": "XLT4D SUV 4WD"
+    },
+    {
+        "year": "2021",
+        "make": "Ford",
+        "model": "Expedition",
+        "trim": "XLT4D SUV RWD"
+    },
+    {
+        "year": "2021",
+        "make": "Ford",
+        "model": "Expedition Max",
+        "trim": "King Ranch4D SUV 4WD"
+    },
+    {
+        "year": "2021",
+        "make": "Ford",
+        "model": "Expedition Max",
+        "trim": "King Ranch4D SUV RWD"
+    },
+    {
+        "year": "2021",
+        "make": "Ford",
+        "model": "Expedition Max",
+        "trim": "Limited4D SUV 4WD"
+    },
+    {
+        "year": "2021",
+        "make": "Ford",
+        "model": "Expedition Max",
+        "trim": "Limited4D SUV RWD"
+    },
+    {
+        "year": "2021",
+        "make": "Ford",
+        "model": "Expedition Max",
+        "trim": "Platinum4D SUV 4WD"
+    },
+    {
+        "year": "2021",
+        "make": "Ford",
+        "model": "Expedition Max",
+        "trim": "Platinum4D SUV RWD"
+    },
+    {
+        "year": "2021",
+        "make": "Ford",
+        "model": "Expedition Max",
+        "trim": "XL4D SUV 4WD"
+    },
+    {
+        "year": "2021",
+        "make": "Ford",
+        "model": "Expedition Max",
+        "trim": "XL4D SUV RWD"
+    },
+    {
+        "year": "2021",
+        "make": "Ford",
+        "model": "Expedition Max",
+        "trim": "XLT4D SUV 4WD"
+    },
+    {
+        "year": "2021",
+        "make": "Ford",
+        "model": "Expedition Max",
+        "trim": "XLT4D SUV RWD"
+    },
+    {
+        "year": "2021",
+        "make": "Ford",
+        "model": "Explorer",
+        "trim": "Base4D SUV 4WD"
+    },
+    {
+        "year": "2021",
+        "make": "Ford",
+        "model": "Explorer",
+        "trim": "Base4D SUV RWD"
+    },
+    {
+        "year": "2021",
+        "make": "Ford",
+        "model": "Explorer",
+        "trim": "King Ranch4D SUV 4WD"
+    },
+    {
+        "year": "2021",
+        "make": "Ford",
+        "model": "Explorer",
+        "trim": "King Ranch4D SUV RWD"
+    },
+    {
+        "year": "2021",
+        "make": "Ford",
+        "model": "Explorer",
+        "trim": "Limited4D SUV 4WD"
+    },
+    {
+        "year": "2021",
+        "make": "Ford",
+        "model": "Explorer",
+        "trim": "Limited4D SUV RWD"
+    },
+    {
+        "year": "2021",
+        "make": "Ford",
+        "model": "Explorer",
+        "trim": "Limited HEV4D SUV 4WD"
+    },
+    {
+        "year": "2021",
+        "make": "Ford",
+        "model": "Explorer",
+        "trim": "Limited HEV4D SUV RWD"
+    },
+    {
+        "year": "2021",
+        "make": "Ford",
+        "model": "Explorer",
+        "trim": "Platinum4D SUV 4WD"
+    },
+    {
+        "year": "2021",
+        "make": "Ford",
+        "model": "Explorer",
+        "trim": "Platinum4D SUV RWD"
+    },
+    {
+        "year": "2021",
+        "make": "Ford",
+        "model": "Explorer",
+        "trim": "Platinum HEV4D SUV 4WD"
+    },
+    {
+        "year": "2021",
+        "make": "Ford",
+        "model": "Explorer",
+        "trim": "Police4D SUV AWD"
+    },
+    {
+        "year": "2021",
+        "make": "Ford",
+        "model": "Explorer",
+        "trim": "ST4D SUV 4WD"
+    },
+    {
+        "year": "2021",
+        "make": "Ford",
+        "model": "Explorer",
+        "trim": "XLT4D SUV 4WD"
+    },
+    {
+        "year": "2021",
+        "make": "Ford",
+        "model": "Explorer",
+        "trim": "XLT4D SUV RWD"
+    },
+    {
+        "year": "2021",
+        "make": "Ford",
+        "model": "F150",
+        "trim": "King RanchSupercrew 2WD 145"
+    },
+    {
+        "year": "2021",
+        "make": "Ford",
+        "model": "F150",
+        "trim": "King RanchSupercrew 2WD 157"
+    },
+    {
+        "year": "2021",
+        "make": "Ford",
+        "model": "F150",
+        "trim": "King RanchSupercrew 4WD 145"
+    },
+    {
+        "year": "2021",
+        "make": "Ford",
+        "model": "F150",
+        "trim": "King RanchSupercrew 4WD 157"
+    },
+    {
+        "year": "2021",
+        "make": "Ford",
+        "model": "F150",
+        "trim": "LariatSupercab 2WD 145"
+    },
+    {
+        "year": "2021",
+        "make": "Ford",
+        "model": "F150",
+        "trim": "LariatSupercab 2WD 163"
+    },
+    {
+        "year": "2021",
+        "make": "Ford",
+        "model": "F150",
+        "trim": "LariatSupercab 4WD 145"
+    },
+    {
+        "year": "2021",
+        "make": "Ford",
+        "model": "F150",
+        "trim": "LariatSupercab 4WD 163"
+    },
+    {
+        "year": "2021",
+        "make": "Ford",
+        "model": "F150",
+        "trim": "LariatSupercrew 2WD 145"
+    },
+    {
+        "year": "2021",
+        "make": "Ford",
+        "model": "F150",
+        "trim": "LariatSupercrew 2WD 157"
+    },
+    {
+        "year": "2021",
+        "make": "Ford",
+        "model": "F150",
+        "trim": "LariatSupercrew 4WD 145"
+    },
+    {
+        "year": "2021",
+        "make": "Ford",
+        "model": "F150",
+        "trim": "LariatSupercrew 4WD 157"
+    },
+    {
+        "year": "2021",
+        "make": "Ford",
+        "model": "F150",
+        "trim": "LimitedSupercrew 2WD 145"
+    },
+    {
+        "year": "2021",
+        "make": "Ford",
+        "model": "F150",
+        "trim": "LimitedSupercrew 4WD 145"
+    },
+    {
+        "year": "2021",
+        "make": "Ford",
+        "model": "F150",
+        "trim": "PlatinumSupercrew 2WD 145"
+    },
+    {
+        "year": "2021",
+        "make": "Ford",
+        "model": "F150",
+        "trim": "PlatinumSupercrew 2WD 157"
+    },
+    {
+        "year": "2021",
+        "make": "Ford",
+        "model": "F150",
+        "trim": "PlatinumSupercrew 4WD 145"
+    },
+    {
+        "year": "2021",
+        "make": "Ford",
+        "model": "F150",
+        "trim": "PlatinumSupercrew 4WD 157"
+    },
+    {
+        "year": "2021",
+        "make": "Ford",
+        "model": "F150",
+        "trim": "RaptorSupercrew 4WD 145"
+    },
+    {
+        "year": "2021",
+        "make": "Ford",
+        "model": "F150",
+        "trim": "TremorSupercrew 4WD 145"
+    },
+    {
+        "year": "2021",
+        "make": "Ford",
+        "model": "F150",
+        "trim": "XLReg Cab 2WD 122"
+    },
+    {
+        "year": "2021",
+        "make": "Ford",
+        "model": "F150",
+        "trim": "XLReg Cab 2WD 141"
+    },
+    {
+        "year": "2021",
+        "make": "Ford",
+        "model": "F150",
+        "trim": "XLReg Cab 4WD 122"
+    },
+    {
+        "year": "2021",
+        "make": "Ford",
+        "model": "F150",
+        "trim": "XLReg Cab 4WD 141"
+    },
+    {
+        "year": "2021",
+        "make": "Ford",
+        "model": "F150",
+        "trim": "XLSupercab 2WD 145"
+    },
+    {
+        "year": "2021",
+        "make": "Ford",
+        "model": "F150",
+        "trim": "XLSupercab 2WD 163"
+    },
+    {
+        "year": "2021",
+        "make": "Ford",
+        "model": "F150",
+        "trim": "XLSupercab 4WD 145"
+    },
+    {
+        "year": "2021",
+        "make": "Ford",
+        "model": "F150",
+        "trim": "XLSupercab 4WD 163"
+    },
+    {
+        "year": "2021",
+        "make": "Ford",
+        "model": "F150",
+        "trim": "XLSupercrew 2WD 145"
+    },
+    {
+        "year": "2021",
+        "make": "Ford",
+        "model": "F150",
+        "trim": "XLSupercrew 2WD 157"
+    },
+    {
+        "year": "2021",
+        "make": "Ford",
+        "model": "F150",
+        "trim": "XLSupercrew 4WD 145"
+    },
+    {
+        "year": "2021",
+        "make": "Ford",
+        "model": "F150",
+        "trim": "XLSupercrew 4WD 157"
+    },
+    {
+        "year": "2021",
+        "make": "Ford",
+        "model": "F150",
+        "trim": "XLTReg Cab 2WD 122"
+    },
+    {
+        "year": "2021",
+        "make": "Ford",
+        "model": "F150",
+        "trim": "XLTReg Cab 2WD 141"
+    },
+    {
+        "year": "2021",
+        "make": "Ford",
+        "model": "F150",
+        "trim": "XLTReg Cab 4WD 122"
+    },
+    {
+        "year": "2021",
+        "make": "Ford",
+        "model": "F150",
+        "trim": "XLTReg Cab 4WD 141"
+    },
+    {
+        "year": "2021",
+        "make": "Ford",
+        "model": "F150",
+        "trim": "XLTSupercab 2WD 145"
+    },
+    {
+        "year": "2021",
+        "make": "Ford",
+        "model": "F150",
+        "trim": "XLTSupercab 2WD 163"
+    },
+    {
+        "year": "2021",
+        "make": "Ford",
+        "model": "F150",
+        "trim": "XLTSupercab 4WD 145"
+    },
+    {
+        "year": "2021",
+        "make": "Ford",
+        "model": "F150",
+        "trim": "XLTSupercab 4WD 163"
+    },
+    {
+        "year": "2021",
+        "make": "Ford",
+        "model": "F150",
+        "trim": "XLTSupercrew 2WD 145"
+    },
+    {
+        "year": "2021",
+        "make": "Ford",
+        "model": "F150",
+        "trim": "XLTSupercrew 2WD 157"
+    },
+    {
+        "year": "2021",
+        "make": "Ford",
+        "model": "F150",
+        "trim": "XLTSupercrew 4WD 145"
+    },
+    {
+        "year": "2021",
+        "make": "Ford",
+        "model": "F150",
+        "trim": "XLTSupercrew 4WD 157"
+    },
+    {
+        "year": "2021",
+        "make": "Ford",
+        "model": "F250SD",
+        "trim": "King RanchCrew Cab 2WD LWB"
+    },
+    {
+        "year": "2021",
+        "make": "Ford",
+        "model": "F250SD",
+        "trim": "King RanchCrew Cab 2WD SWB"
+    },
+    {
+        "year": "2021",
+        "make": "Ford",
+        "model": "F250SD",
+        "trim": "King RanchCrew Cab 4WD LWB"
+    },
+    {
+        "year": "2021",
+        "make": "Ford",
+        "model": "F250SD",
+        "trim": "King RanchCrew Cab 4WD SWB"
+    },
+    {
+        "year": "2021",
+        "make": "Ford",
+        "model": "F250SD",
+        "trim": "LariatCrew Cab 2WD LWB"
+    },
+    {
+        "year": "2021",
+        "make": "Ford",
+        "model": "F250SD",
+        "trim": "LariatCrew Cab 2WD SWB"
+    },
+    {
+        "year": "2021",
+        "make": "Ford",
+        "model": "F250SD",
+        "trim": "LariatCrew Cab 4WD LWB"
+    },
+    {
+        "year": "2021",
+        "make": "Ford",
+        "model": "F250SD",
+        "trim": "LariatCrew Cab 4WD SWB"
+    },
+    {
+        "year": "2021",
+        "make": "Ford",
+        "model": "F250SD",
+        "trim": "LariatSupercab 2WD LWB"
+    },
+    {
+        "year": "2021",
+        "make": "Ford",
+        "model": "F250SD",
+        "trim": "LariatSupercab 2WD SWB"
+    },
+    {
+        "year": "2021",
+        "make": "Ford",
+        "model": "F250SD",
+        "trim": "LariatSupercab 4WD LWB"
+    },
+    {
+        "year": "2021",
+        "make": "Ford",
+        "model": "F250SD",
+        "trim": "LariatSupercab 4WD SWB"
+    },
+    {
+        "year": "2021",
+        "make": "Ford",
+        "model": "F250SD",
+        "trim": "LimitedCrew Cab 4WD LWB"
+    },
+    {
+        "year": "2021",
+        "make": "Ford",
+        "model": "F250SD",
+        "trim": "LimitedCrew Cab 4WD SWB"
+    },
+    {
+        "year": "2021",
+        "make": "Ford",
+        "model": "F250SD",
+        "trim": "PlatinumCrew Cab 4WD LWB"
+    },
+    {
+        "year": "2021",
+        "make": "Ford",
+        "model": "F250SD",
+        "trim": "PlatinumCrew Cab 4WD SWB"
+    },
+    {
+        "year": "2021",
+        "make": "Ford",
+        "model": "F250SD",
+        "trim": "XLCrew Cab 2WD LWB"
+    },
+    {
+        "year": "2021",
+        "make": "Ford",
+        "model": "F250SD",
+        "trim": "XLCrew Cab 2WD SWB"
+    },
+    {
+        "year": "2021",
+        "make": "Ford",
+        "model": "F250SD",
+        "trim": "XLCrew Cab 4WD LWB"
+    },
+    {
+        "year": "2021",
+        "make": "Ford",
+        "model": "F250SD",
+        "trim": "XLCrew Cab 4WD SWB"
+    },
+    {
+        "year": "2021",
+        "make": "Ford",
+        "model": "F250SD",
+        "trim": "XLReg Cab 2WD"
+    },
+    {
+        "year": "2021",
+        "make": "Ford",
+        "model": "F250SD",
+        "trim": "XLReg Cab 4WD"
+    },
+    {
+        "year": "2021",
+        "make": "Ford",
+        "model": "F250SD",
+        "trim": "XLSupercab 2WD LWB"
+    },
+    {
+        "year": "2021",
+        "make": "Ford",
+        "model": "F250SD",
+        "trim": "XLSupercab 2WD SWB"
+    },
+    {
+        "year": "2021",
+        "make": "Ford",
+        "model": "F250SD",
+        "trim": "XLSupercab 4WD LWB"
+    },
+    {
+        "year": "2021",
+        "make": "Ford",
+        "model": "F250SD",
+        "trim": "XLSupercab 4WD SWB"
+    },
+    {
+        "year": "2021",
+        "make": "Ford",
+        "model": "F250SD",
+        "trim": "XLTCrew Cab 2WD LWB"
+    },
+    {
+        "year": "2021",
+        "make": "Ford",
+        "model": "F250SD",
+        "trim": "XLTCrew Cab 2WD SWB"
+    },
+    {
+        "year": "2021",
+        "make": "Ford",
+        "model": "F250SD",
+        "trim": "XLTCrew Cab 4WD LWB"
+    },
+    {
+        "year": "2021",
+        "make": "Ford",
+        "model": "F250SD",
+        "trim": "XLTCrew Cab 4WD SWB"
+    },
+    {
+        "year": "2021",
+        "make": "Ford",
+        "model": "F250SD",
+        "trim": "XLTReg Cab 2WD"
+    },
+    {
+        "year": "2021",
+        "make": "Ford",
+        "model": "F250SD",
+        "trim": "XLTReg Cab 4WD"
+    },
+    {
+        "year": "2021",
+        "make": "Ford",
+        "model": "F250SD",
+        "trim": "XLTSupercab 2WD LWB"
+    },
+    {
+        "year": "2021",
+        "make": "Ford",
+        "model": "F250SD",
+        "trim": "XLTSupercab 2WD SWB"
+    },
+    {
+        "year": "2021",
+        "make": "Ford",
+        "model": "F250SD",
+        "trim": "XLTSupercab 4WD LWB"
+    },
+    {
+        "year": "2021",
+        "make": "Ford",
+        "model": "F250SD",
+        "trim": "XLTSupercab 4WD SWB"
+    },
+    {
+        "year": "2021",
+        "make": "Ford",
+        "model": "F350SD",
+        "trim": "King RanchCrew Cab 2WD LWB DRW"
+    },
+    {
+        "year": "2021",
+        "make": "Ford",
+        "model": "F350SD",
+        "trim": "King RanchCrew Cab 2WD LWB SRW"
+    },
+    {
+        "year": "2021",
+        "make": "Ford",
+        "model": "F350SD",
+        "trim": "King RanchCrew Cab 2WD SWB SRW"
+    },
+    {
+        "year": "2021",
+        "make": "Ford",
+        "model": "F350SD",
+        "trim": "King RanchCrew Cab 4WD LWB DRW"
+    },
+    {
+        "year": "2021",
+        "make": "Ford",
+        "model": "F350SD",
+        "trim": "King RanchCrew Cab 4WD LWB SRW"
+    },
+    {
+        "year": "2021",
+        "make": "Ford",
+        "model": "F350SD",
+        "trim": "King RanchCrew Cab 4WD SWB SRW"
+    },
+    {
+        "year": "2021",
+        "make": "Ford",
+        "model": "F350SD",
+        "trim": "LariatCrew Cab 2WD LWB DRW"
+    },
+    {
+        "year": "2021",
+        "make": "Ford",
+        "model": "F350SD",
+        "trim": "LariatCrew Cab 2WD LWB SRW"
+    },
+    {
+        "year": "2021",
+        "make": "Ford",
+        "model": "F350SD",
+        "trim": "LariatCrew Cab 2WD SWB SRW"
+    },
+    {
+        "year": "2021",
+        "make": "Ford",
+        "model": "F350SD",
+        "trim": "LariatCrew Cab 4WD LWB DRW"
+    },
+    {
+        "year": "2021",
+        "make": "Ford",
+        "model": "F350SD",
+        "trim": "LariatCrew Cab 4WD LWB SRW"
+    },
+    {
+        "year": "2021",
+        "make": "Ford",
+        "model": "F350SD",
+        "trim": "LariatCrew Cab 4WD SWB SRW"
+    },
+    {
+        "year": "2021",
+        "make": "Ford",
+        "model": "F350SD",
+        "trim": "LariatSupercab 2WD DRW"
+    },
+    {
+        "year": "2021",
+        "make": "Ford",
+        "model": "F350SD",
+        "trim": "LariatSupercab 2WD LWB SRW"
+    },
+    {
+        "year": "2021",
+        "make": "Ford",
+        "model": "F350SD",
+        "trim": "LariatSupercab 2WD SWB SRW"
+    },
+    {
+        "year": "2021",
+        "make": "Ford",
+        "model": "F350SD",
+        "trim": "LariatSupercab 4WD DRW"
+    },
+    {
+        "year": "2021",
+        "make": "Ford",
+        "model": "F350SD",
+        "trim": "LariatSupercab 4WD LWB SRW"
+    },
+    {
+        "year": "2021",
+        "make": "Ford",
+        "model": "F350SD",
+        "trim": "LariatSupercab 4WD SWB SRW"
+    },
+    {
+        "year": "2021",
+        "make": "Ford",
+        "model": "F350SD",
+        "trim": "LimitedCrew Cab 4WD LWB DRW"
+    },
+    {
+        "year": "2021",
+        "make": "Ford",
+        "model": "F350SD",
+        "trim": "LimitedCrew Cab 4WD LWB SRW"
+    },
+    {
+        "year": "2021",
+        "make": "Ford",
+        "model": "F350SD",
+        "trim": "LimitedCrew Cab 4WD SWB SRW"
+    },
+    {
+        "year": "2021",
+        "make": "Ford",
+        "model": "F350SD",
+        "trim": "PlatinumCrew Cab 2WD LWB DRW"
+    },
+    {
+        "year": "2021",
+        "make": "Ford",
+        "model": "F350SD",
+        "trim": "PlatinumCrew Cab 4WD LWB DRW"
+    },
+    {
+        "year": "2021",
+        "make": "Ford",
+        "model": "F350SD",
+        "trim": "PlatinumCrew Cab 4WD LWB SRW"
+    },
+    {
+        "year": "2021",
+        "make": "Ford",
+        "model": "F350SD",
+        "trim": "PlatinumCrew Cab 4WD SWB SRW"
+    },
+    {
+        "year": "2021",
+        "make": "Ford",
+        "model": "F350SD",
+        "trim": "XLCrew Cab 2WD LWB DRW"
+    },
+    {
+        "year": "2021",
+        "make": "Ford",
+        "model": "F350SD",
+        "trim": "XLCrew Cab 2WD LWB SRW"
+    },
+    {
+        "year": "2021",
+        "make": "Ford",
+        "model": "F350SD",
+        "trim": "XLCrew Cab 2WD SWB SRW"
+    },
+    {
+        "year": "2021",
+        "make": "Ford",
+        "model": "F350SD",
+        "trim": "XLCrew Cab 4WD LWB DRW"
+    },
+    {
+        "year": "2021",
+        "make": "Ford",
+        "model": "F350SD",
+        "trim": "XLCrew Cab 4WD LWB SRW"
+    },
+    {
+        "year": "2021",
+        "make": "Ford",
+        "model": "F350SD",
+        "trim": "XLCrew Cab 4WD SWB SRW"
+    },
+    {
+        "year": "2021",
+        "make": "Ford",
+        "model": "F350SD",
+        "trim": "XLReg Cab 2WD DRW"
+    },
+    {
+        "year": "2021",
+        "make": "Ford",
+        "model": "F350SD",
+        "trim": "XLReg Cab 2WD SRW"
+    },
+    {
+        "year": "2021",
+        "make": "Ford",
+        "model": "F350SD",
+        "trim": "XLReg Cab 4WD DRW"
+    },
+    {
+        "year": "2021",
+        "make": "Ford",
+        "model": "F350SD",
+        "trim": "XLReg Cab 4WD SRW"
+    },
+    {
+        "year": "2021",
+        "make": "Ford",
+        "model": "F350SD",
+        "trim": "XLSupercab 2WD DRW"
+    },
+    {
+        "year": "2021",
+        "make": "Ford",
+        "model": "F350SD",
+        "trim": "XLSupercab 2WD LWB SRW"
+    },
+    {
+        "year": "2021",
+        "make": "Ford",
+        "model": "F350SD",
+        "trim": "XLSupercab 2WD SWB SRW"
+    },
+    {
+        "year": "2021",
+        "make": "Ford",
+        "model": "F350SD",
+        "trim": "XLSupercab 4WD DRW"
+    },
+    {
+        "year": "2021",
+        "make": "Ford",
+        "model": "F350SD",
+        "trim": "XLSupercab 4WD LWB SRW"
+    },
+    {
+        "year": "2021",
+        "make": "Ford",
+        "model": "F350SD",
+        "trim": "XLSupercab 4WD SWB SRW"
+    },
+    {
+        "year": "2021",
+        "make": "Ford",
+        "model": "F350SD",
+        "trim": "XLTCrew Cab 2WD LWB DRW"
+    },
+    {
+        "year": "2021",
+        "make": "Ford",
+        "model": "F350SD",
+        "trim": "XLTCrew Cab 2WD LWB SRW"
+    },
+    {
+        "year": "2021",
+        "make": "Ford",
+        "model": "F350SD",
+        "trim": "XLTCrew Cab 2WD SWB SRW"
+    },
+    {
+        "year": "2021",
+        "make": "Ford",
+        "model": "F350SD",
+        "trim": "XLTCrew Cab 4WD LWB DRW"
+    },
+    {
+        "year": "2021",
+        "make": "Ford",
+        "model": "F350SD",
+        "trim": "XLTCrew Cab 4WD LWB SRW"
+    },
+    {
+        "year": "2021",
+        "make": "Ford",
+        "model": "F350SD",
+        "trim": "XLTCrew Cab 4WD SWB SRW"
+    },
+    {
+        "year": "2021",
+        "make": "Ford",
+        "model": "F350SD",
+        "trim": "XLTReg Cab 2WD DRW"
+    },
+    {
+        "year": "2021",
+        "make": "Ford",
+        "model": "F350SD",
+        "trim": "XLTReg Cab 2WD SRW"
+    },
+    {
+        "year": "2021",
+        "make": "Ford",
+        "model": "F350SD",
+        "trim": "XLTReg Cab 4WD DRW"
+    },
+    {
+        "year": "2021",
+        "make": "Ford",
+        "model": "F350SD",
+        "trim": "XLTReg Cab 4WD SRW"
+    },
+    {
+        "year": "2021",
+        "make": "Ford",
+        "model": "F350SD",
+        "trim": "XLTSupercab 2WD DRW"
+    },
+    {
+        "year": "2021",
+        "make": "Ford",
+        "model": "F350SD",
+        "trim": "XLTSupercab 2WD LWB SRW"
+    },
+    {
+        "year": "2021",
+        "make": "Ford",
+        "model": "F350SD",
+        "trim": "XLTSupercab 2WD SWB SRW"
+    },
+    {
+        "year": "2021",
+        "make": "Ford",
+        "model": "F350SD",
+        "trim": "XLTSupercab 4WD DRW"
+    },
+    {
+        "year": "2021",
+        "make": "Ford",
+        "model": "F350SD",
+        "trim": "XLTSupercab 4WD LWB SRW"
+    },
+    {
+        "year": "2021",
+        "make": "Ford",
+        "model": "F350SD",
+        "trim": "XLTSupercab 4WD SWB SRW"
+    },
+    {
+        "year": "2021",
+        "make": "Ford",
+        "model": "F450SD",
+        "trim": "King RanchCrew Cab 2WD"
+    },
+    {
+        "year": "2021",
+        "make": "Ford",
+        "model": "F450SD",
+        "trim": "King RanchCrew Cab 4WD"
+    },
+    {
+        "year": "2021",
+        "make": "Ford",
+        "model": "F450SD",
+        "trim": "LariatCrew Cab 2WD"
+    },
+    {
+        "year": "2021",
+        "make": "Ford",
+        "model": "F450SD",
+        "trim": "LariatCrew Cab 4WD"
+    },
+    {
+        "year": "2021",
+        "make": "Ford",
+        "model": "F450SD",
+        "trim": "LimitedCrew Cab 4WD"
+    },
+    {
+        "year": "2021",
+        "make": "Ford",
+        "model": "F450SD",
+        "trim": "PlatinumCrew Cab 2WD"
+    },
+    {
+        "year": "2021",
+        "make": "Ford",
+        "model": "F450SD",
+        "trim": "PlatinumCrew Cab 4WD"
+    },
+    {
+        "year": "2021",
+        "make": "Ford",
+        "model": "F450SD",
+        "trim": "XLCrew Cab 2WD"
+    },
+    {
+        "year": "2021",
+        "make": "Ford",
+        "model": "F450SD",
+        "trim": "XLCrew Cab 4WD"
+    },
+    {
+        "year": "2021",
+        "make": "Ford",
+        "model": "F450SD",
+        "trim": "XLReg Cab 2WD"
+    },
+    {
+        "year": "2021",
+        "make": "Ford",
+        "model": "F450SD",
+        "trim": "XLReg Cab 4WD"
+    },
+    {
+        "year": "2021",
+        "make": "Ford",
+        "model": "F450SD",
+        "trim": "XLTCrew Cab 2WD"
+    },
+    {
+        "year": "2021",
+        "make": "Ford",
+        "model": "F450SD",
+        "trim": "XLTCrew Cab 4WD"
+    },
+    {
+        "year": "2021",
+        "make": "Ford",
+        "model": "F450SD",
+        "trim": "XLTReg Cab 2WD"
+    },
+    {
+        "year": "2021",
+        "make": "Ford",
+        "model": "F450SD",
+        "trim": "XLTReg Cab 4WD"
+    },
+    {
+        "year": "2021",
+        "make": "Ford",
+        "model": "Mustang",
+        "trim": "Eco2D Convertible"
+    },
+    {
+        "year": "2021",
+        "make": "Ford",
+        "model": "Mustang",
+        "trim": "Eco2D Coupe"
+    },
+    {
+        "year": "2021",
+        "make": "Ford",
+        "model": "Mustang",
+        "trim": "Eco Premium2D Convertible"
+    },
+    {
+        "year": "2021",
+        "make": "Ford",
+        "model": "Mustang",
+        "trim": "Eco Premium2D Coupe"
+    },
+    {
+        "year": "2021",
+        "make": "Ford",
+        "model": "Mustang",
+        "trim": "GT2D Coupe"
+    },
+    {
+        "year": "2021",
+        "make": "Ford",
+        "model": "Mustang",
+        "trim": "GT Premium2D Convertible"
+    },
+    {
+        "year": "2021",
+        "make": "Ford",
+        "model": "Mustang",
+        "trim": "GT Premium2D Coupe"
+    },
+    {
+        "year": "2021",
+        "make": "Ford",
+        "model": "Mustang",
+        "trim": "Mach 12D Coupe"
+    },
+    {
+        "year": "2021",
+        "make": "Ford",
+        "model": "Mustang",
+        "trim": "Shelby GT5002D Coupe"
+    },
+    {
+        "year": "2021",
+        "make": "Ford",
+        "model": "Mustang Mach-E",
+        "trim": "California Route 14D SUV RWD"
+    },
+    {
+        "year": "2021",
+        "make": "Ford",
+        "model": "Mustang Mach-E",
+        "trim": "Premium4D SUV AWD"
+    },
+    {
+        "year": "2021",
+        "make": "Ford",
+        "model": "Mustang Mach-E",
+        "trim": "Premium4D SUV RWD"
+    },
+    {
+        "year": "2021",
+        "make": "Ford",
+        "model": "Mustang Mach-E",
+        "trim": "Select4D SUV AWD"
+    },
+    {
+        "year": "2021",
+        "make": "Ford",
+        "model": "Mustang Mach-E",
+        "trim": "Select4D SUV RWD"
+    },
+    {
+        "year": "2021",
+        "make": "Ford",
+        "model": "Ranger",
+        "trim": "LariatCrew Cab 2WD"
+    },
+    {
+        "year": "2021",
+        "make": "Ford",
+        "model": "Ranger",
+        "trim": "LariatCrew Cab 4WD"
+    },
+    {
+        "year": "2021",
+        "make": "Ford",
+        "model": "Ranger",
+        "trim": "LariatSupercab 2WD"
+    },
+    {
+        "year": "2021",
+        "make": "Ford",
+        "model": "Ranger",
+        "trim": "LariatSupercab 4WD"
+    },
+    {
+        "year": "2021",
+        "make": "Ford",
+        "model": "Ranger",
+        "trim": "XLCrew Cab 2WD"
+    },
+    {
+        "year": "2021",
+        "make": "Ford",
+        "model": "Ranger",
+        "trim": "XLCrew Cab 4WD"
+    },
+    {
+        "year": "2021",
+        "make": "Ford",
+        "model": "Ranger",
+        "trim": "XLSupercab 2WD"
+    },
+    {
+        "year": "2021",
+        "make": "Ford",
+        "model": "Ranger",
+        "trim": "XLSupercab 4WD"
+    },
+    {
+        "year": "2021",
+        "make": "Ford",
+        "model": "Ranger",
+        "trim": "XLSupercab C/C 2WD"
+    },
+    {
+        "year": "2021",
+        "make": "Ford",
+        "model": "Ranger",
+        "trim": "XLTCrew Cab 2WD"
+    },
+    {
+        "year": "2021",
+        "make": "Ford",
+        "model": "Ranger",
+        "trim": "XLTCrew Cab 4WD"
+    },
+    {
+        "year": "2021",
+        "make": "Ford",
+        "model": "Ranger",
+        "trim": "XLTSupercab 2WD"
+    },
+    {
+        "year": "2021",
+        "make": "Ford",
+        "model": "Ranger",
+        "trim": "XLTSupercab 4WD"
+    },
+    {
+        "year": "2021",
+        "make": "Ford",
+        "model": "S/D C/C",
+        "trim": "F350 LariatCrew Cab 2WD DRW 179"
+    },
+    {
+        "year": "2021",
+        "make": "Ford",
+        "model": "S/D C/C",
+        "trim": "F350 LariatCrew Cab 2WD SRW 179"
+    },
+    {
+        "year": "2021",
+        "make": "Ford",
+        "model": "S/D C/C",
+        "trim": "F350 LariatCrew Cab 4WD DRW 179"
+    },
+    {
+        "year": "2021",
+        "make": "Ford",
+        "model": "S/D C/C",
+        "trim": "F350 LariatCrew Cab 4WD SRW 179"
+    },
+    {
+        "year": "2021",
+        "make": "Ford",
+        "model": "S/D C/C",
+        "trim": "F350 LariatSupercab 2WD DRW 168"
+    },
+    {
+        "year": "2021",
+        "make": "Ford",
+        "model": "S/D C/C",
+        "trim": "F350 LariatSupercab 2WD SRW 168"
+    },
+    {
+        "year": "2021",
+        "make": "Ford",
+        "model": "S/D C/C",
+        "trim": "F350 LariatSupercab 4WD DRW 168"
+    },
+    {
+        "year": "2021",
+        "make": "Ford",
+        "model": "S/D C/C",
+        "trim": "F350 LariatSupercab 4WD SRW 168"
+    },
+    {
+        "year": "2021",
+        "make": "Ford",
+        "model": "S/D C/C",
+        "trim": "F350 XLCrew Cab 2WD DRW 179"
+    },
+    {
+        "year": "2021",
+        "make": "Ford",
+        "model": "S/D C/C",
+        "trim": "F350 XLCrew Cab 2WD SRW 179"
+    },
+    {
+        "year": "2021",
+        "make": "Ford",
+        "model": "S/D C/C",
+        "trim": "F350 XLCrew Cab 4WD DRW 179"
+    },
+    {
+        "year": "2021",
+        "make": "Ford",
+        "model": "S/D C/C",
+        "trim": "F350 XLCrew Cab 4WD SRW 179"
+    },
+    {
+        "year": "2021",
+        "make": "Ford",
+        "model": "S/D C/C",
+        "trim": "F350 XLReg Cab 2WD DRW 145"
+    },
+    {
+        "year": "2021",
+        "make": "Ford",
+        "model": "S/D C/C",
+        "trim": "F350 XLReg Cab 2WD DRW 169"
+    },
+    {
+        "year": "2021",
+        "make": "Ford",
+        "model": "S/D C/C",
+        "trim": "F350 XLReg Cab 2WD SRW 145"
+    },
+    {
+        "year": "2021",
+        "make": "Ford",
+        "model": "S/D C/C",
+        "trim": "F350 XLReg Cab 4WD DRW 145"
+    },
+    {
+        "year": "2021",
+        "make": "Ford",
+        "model": "S/D C/C",
+        "trim": "F350 XLReg Cab 4WD DRW 169"
+    },
+    {
+        "year": "2021",
+        "make": "Ford",
+        "model": "S/D C/C",
+        "trim": "F350 XLReg Cab 4WD SRW 145"
+    },
+    {
+        "year": "2021",
+        "make": "Ford",
+        "model": "S/D C/C",
+        "trim": "F350 XLSupercab 2WD DRW 168"
+    },
+    {
+        "year": "2021",
+        "make": "Ford",
+        "model": "S/D C/C",
+        "trim": "F350 XLSupercab 2WD SRW 168"
+    },
+    {
+        "year": "2021",
+        "make": "Ford",
+        "model": "S/D C/C",
+        "trim": "F350 XLSupercab 4WD DRW 168"
+    },
+    {
+        "year": "2021",
+        "make": "Ford",
+        "model": "S/D C/C",
+        "trim": "F350 XLSupercab 4WD SRW 168"
+    },
+    {
+        "year": "2021",
+        "make": "Ford",
+        "model": "S/D C/C",
+        "trim": "F350 XLTCrew Cab 2WD DRW 179"
+    },
+    {
+        "year": "2021",
+        "make": "Ford",
+        "model": "S/D C/C",
+        "trim": "F350 XLTCrew Cab 2WD SRW 179"
+    },
+    {
+        "year": "2021",
+        "make": "Ford",
+        "model": "S/D C/C",
+        "trim": "F350 XLTCrew Cab 4WD DRW 179"
+    },
+    {
+        "year": "2021",
+        "make": "Ford",
+        "model": "S/D C/C",
+        "trim": "F350 XLTCrew Cab 4WD SRW 179"
+    },
+    {
+        "year": "2021",
+        "make": "Ford",
+        "model": "S/D C/C",
+        "trim": "F350 XLTReg Cab 2WD DRW 145"
+    },
+    {
+        "year": "2021",
+        "make": "Ford",
+        "model": "S/D C/C",
+        "trim": "F350 XLTReg Cab 2WD DRW 169"
+    },
+    {
+        "year": "2021",
+        "make": "Ford",
+        "model": "S/D C/C",
+        "trim": "F350 XLTReg Cab 2WD SRW 145"
+    },
+    {
+        "year": "2021",
+        "make": "Ford",
+        "model": "S/D C/C",
+        "trim": "F350 XLTReg Cab 4WD DRW 145"
+    },
+    {
+        "year": "2021",
+        "make": "Ford",
+        "model": "S/D C/C",
+        "trim": "F350 XLTReg Cab 4WD DRW 169"
+    },
+    {
+        "year": "2021",
+        "make": "Ford",
+        "model": "S/D C/C",
+        "trim": "F350 XLTReg Cab 4WD SRW 145"
+    },
+    {
+        "year": "2021",
+        "make": "Ford",
+        "model": "S/D C/C",
+        "trim": "F350 XLTSupercab 2WD DRW 168"
+    },
+    {
+        "year": "2021",
+        "make": "Ford",
+        "model": "S/D C/C",
+        "trim": "F350 XLTSupercab 2WD SRW 168"
+    },
+    {
+        "year": "2021",
+        "make": "Ford",
+        "model": "S/D C/C",
+        "trim": "F350 XLTSupercab 4WD DRW 168"
+    },
+    {
+        "year": "2021",
+        "make": "Ford",
+        "model": "S/D C/C",
+        "trim": "F350 XLTSupercab 4WD SRW 168"
+    },
+    {
+        "year": "2021",
+        "make": "Ford",
+        "model": "S/D C/C",
+        "trim": "F450 LariatCrew Cab 2WD 179"
+    },
+    {
+        "year": "2021",
+        "make": "Ford",
+        "model": "S/D C/C",
+        "trim": "F450 LariatCrew Cab 2WD 203"
+    },
+    {
+        "year": "2021",
+        "make": "Ford",
+        "model": "S/D C/C",
+        "trim": "F450 LariatCrew Cab 4WD 179"
+    },
+    {
+        "year": "2021",
+        "make": "Ford",
+        "model": "S/D C/C",
+        "trim": "F450 LariatCrew Cab 4WD 203"
+    },
+    {
+        "year": "2021",
+        "make": "Ford",
+        "model": "S/D C/C",
+        "trim": "F450 LariatSupercab 2WD 168"
+    },
+    {
+        "year": "2021",
+        "make": "Ford",
+        "model": "S/D C/C",
+        "trim": "F450 LariatSupercab 2WD 192"
+    },
+    {
+        "year": "2021",
+        "make": "Ford",
+        "model": "S/D C/C",
+        "trim": "F450 LariatSupercab 4WD 168"
+    },
+    {
+        "year": "2021",
+        "make": "Ford",
+        "model": "S/D C/C",
+        "trim": "F450 LariatSupercab 4WD 192"
+    },
+    {
+        "year": "2021",
+        "make": "Ford",
+        "model": "S/D C/C",
+        "trim": "F450 XLCrew Cab 2WD 179"
+    },
+    {
+        "year": "2021",
+        "make": "Ford",
+        "model": "S/D C/C",
+        "trim": "F450 XLCrew Cab 2WD 203"
+    },
+    {
+        "year": "2021",
+        "make": "Ford",
+        "model": "S/D C/C",
+        "trim": "F450 XLCrew Cab 4WD 179"
+    },
+    {
+        "year": "2021",
+        "make": "Ford",
+        "model": "S/D C/C",
+        "trim": "F450 XLCrew Cab 4WD 203"
+    },
+    {
+        "year": "2021",
+        "make": "Ford",
+        "model": "S/D C/C",
+        "trim": "F450 XLReg Cab 2WD 145"
+    },
+    {
+        "year": "2021",
+        "make": "Ford",
+        "model": "S/D C/C",
+        "trim": "F450 XLReg Cab 2WD 169"
+    },
+    {
+        "year": "2021",
+        "make": "Ford",
+        "model": "S/D C/C",
+        "trim": "F450 XLReg Cab 2WD 193"
+    },
+    {
+        "year": "2021",
+        "make": "Ford",
+        "model": "S/D C/C",
+        "trim": "F450 XLReg Cab 2WD 205"
+    },
+    {
+        "year": "2021",
+        "make": "Ford",
+        "model": "S/D C/C",
+        "trim": "F450 XLReg Cab 4WD 145"
+    },
+    {
+        "year": "2021",
+        "make": "Ford",
+        "model": "S/D C/C",
+        "trim": "F450 XLReg Cab 4WD 169"
+    },
+    {
+        "year": "2021",
+        "make": "Ford",
+        "model": "S/D C/C",
+        "trim": "F450 XLReg Cab 4WD 193"
+    },
+    {
+        "year": "2021",
+        "make": "Ford",
+        "model": "S/D C/C",
+        "trim": "F450 XLReg Cab 4WD 205"
+    },
+    {
+        "year": "2021",
+        "make": "Ford",
+        "model": "S/D C/C",
+        "trim": "F450 XLSupercab 2WD 168"
+    },
+    {
+        "year": "2021",
+        "make": "Ford",
+        "model": "S/D C/C",
+        "trim": "F450 XLSupercab 2WD 192"
+    },
+    {
+        "year": "2021",
+        "make": "Ford",
+        "model": "S/D C/C",
+        "trim": "F450 XLSupercab 4WD 168"
+    },
+    {
+        "year": "2021",
+        "make": "Ford",
+        "model": "S/D C/C",
+        "trim": "F450 XLSupercab 4WD 192"
+    },
+    {
+        "year": "2021",
+        "make": "Ford",
+        "model": "S/D C/C",
+        "trim": "F450 XLTCrew Cab 2WD 179"
+    },
+    {
+        "year": "2021",
+        "make": "Ford",
+        "model": "S/D C/C",
+        "trim": "F450 XLTCrew Cab 2WD 203"
+    },
+    {
+        "year": "2021",
+        "make": "Ford",
+        "model": "S/D C/C",
+        "trim": "F450 XLTCrew Cab 4WD 179"
+    },
+    {
+        "year": "2021",
+        "make": "Ford",
+        "model": "S/D C/C",
+        "trim": "F450 XLTCrew Cab 4WD 203"
+    },
+    {
+        "year": "2021",
+        "make": "Ford",
+        "model": "S/D C/C",
+        "trim": "F450 XLTReg Cab 2WD 145"
+    },
+    {
+        "year": "2021",
+        "make": "Ford",
+        "model": "S/D C/C",
+        "trim": "F450 XLTReg Cab 2WD 169"
+    },
+    {
+        "year": "2021",
+        "make": "Ford",
+        "model": "S/D C/C",
+        "trim": "F450 XLTReg Cab 2WD 193"
+    },
+    {
+        "year": "2021",
+        "make": "Ford",
+        "model": "S/D C/C",
+        "trim": "F450 XLTReg Cab 2WD 205"
+    },
+    {
+        "year": "2021",
+        "make": "Ford",
+        "model": "S/D C/C",
+        "trim": "F450 XLTReg Cab 4WD 145"
+    },
+    {
+        "year": "2021",
+        "make": "Ford",
+        "model": "S/D C/C",
+        "trim": "F450 XLTReg Cab 4WD 169"
+    },
+    {
+        "year": "2021",
+        "make": "Ford",
+        "model": "S/D C/C",
+        "trim": "F450 XLTReg Cab 4WD 193"
+    },
+    {
+        "year": "2021",
+        "make": "Ford",
+        "model": "S/D C/C",
+        "trim": "F450 XLTReg Cab 4WD 205"
+    },
+    {
+        "year": "2021",
+        "make": "Ford",
+        "model": "S/D C/C",
+        "trim": "F450 XLTSupercab 2WD 168"
+    },
+    {
+        "year": "2021",
+        "make": "Ford",
+        "model": "S/D C/C",
+        "trim": "F450 XLTSupercab 2WD 192"
+    },
+    {
+        "year": "2021",
+        "make": "Ford",
+        "model": "S/D C/C",
+        "trim": "F450 XLTSupercab 4WD 168"
+    },
+    {
+        "year": "2021",
+        "make": "Ford",
+        "model": "S/D C/C",
+        "trim": "F450 XLTSupercab 4WD 192"
+    },
+    {
+        "year": "2021",
+        "make": "Ford",
+        "model": "T150 Vans",
+        "trim": "Low RoofCargo Van AWD 130"
+    },
+    {
+        "year": "2021",
+        "make": "Ford",
+        "model": "T150 Vans",
+        "trim": "Low RoofCargo Van AWD 148"
+    },
+    {
+        "year": "2021",
+        "make": "Ford",
+        "model": "T150 Vans",
+        "trim": "Low RoofCargo Van RWD 130"
+    },
+    {
+        "year": "2021",
+        "make": "Ford",
+        "model": "T150 Vans",
+        "trim": "Low RoofCargo Van RWD 148"
+    },
+    {
+        "year": "2021",
+        "make": "Ford",
+        "model": "T150 Vans",
+        "trim": "Low RoofCrew Van AWD 130"
+    },
+    {
+        "year": "2021",
+        "make": "Ford",
+        "model": "T150 Vans",
+        "trim": "Low RoofCrew Van AWD 148"
+    },
+    {
+        "year": "2021",
+        "make": "Ford",
+        "model": "T150 Vans",
+        "trim": "Low RoofCrew Van RWD 130"
+    },
+    {
+        "year": "2021",
+        "make": "Ford",
+        "model": "T150 Vans",
+        "trim": "Low RoofCrew Van RWD 148"
+    },
+    {
+        "year": "2021",
+        "make": "Ford",
+        "model": "T150 Vans",
+        "trim": "Medium RoofCargo Van AWD 130"
+    },
+    {
+        "year": "2021",
+        "make": "Ford",
+        "model": "T150 Vans",
+        "trim": "Medium RoofCargo Van AWD 148"
+    },
+    {
+        "year": "2021",
+        "make": "Ford",
+        "model": "T150 Vans",
+        "trim": "Medium RoofCargo Van RWD 130"
+    },
+    {
+        "year": "2021",
+        "make": "Ford",
+        "model": "T150 Vans",
+        "trim": "Medium RoofCargo Van RWD 148"
+    },
+    {
+        "year": "2021",
+        "make": "Ford",
+        "model": "T150 Vans",
+        "trim": "Medium RoofCrew Van AWD 130"
+    },
+    {
+        "year": "2021",
+        "make": "Ford",
+        "model": "T150 Vans",
+        "trim": "Medium RoofCrew Van AWD 148"
+    },
+    {
+        "year": "2021",
+        "make": "Ford",
+        "model": "T150 Vans",
+        "trim": "Medium RoofCrew Van RWD 130"
+    },
+    {
+        "year": "2021",
+        "make": "Ford",
+        "model": "T150 Vans",
+        "trim": "Medium RoofCrew Van RWD 148"
+    },
+    {
+        "year": "2021",
+        "make": "Ford",
+        "model": "T150 Vans",
+        "trim": "XLWagon LR AWD 130"
+    },
+    {
+        "year": "2021",
+        "make": "Ford",
+        "model": "T150 Vans",
+        "trim": "XLWagon LR RWD 130"
+    },
+    {
+        "year": "2021",
+        "make": "Ford",
+        "model": "T150 Vans",
+        "trim": "XLWagon MR AWD 130"
+    },
+    {
+        "year": "2021",
+        "make": "Ford",
+        "model": "T150 Vans",
+        "trim": "XLWagon MR RWD 130"
+    },
+    {
+        "year": "2021",
+        "make": "Ford",
+        "model": "T150 Vans",
+        "trim": "XLTWagon LR AWD 130"
+    },
+    {
+        "year": "2021",
+        "make": "Ford",
+        "model": "T150 Vans",
+        "trim": "XLTWagon LR RWD 130"
+    },
+    {
+        "year": "2021",
+        "make": "Ford",
+        "model": "T150 Vans",
+        "trim": "XLTWagon MR AWD 130"
+    },
+    {
+        "year": "2021",
+        "make": "Ford",
+        "model": "T150 Vans",
+        "trim": "XLTWagon MR RWD 130"
+    },
+    {
+        "year": "2021",
+        "make": "Ford",
+        "model": "T250 Vans",
+        "trim": "High RoofCargo Van AWD 148"
+    },
+    {
+        "year": "2021",
+        "make": "Ford",
+        "model": "T250 Vans",
+        "trim": "High RoofCargo Van AWD 148eL"
+    },
+    {
+        "year": "2021",
+        "make": "Ford",
+        "model": "T250 Vans",
+        "trim": "High RoofCargo Van RWD 148"
+    },
+    {
+        "year": "2021",
+        "make": "Ford",
+        "model": "T250 Vans",
+        "trim": "High RoofCargo Van RWD 148eL"
+    },
+    {
+        "year": "2021",
+        "make": "Ford",
+        "model": "T250 Vans",
+        "trim": "High RoofCrew Van AWD 148"
+    },
+    {
+        "year": "2021",
+        "make": "Ford",
+        "model": "T250 Vans",
+        "trim": "High RoofCrew Van RWD 148"
+    },
+    {
+        "year": "2021",
+        "make": "Ford",
+        "model": "T250 Vans",
+        "trim": "Low RoofCargo Van AWD 130"
+    },
+    {
+        "year": "2021",
+        "make": "Ford",
+        "model": "T250 Vans",
+        "trim": "Low RoofCargo Van AWD 148"
+    },
+    {
+        "year": "2021",
+        "make": "Ford",
+        "model": "T250 Vans",
+        "trim": "Low RoofCargo Van RWD 130"
+    },
+    {
+        "year": "2021",
+        "make": "Ford",
+        "model": "T250 Vans",
+        "trim": "Low RoofCargo Van RWD 148"
+    },
+    {
+        "year": "2021",
+        "make": "Ford",
+        "model": "T250 Vans",
+        "trim": "Low RoofCrew Van AWD 130"
+    },
+    {
+        "year": "2021",
+        "make": "Ford",
+        "model": "T250 Vans",
+        "trim": "Low RoofCrew Van AWD 148"
+    },
+    {
+        "year": "2021",
+        "make": "Ford",
+        "model": "T250 Vans",
+        "trim": "Low RoofCrew Van RWD 130"
+    },
+    {
+        "year": "2021",
+        "make": "Ford",
+        "model": "T250 Vans",
+        "trim": "Low RoofCrew Van RWD 148"
+    },
+    {
+        "year": "2021",
+        "make": "Ford",
+        "model": "T250 Vans",
+        "trim": "Medium RoofCargo Van AWD 130"
+    },
+    {
+        "year": "2021",
+        "make": "Ford",
+        "model": "T250 Vans",
+        "trim": "Medium RoofCargo Van AWD 148"
+    },
+    {
+        "year": "2021",
+        "make": "Ford",
+        "model": "T250 Vans",
+        "trim": "Medium RoofCargo Van RWD 130"
+    },
+    {
+        "year": "2021",
+        "make": "Ford",
+        "model": "T250 Vans",
+        "trim": "Medium RoofCargo Van RWD 148"
+    },
+    {
+        "year": "2021",
+        "make": "Ford",
+        "model": "T250 Vans",
+        "trim": "Medium RoofCrew Van AWD 130"
+    },
+    {
+        "year": "2021",
+        "make": "Ford",
+        "model": "T250 Vans",
+        "trim": "Medium RoofCrew Van AWD 148"
+    },
+    {
+        "year": "2021",
+        "make": "Ford",
+        "model": "T250 Vans",
+        "trim": "Medium RoofCrew Van RWD 130"
+    },
+    {
+        "year": "2021",
+        "make": "Ford",
+        "model": "T250 Vans",
+        "trim": "Medium RoofCrew Van RWD 148"
+    },
+    {
+        "year": "2021",
+        "make": "Ford",
+        "model": "T350 Vans",
+        "trim": "High RoofCargo Van AWD 148"
+    },
+    {
+        "year": "2021",
+        "make": "Ford",
+        "model": "T350 Vans",
+        "trim": "High RoofCargo Van AWD 148eL"
+    },
+    {
+        "year": "2021",
+        "make": "Ford",
+        "model": "T350 Vans",
+        "trim": "High RoofCargo Van RWD 148"
+    },
+    {
+        "year": "2021",
+        "make": "Ford",
+        "model": "T350 Vans",
+        "trim": "High RoofCargo Van RWD 148eL"
+    },
+    {
+        "year": "2021",
+        "make": "Ford",
+        "model": "T350 Vans",
+        "trim": "High RoofCrew Van AWD 148"
+    },
+    {
+        "year": "2021",
+        "make": "Ford",
+        "model": "T350 Vans",
+        "trim": "High RoofCrew Van RWD 148"
+    },
+    {
+        "year": "2021",
+        "make": "Ford",
+        "model": "T350 Vans",
+        "trim": "Low RoofCargo Van AWD 130"
+    },
+    {
+        "year": "2021",
+        "make": "Ford",
+        "model": "T350 Vans",
+        "trim": "Low RoofCargo Van AWD 148"
+    },
+    {
+        "year": "2021",
+        "make": "Ford",
+        "model": "T350 Vans",
+        "trim": "Low RoofCargo Van RWD 130"
+    },
+    {
+        "year": "2021",
+        "make": "Ford",
+        "model": "T350 Vans",
+        "trim": "Low RoofCargo Van RWD 148"
+    },
+    {
+        "year": "2021",
+        "make": "Ford",
+        "model": "T350 Vans",
+        "trim": "Low RoofCrew Van AWD 130"
+    },
+    {
+        "year": "2021",
+        "make": "Ford",
+        "model": "T350 Vans",
+        "trim": "Low RoofCrew Van AWD 148"
+    },
+    {
+        "year": "2021",
+        "make": "Ford",
+        "model": "T350 Vans",
+        "trim": "Low RoofCrew Van RWD 130"
+    },
+    {
+        "year": "2021",
+        "make": "Ford",
+        "model": "T350 Vans",
+        "trim": "Low RoofCrew Van RWD 148"
+    },
+    {
+        "year": "2021",
+        "make": "Ford",
+        "model": "T350 Vans",
+        "trim": "Medium RoofCargo Van AWD 130"
+    },
+    {
+        "year": "2021",
+        "make": "Ford",
+        "model": "T350 Vans",
+        "trim": "Medium RoofCargo Van AWD 148"
+    },
+    {
+        "year": "2021",
+        "make": "Ford",
+        "model": "T350 Vans",
+        "trim": "Medium RoofCargo Van RWD 130"
+    },
+    {
+        "year": "2021",
+        "make": "Ford",
+        "model": "T350 Vans",
+        "trim": "Medium RoofCargo Van RWD 148"
+    },
+    {
+        "year": "2021",
+        "make": "Ford",
+        "model": "T350 Vans",
+        "trim": "Medium RoofCrew Van AWD 130"
+    },
+    {
+        "year": "2021",
+        "make": "Ford",
+        "model": "T350 Vans",
+        "trim": "Medium RoofCrew Van AWD 148"
+    },
+    {
+        "year": "2021",
+        "make": "Ford",
+        "model": "T350 Vans",
+        "trim": "Medium RoofCrew Van RWD 130"
+    },
+    {
+        "year": "2021",
+        "make": "Ford",
+        "model": "T350 Vans",
+        "trim": "Medium RoofCrew Van RWD 148"
+    },
+    {
+        "year": "2021",
+        "make": "Ford",
+        "model": "T350 Vans",
+        "trim": "XLWagon HR AWD 148"
+    },
+    {
+        "year": "2021",
+        "make": "Ford",
+        "model": "T350 Vans",
+        "trim": "XLWagon HR AWD 148eL"
+    },
+    {
+        "year": "2021",
+        "make": "Ford",
+        "model": "T350 Vans",
+        "trim": "XLWagon HR RWD 148"
+    },
+    {
+        "year": "2021",
+        "make": "Ford",
+        "model": "T350 Vans",
+        "trim": "XLWagon HR RWD 148eL"
+    },
+    {
+        "year": "2021",
+        "make": "Ford",
+        "model": "T350 Vans",
+        "trim": "XLWagon LR AWD 148"
+    },
+    {
+        "year": "2021",
+        "make": "Ford",
+        "model": "T350 Vans",
+        "trim": "XLWagon LR RWD 148"
+    },
+    {
+        "year": "2021",
+        "make": "Ford",
+        "model": "T350 Vans",
+        "trim": "XLWagon MR AWD 148"
+    },
+    {
+        "year": "2021",
+        "make": "Ford",
+        "model": "T350 Vans",
+        "trim": "XLWagon MR RWD 148"
+    },
+    {
+        "year": "2021",
+        "make": "Ford",
+        "model": "T350 Vans",
+        "trim": "XLTWagon HR AWD 148"
+    },
+    {
+        "year": "2021",
+        "make": "Ford",
+        "model": "T350 Vans",
+        "trim": "XLTWagon HR AWD 148eL"
+    },
+    {
+        "year": "2021",
+        "make": "Ford",
+        "model": "T350 Vans",
+        "trim": "XLTWagon HR RWD 148"
+    },
+    {
+        "year": "2021",
+        "make": "Ford",
+        "model": "T350 Vans",
+        "trim": "XLTWagon HR RWD 148eL"
+    },
+    {
+        "year": "2021",
+        "make": "Ford",
+        "model": "T350 Vans",
+        "trim": "XLTWagon LR AWD 148"
+    },
+    {
+        "year": "2021",
+        "make": "Ford",
+        "model": "T350 Vans",
+        "trim": "XLTWagon LR RWD 148"
+    },
+    {
+        "year": "2021",
+        "make": "Ford",
+        "model": "T350 Vans",
+        "trim": "XLTWagon MR AWD 148"
+    },
+    {
+        "year": "2021",
+        "make": "Ford",
+        "model": "T350 Vans",
+        "trim": "XLTWagon MR RWD 148"
+    },
+    {
+        "year": "2021",
+        "make": "Ford",
+        "model": "T350HD Vans",
+        "trim": "High RoofCargo AWD 10360"
+    },
+    {
+        "year": "2021",
+        "make": "Ford",
+        "model": "T350HD Vans",
+        "trim": "High RoofCargo AWD 11000"
+    },
+    {
+        "year": "2021",
+        "make": "Ford",
+        "model": "T350HD Vans",
+        "trim": "High RoofCargo AWD 9950"
+    },
+    {
+        "year": "2021",
+        "make": "Ford",
+        "model": "T350HD Vans",
+        "trim": "High RoofCargo RWD 10360"
+    },
+    {
+        "year": "2021",
+        "make": "Ford",
+        "model": "T350HD Vans",
+        "trim": "High RoofCargo RWD 11000"
+    },
+    {
+        "year": "2021",
+        "make": "Ford",
+        "model": "T350HD Vans",
+        "trim": "High RoofCargo RWD 9950"
+    },
+    {
+        "year": "2021",
+        "make": "Ford",
+        "model": "T350HD Vans",
+        "trim": "High RoofCrew AWD 10360"
+    },
+    {
+        "year": "2021",
+        "make": "Ford",
+        "model": "T350HD Vans",
+        "trim": "High RoofCrew AWD 9950"
+    },
+    {
+        "year": "2021",
+        "make": "Ford",
+        "model": "T350HD Vans",
+        "trim": "High RoofCrew RWD 10360"
+    },
+    {
+        "year": "2021",
+        "make": "Ford",
+        "model": "T350HD Vans",
+        "trim": "High RoofCrew RWD 9950"
+    },
+    {
+        "year": "2021",
+        "make": "Ford",
+        "model": "Transit C/C",
+        "trim": "250Cab/Chs 138WB"
+    },
+    {
+        "year": "2021",
+        "make": "Ford",
+        "model": "Transit C/C",
+        "trim": "250Cab/Chs 156WB"
+    },
+    {
+        "year": "2021",
+        "make": "Ford",
+        "model": "Transit C/C",
+        "trim": "250Cab/Chs AWD 138WB"
+    },
+    {
+        "year": "2021",
+        "make": "Ford",
+        "model": "Transit C/C",
+        "trim": "250Cab/Chs AWD 156WB"
+    },
+    {
+        "year": "2021",
+        "make": "Ford",
+        "model": "Transit C/C",
+        "trim": "350Cab/Chs 138WB"
+    },
+    {
+        "year": "2021",
+        "make": "Ford",
+        "model": "Transit C/C",
+        "trim": "350Cab/Chs 156WB"
+    },
+    {
+        "year": "2021",
+        "make": "Ford",
+        "model": "Transit C/C",
+        "trim": "350Cab/Chs AWD 138WB"
+    },
+    {
+        "year": "2021",
+        "make": "Ford",
+        "model": "Transit C/C",
+        "trim": "350Cab/Chs AWD 156WB"
+    },
+    {
+        "year": "2021",
+        "make": "Ford",
+        "model": "Transit C/C",
+        "trim": "350 HDC/C 138WB 10360GVW"
+    },
+    {
+        "year": "2021",
+        "make": "Ford",
+        "model": "Transit C/C",
+        "trim": "350 HDC/C 138WB 11000GVW"
+    },
+    {
+        "year": "2021",
+        "make": "Ford",
+        "model": "Transit C/C",
+        "trim": "350 HDC/C 138WB 9950GVW"
+    },
+    {
+        "year": "2021",
+        "make": "Ford",
+        "model": "Transit C/C",
+        "trim": "350 HDC/C 156WB 10360GVW"
+    },
+    {
+        "year": "2021",
+        "make": "Ford",
+        "model": "Transit C/C",
+        "trim": "350 HDC/C 156WB 11000GVW"
+    },
+    {
+        "year": "2021",
+        "make": "Ford",
+        "model": "Transit C/C",
+        "trim": "350 HDC/C 156WB 9950GVW"
+    },
+    {
+        "year": "2021",
+        "make": "Ford",
+        "model": "Transit C/C",
+        "trim": "350 HDC/C 178WB 10360GVW"
+    },
+    {
+        "year": "2021",
+        "make": "Ford",
+        "model": "Transit C/C",
+        "trim": "350 HDC/C 178WB 11000GVW"
+    },
+    {
+        "year": "2021",
+        "make": "Ford",
+        "model": "Transit C/C",
+        "trim": "350 HDC/C 178WB 9950GVW"
+    },
+    {
+        "year": "2021",
+        "make": "Ford",
+        "model": "Transit C/C",
+        "trim": "350 HDC/C AWD 138WB 10360"
+    },
+    {
+        "year": "2021",
+        "make": "Ford",
+        "model": "Transit C/C",
+        "trim": "350 HDC/C AWD 138WB 11000"
+    },
+    {
+        "year": "2021",
+        "make": "Ford",
+        "model": "Transit C/C",
+        "trim": "350 HDC/C AWD 138WB 9950"
+    },
+    {
+        "year": "2021",
+        "make": "Ford",
+        "model": "Transit C/C",
+        "trim": "350 HDC/C AWD 156WB 10360"
+    },
+    {
+        "year": "2021",
+        "make": "Ford",
+        "model": "Transit C/C",
+        "trim": "350 HDC/C AWD 156WB 11000"
+    },
+    {
+        "year": "2021",
+        "make": "Ford",
+        "model": "Transit C/C",
+        "trim": "350 HDC/C AWD 156WB 9950"
+    },
+    {
+        "year": "2021",
+        "make": "Ford",
+        "model": "Transit C/C",
+        "trim": "350 HDC/C AWD 178WB 10360"
+    },
+    {
+        "year": "2021",
+        "make": "Ford",
+        "model": "Transit C/C",
+        "trim": "350 HDC/C AWD 178WB 11000"
+    },
+    {
+        "year": "2021",
+        "make": "Ford",
+        "model": "Transit C/C",
+        "trim": "350 HDC/C AWD 178WB 9950"
+    },
+    {
+        "year": "2021",
+        "make": "Ford",
+        "model": "Transit Commercial",
+        "trim": "250Cutaway SRW 138 WB"
+    },
+    {
+        "year": "2021",
+        "make": "Ford",
+        "model": "Transit Commercial",
+        "trim": "250Cutaway SRW 156 WB"
+    },
+    {
+        "year": "2021",
+        "make": "Ford",
+        "model": "Transit Commercial",
+        "trim": "250Cutwy AWD SRW 138WB"
+    },
+    {
+        "year": "2021",
+        "make": "Ford",
+        "model": "Transit Commercial",
+        "trim": "250Cutwy AWD SRW 156WB"
+    },
+    {
+        "year": "2021",
+        "make": "Ford",
+        "model": "Transit Commercial",
+        "trim": "350Cutaway SRW 138 WB"
+    },
+    {
+        "year": "2021",
+        "make": "Ford",
+        "model": "Transit Commercial",
+        "trim": "350Cutaway SRW 156 WB"
+    },
+    {
+        "year": "2021",
+        "make": "Ford",
+        "model": "Transit Commercial",
+        "trim": "350Cutwy AWD SRW 138WB"
+    },
+    {
+        "year": "2021",
+        "make": "Ford",
+        "model": "Transit Commercial",
+        "trim": "350Cutwy AWD SRW 156WB"
+    },
+    {
+        "year": "2021",
+        "make": "Ford",
+        "model": "Transit Commercial",
+        "trim": "350 HDCtwy 138WB 11000GVW"
+    },
+    {
+        "year": "2021",
+        "make": "Ford",
+        "model": "Transit Commercial",
+        "trim": "350 HDCtwy 156WB 11000GVW"
+    },
+    {
+        "year": "2021",
+        "make": "Ford",
+        "model": "Transit Commercial",
+        "trim": "350 HDCtwy 178WB 11000GVW"
+    },
+    {
+        "year": "2021",
+        "make": "Ford",
+        "model": "Transit Commercial",
+        "trim": "350 HDCtwy AWD 138WB 10360"
+    },
+    {
+        "year": "2021",
+        "make": "Ford",
+        "model": "Transit Commercial",
+        "trim": "350 HDCtwy AWD 138WB 11000"
+    },
+    {
+        "year": "2021",
+        "make": "Ford",
+        "model": "Transit Commercial",
+        "trim": "350 HDCtwy AWD 138WB 9950"
+    },
+    {
+        "year": "2021",
+        "make": "Ford",
+        "model": "Transit Commercial",
+        "trim": "350 HDCtwy AWD 156WB 10360"
+    },
+    {
+        "year": "2021",
+        "make": "Ford",
+        "model": "Transit Commercial",
+        "trim": "350 HDCtwy AWD 156WB 11000"
+    },
+    {
+        "year": "2021",
+        "make": "Ford",
+        "model": "Transit Commercial",
+        "trim": "350 HDCtwy AWD 156WB 9950"
+    },
+    {
+        "year": "2021",
+        "make": "Ford",
+        "model": "Transit Commercial",
+        "trim": "350 HDCtwy AWD 178WB 10360"
+    },
+    {
+        "year": "2021",
+        "make": "Ford",
+        "model": "Transit Commercial",
+        "trim": "350 HDCtwy AWD 178WB 11000"
+    },
+    {
+        "year": "2021",
+        "make": "Ford",
+        "model": "Transit Commercial",
+        "trim": "350 HDCtwy AWD 178WB 9950"
+    },
+    {
+        "year": "2021",
+        "make": "Ford",
+        "model": "Transit Commercial",
+        "trim": "350 HDCutwy 138WB 10360GVW"
+    },
+    {
+        "year": "2021",
+        "make": "Ford",
+        "model": "Transit Commercial",
+        "trim": "350 HDCutwy 138WB 9950GVW"
+    },
+    {
+        "year": "2021",
+        "make": "Ford",
+        "model": "Transit Commercial",
+        "trim": "350 HDCutwy 156WB 10360GVW"
+    },
+    {
+        "year": "2021",
+        "make": "Ford",
+        "model": "Transit Commercial",
+        "trim": "350 HDCutwy 156WB 9950GVW"
+    },
+    {
+        "year": "2021",
+        "make": "Ford",
+        "model": "Transit Commercial",
+        "trim": "350 HDCutwy 178WB 10360GVW"
+    },
+    {
+        "year": "2021",
+        "make": "Ford",
+        "model": "Transit Commercial",
+        "trim": "350 HDCutwy 178WB 9950GVW"
+    },
+    {
+        "year": "2021",
+        "make": "Ford",
+        "model": "Transit Connect",
+        "trim": "TitaniumWagon LWB"
+    },
+    {
+        "year": "2021",
+        "make": "Ford",
+        "model": "Transit Connect",
+        "trim": "XLCargo Van LWB w/LGt"
+    },
+    {
+        "year": "2021",
+        "make": "Ford",
+        "model": "Transit Connect",
+        "trim": "XLCargo Van LWB w/RDr"
+    },
+    {
+        "year": "2021",
+        "make": "Ford",
+        "model": "Transit Connect",
+        "trim": "XLCargo Van SWB w/LGt"
+    },
+    {
+        "year": "2021",
+        "make": "Ford",
+        "model": "Transit Connect",
+        "trim": "XLCargo Van SWB w/RDr"
+    },
+    {
+        "year": "2021",
+        "make": "Ford",
+        "model": "Transit Connect",
+        "trim": "XLWagon LWB w/LGt"
+    },
+    {
+        "year": "2021",
+        "make": "Ford",
+        "model": "Transit Connect",
+        "trim": "XLWagon LWB w/RDr"
+    },
+    {
+        "year": "2021",
+        "make": "Ford",
+        "model": "Transit Connect",
+        "trim": "XLTCargo Van LWB w/LGt"
+    },
+    {
+        "year": "2021",
+        "make": "Ford",
+        "model": "Transit Connect",
+        "trim": "XLTCargo Van LWB w/RDr"
+    },
+    {
+        "year": "2021",
+        "make": "Ford",
+        "model": "Transit Connect",
+        "trim": "XLTCargo Van SWB w/LGt"
+    },
+    {
+        "year": "2021",
+        "make": "Ford",
+        "model": "Transit Connect",
+        "trim": "XLTCargo Van SWB w/RDr"
+    },
+    {
+        "year": "2021",
+        "make": "Ford",
+        "model": "Transit Connect",
+        "trim": "XLTWagon LWB w/LGt"
+    },
+    {
+        "year": "2021",
+        "make": "Ford",
+        "model": "Transit Connect",
+        "trim": "XLTWagon LWB w/RDr"
+    },
+    {
+        "year": "2021",
+        "make": "Honda",
+        "model": "Accord",
+        "trim": "EX-L4D Sedan 1.5L at"
+    },
+    {
+        "year": "2021",
+        "make": "Honda",
+        "model": "Accord",
+        "trim": "Hybrid4D Sedan"
+    },
+    {
+        "year": "2021",
+        "make": "Honda",
+        "model": "Accord",
+        "trim": "Hybrid EX4D Sedan"
+    },
+    {
+        "year": "2021",
+        "make": "Honda",
+        "model": "Accord",
+        "trim": "Hybrid EX-L4D Sedan"
+    },
+    {
+        "year": "2021",
+        "make": "Honda",
+        "model": "Accord",
+        "trim": "Hybrid Touring4D Sedan"
+    },
+    {
+        "year": "2021",
+        "make": "Honda",
+        "model": "Accord",
+        "trim": "LX4D Sedan 1.5L at"
+    },
+    {
+        "year": "2021",
+        "make": "Honda",
+        "model": "Accord",
+        "trim": "Sport4D Sedan 1.5L at"
+    },
+    {
+        "year": "2021",
+        "make": "Honda",
+        "model": "Accord",
+        "trim": "Sport4D Sedan 2.0L at"
+    },
+    {
+        "year": "2021",
+        "make": "Honda",
+        "model": "Accord",
+        "trim": "Sport SE4D Sedan 1.5L at"
+    },
+    {
+        "year": "2021",
+        "make": "Honda",
+        "model": "Accord",
+        "trim": "Touring4D Sedan 2.0L at"
+    },
+    {
+        "year": "2021",
+        "make": "Honda",
+        "model": "Civic",
+        "trim": "EX4D Hatchback at"
+    },
+    {
+        "year": "2021",
+        "make": "Honda",
+        "model": "Civic",
+        "trim": "EX4D Sedan at"
+    },
+    {
+        "year": "2021",
+        "make": "Honda",
+        "model": "Civic",
+        "trim": "EX-L4D Sedan at"
+    },
+    {
+        "year": "2021",
+        "make": "Honda",
+        "model": "Civic",
+        "trim": "LX4D Hatchback at"
+    },
+    {
+        "year": "2021",
+        "make": "Honda",
+        "model": "Civic",
+        "trim": "LX4D Sedan at"
+    },
+    {
+        "year": "2021",
+        "make": "Honda",
+        "model": "Civic",
+        "trim": "Sport4D Hatchback 6sp"
+    },
+    {
+        "year": "2021",
+        "make": "Honda",
+        "model": "Civic",
+        "trim": "Sport4D Hatchback at"
+    },
+    {
+        "year": "2021",
+        "make": "Honda",
+        "model": "Civic",
+        "trim": "Sport4D Sedan at"
+    },
+    {
+        "year": "2021",
+        "make": "Honda",
+        "model": "Civic",
+        "trim": "Sport Touring4D Hatchback 6sp"
+    },
+    {
+        "year": "2021",
+        "make": "Honda",
+        "model": "Civic",
+        "trim": "Sport Touring4D Hatchback at"
+    },
+    {
+        "year": "2021",
+        "make": "Honda",
+        "model": "Civic",
+        "trim": "Touring4D Sedan at"
+    },
+    {
+        "year": "2021",
+        "make": "Honda",
+        "model": "Civic",
+        "trim": "Type R4D Hbk 2.0T 6sp"
+    },
+    {
+        "year": "2021",
+        "make": "Honda",
+        "model": "Civic",
+        "trim": "Type R Limited4D Hbk 2.0T 6sp"
+    },
+    {
+        "year": "2021",
+        "make": "Honda",
+        "model": "Clarity",
+        "trim": "Base4D Sedan Plug-In Hyb"
+    },
+    {
+        "year": "2021",
+        "make": "Honda",
+        "model": "Clarity",
+        "trim": "FCEV4D Sedan"
+    },
+    {
+        "year": "2021",
+        "make": "Honda",
+        "model": "Clarity",
+        "trim": "Touring4D Sedan Plug-In Hyb"
+    },
+    {
+        "year": "2021",
+        "make": "Honda",
+        "model": "CR-V",
+        "trim": "EX4D SUV AWD"
+    },
+    {
+        "year": "2021",
+        "make": "Honda",
+        "model": "CR-V",
+        "trim": "EX4D SUV FWD"
+    },
+    {
+        "year": "2021",
+        "make": "Honda",
+        "model": "CR-V",
+        "trim": "EX-L4D SUV AWD"
+    },
+    {
+        "year": "2021",
+        "make": "Honda",
+        "model": "CR-V",
+        "trim": "EX-L4D SUV FWD"
+    },
+    {
+        "year": "2021",
+        "make": "Honda",
+        "model": "CR-V",
+        "trim": "Hybrid EX4D SUV AWD"
+    },
+    {
+        "year": "2021",
+        "make": "Honda",
+        "model": "CR-V",
+        "trim": "Hybrid EX-L4D SUV AWD"
+    },
+    {
+        "year": "2021",
+        "make": "Honda",
+        "model": "CR-V",
+        "trim": "Hybrid Touring4D SUV AWD"
+    },
+    {
+        "year": "2021",
+        "make": "Honda",
+        "model": "CR-V",
+        "trim": "LX4D SUV AWD"
+    },
+    {
+        "year": "2021",
+        "make": "Honda",
+        "model": "CR-V",
+        "trim": "LX4D SUV FWD"
+    },
+    {
+        "year": "2021",
+        "make": "Honda",
+        "model": "CR-V",
+        "trim": "SE4D SUV AWD"
+    },
+    {
+        "year": "2021",
+        "make": "Honda",
+        "model": "CR-V",
+        "trim": "SE4D SUV FWD"
+    },
+    {
+        "year": "2021",
+        "make": "Honda",
+        "model": "CR-V",
+        "trim": "Touring4D SUV AWD"
+    },
+    {
+        "year": "2021",
+        "make": "Honda",
+        "model": "CR-V",
+        "trim": "Touring4D SUV FWD"
+    },
+    {
+        "year": "2021",
+        "make": "Honda",
+        "model": "HR-V",
+        "trim": "EX4D SUV AWD at"
+    },
+    {
+        "year": "2021",
+        "make": "Honda",
+        "model": "HR-V",
+        "trim": "EX4D SUV FWD at"
+    },
+    {
+        "year": "2021",
+        "make": "Honda",
+        "model": "HR-V",
+        "trim": "EX-L4D SUV AWD at"
+    },
+    {
+        "year": "2021",
+        "make": "Honda",
+        "model": "HR-V",
+        "trim": "EX-L4D SUV FWD at"
+    },
+    {
+        "year": "2021",
+        "make": "Honda",
+        "model": "HR-V",
+        "trim": "LX4D SUV AWD at"
+    },
+    {
+        "year": "2021",
+        "make": "Honda",
+        "model": "HR-V",
+        "trim": "LX4D SUV FWD at"
+    },
+    {
+        "year": "2021",
+        "make": "Honda",
+        "model": "HR-V",
+        "trim": "Sport4D SUV AWD at"
+    },
+    {
+        "year": "2021",
+        "make": "Honda",
+        "model": "HR-V",
+        "trim": "Sport4D SUV FWD at"
+    },
+    {
+        "year": "2021",
+        "make": "Honda",
+        "model": "HR-V",
+        "trim": "Touring4D SUV AWD at"
+    },
+    {
+        "year": "2021",
+        "make": "Honda",
+        "model": "Insight",
+        "trim": "EX4D Sedan"
+    },
+    {
+        "year": "2021",
+        "make": "Honda",
+        "model": "Insight",
+        "trim": "LX4D Sedan"
+    },
+    {
+        "year": "2021",
+        "make": "Honda",
+        "model": "Insight",
+        "trim": "Touring4D Sedan"
+    },
+    {
+        "year": "2021",
+        "make": "Honda",
+        "model": "Odyssey",
+        "trim": "EliteWagon"
+    },
+    {
+        "year": "2021",
+        "make": "Honda",
+        "model": "Odyssey",
+        "trim": "EXWagon"
+    },
+    {
+        "year": "2021",
+        "make": "Honda",
+        "model": "Odyssey",
+        "trim": "EX-LWagon"
+    },
+    {
+        "year": "2021",
+        "make": "Honda",
+        "model": "Odyssey",
+        "trim": "LXWagon"
+    },
+    {
+        "year": "2021",
+        "make": "Honda",
+        "model": "Odyssey",
+        "trim": "TouringWagon"
+    },
+    {
+        "year": "2021",
+        "make": "Honda",
+        "model": "Passport",
+        "trim": "Elite4D SUV AWD"
+    },
+    {
+        "year": "2021",
+        "make": "Honda",
+        "model": "Passport",
+        "trim": "EX-L4D SUV AWD"
+    },
+    {
+        "year": "2021",
+        "make": "Honda",
+        "model": "Passport",
+        "trim": "EX-L4D SUV FWD"
+    },
+    {
+        "year": "2021",
+        "make": "Honda",
+        "model": "Passport",
+        "trim": "Sport4D SUV AWD"
+    },
+    {
+        "year": "2021",
+        "make": "Honda",
+        "model": "Passport",
+        "trim": "Sport4D SUV FWD"
+    },
+    {
+        "year": "2021",
+        "make": "Honda",
+        "model": "Passport",
+        "trim": "Touring4D SUV AWD"
+    },
+    {
+        "year": "2021",
+        "make": "Honda",
+        "model": "Passport",
+        "trim": "Touring4D SUV FWD"
+    },
+    {
+        "year": "2021",
+        "make": "Honda",
+        "model": "Pilot",
+        "trim": "Black Edition4D SUV AWD"
+    },
+    {
+        "year": "2021",
+        "make": "Honda",
+        "model": "Pilot",
+        "trim": "Elite4D SUV AWD"
+    },
+    {
+        "year": "2021",
+        "make": "Honda",
+        "model": "Pilot",
+        "trim": "EX4D SUV AWD"
+    },
+    {
+        "year": "2021",
+        "make": "Honda",
+        "model": "Pilot",
+        "trim": "EX4D SUV FWD"
+    },
+    {
+        "year": "2021",
+        "make": "Honda",
+        "model": "Pilot",
+        "trim": "EX-L4D SUV AWD"
+    },
+    {
+        "year": "2021",
+        "make": "Honda",
+        "model": "Pilot",
+        "trim": "EX-L4D SUV FWD"
+    },
+    {
+        "year": "2021",
+        "make": "Honda",
+        "model": "Pilot",
+        "trim": "LX4D SUV AWD"
+    },
+    {
+        "year": "2021",
+        "make": "Honda",
+        "model": "Pilot",
+        "trim": "LX4D SUV FWD"
+    },
+    {
+        "year": "2021",
+        "make": "Honda",
+        "model": "Pilot",
+        "trim": "SE4D SUV AWD"
+    },
+    {
+        "year": "2021",
+        "make": "Honda",
+        "model": "Pilot",
+        "trim": "SE4D SUV FWD"
+    },
+    {
+        "year": "2021",
+        "make": "Honda",
+        "model": "Pilot",
+        "trim": "Touring4D SUV AWD"
+    },
+    {
+        "year": "2021",
+        "make": "Honda",
+        "model": "Pilot",
+        "trim": "Touring4D SUV AWD w/CapChrs"
+    },
+    {
+        "year": "2021",
+        "make": "Honda",
+        "model": "Pilot",
+        "trim": "Touring4D SUV FWD"
+    },
+    {
+        "year": "2021",
+        "make": "Honda",
+        "model": "Pilot",
+        "trim": "Touring4D SUV FWD w/CapChrs"
+    },
+    {
+        "year": "2021",
+        "make": "Honda",
+        "model": "Ridgeline",
+        "trim": "Black EditionCrew Cab AWD"
+    },
+    {
+        "year": "2021",
+        "make": "Honda",
+        "model": "Ridgeline",
+        "trim": "RTLCrew Cab AWD"
+    },
+    {
+        "year": "2021",
+        "make": "Honda",
+        "model": "Ridgeline",
+        "trim": "RTL-ECrew Cab AWD"
+    },
+    {
+        "year": "2021",
+        "make": "Honda",
+        "model": "Ridgeline",
+        "trim": "SportCrew Cab AWD"
+    },
+    {
+        "year": "2021",
+        "make": "Hyundai",
+        "model": "Accent",
+        "trim": "Limited4D Sedan at"
+    },
+    {
+        "year": "2021",
+        "make": "Hyundai",
+        "model": "Accent",
+        "trim": "SE4D Sedan 6sp"
+    },
+    {
+        "year": "2021",
+        "make": "Hyundai",
+        "model": "Accent",
+        "trim": "SE4D Sedan at"
+    },
+    {
+        "year": "2021",
+        "make": "Hyundai",
+        "model": "Accent",
+        "trim": "SEL4D Sedan at"
+    },
+    {
+        "year": "2021",
+        "make": "Hyundai",
+        "model": "Elantra",
+        "trim": "Limited4D Sedan at"
+    },
+    {
+        "year": "2021",
+        "make": "Hyundai",
+        "model": "Elantra",
+        "trim": "Limited HEV4D Sedan at"
+    },
+    {
+        "year": "2021",
+        "make": "Hyundai",
+        "model": "Elantra",
+        "trim": "N-Line4D Sedan 6sp"
+    },
+    {
+        "year": "2021",
+        "make": "Hyundai",
+        "model": "Elantra",
+        "trim": "N-Line4D Sedan at"
+    },
+    {
+        "year": "2021",
+        "make": "Hyundai",
+        "model": "Elantra",
+        "trim": "SE4D Sedan at"
+    },
+    {
+        "year": "2021",
+        "make": "Hyundai",
+        "model": "Elantra",
+        "trim": "SEL4D Sedan at"
+    },
+    {
+        "year": "2021",
+        "make": "Hyundai",
+        "model": "Elantra",
+        "trim": "SEL HEV4D Sedan at"
+    },
+    {
+        "year": "2021",
+        "make": "Hyundai",
+        "model": "Ioniq",
+        "trim": "Blue4D Hatchback Hybrid"
+    },
+    {
+        "year": "2021",
+        "make": "Hyundai",
+        "model": "Ioniq",
+        "trim": "Limited4D Hatchback Hybrid"
+    },
+    {
+        "year": "2021",
+        "make": "Hyundai",
+        "model": "Ioniq",
+        "trim": "Limited4D Hbk Electric"
+    },
+    {
+        "year": "2021",
+        "make": "Hyundai",
+        "model": "Ioniq",
+        "trim": "Limited4D Hbk Plug-In Hyb"
+    },
+    {
+        "year": "2021",
+        "make": "Hyundai",
+        "model": "Ioniq",
+        "trim": "SE4D Hatchback Hybrid"
+    },
+    {
+        "year": "2021",
+        "make": "Hyundai",
+        "model": "Ioniq",
+        "trim": "SE4D Hbk Electric"
+    },
+    {
+        "year": "2021",
+        "make": "Hyundai",
+        "model": "Ioniq",
+        "trim": "SE4D Hbk Plug-In Hyb"
+    },
+    {
+        "year": "2021",
+        "make": "Hyundai",
+        "model": "Ioniq",
+        "trim": "SEL4D Hatchback Hybrid"
+    },
+    {
+        "year": "2021",
+        "make": "Hyundai",
+        "model": "Ioniq",
+        "trim": "SEL4D Hbk Plug-In Hyb"
+    },
+    {
+        "year": "2021",
+        "make": "Hyundai",
+        "model": "Kona",
+        "trim": "EV Limited4D SUV FWD"
+    },
+    {
+        "year": "2021",
+        "make": "Hyundai",
+        "model": "Kona",
+        "trim": "EV SEL4D SUV FWD"
+    },
+    {
+        "year": "2021",
+        "make": "Hyundai",
+        "model": "Kona",
+        "trim": "EV Ultimate4D SUV FWD"
+    },
+    {
+        "year": "2021",
+        "make": "Hyundai",
+        "model": "Kona",
+        "trim": "Limited4D SUV AWD 1.6T"
+    },
+    {
+        "year": "2021",
+        "make": "Hyundai",
+        "model": "Kona",
+        "trim": "Limited4D SUV FWD 1.6T"
+    },
+    {
+        "year": "2021",
+        "make": "Hyundai",
+        "model": "Kona",
+        "trim": "Night4D SUV AWD 1.6T"
+    },
+    {
+        "year": "2021",
+        "make": "Hyundai",
+        "model": "Kona",
+        "trim": "Night4D SUV FWD 1.6T"
+    },
+    {
+        "year": "2021",
+        "make": "Hyundai",
+        "model": "Kona",
+        "trim": "SE4D SUV AWD 2.0L"
+    },
+    {
+        "year": "2021",
+        "make": "Hyundai",
+        "model": "Kona",
+        "trim": "SE4D SUV FWD 2.0L"
+    },
+    {
+        "year": "2021",
+        "make": "Hyundai",
+        "model": "Kona",
+        "trim": "SEL4D SUV AWD 2.0L"
+    },
+    {
+        "year": "2021",
+        "make": "Hyundai",
+        "model": "Kona",
+        "trim": "SEL4D SUV FWD 2.0L"
+    },
+    {
+        "year": "2021",
+        "make": "Hyundai",
+        "model": "Kona",
+        "trim": "SEL Plus4D SUV AWD 2.0L"
+    },
+    {
+        "year": "2021",
+        "make": "Hyundai",
+        "model": "Kona",
+        "trim": "SEL Plus4D SUV FWD 2.0L"
+    },
+    {
+        "year": "2021",
+        "make": "Hyundai",
+        "model": "Kona",
+        "trim": "Ultimate4D SUV AWD 1.6T"
+    },
+    {
+        "year": "2021",
+        "make": "Hyundai",
+        "model": "Kona",
+        "trim": "Ultimate4D SUV FWD 1.6T"
+    },
+    {
+        "year": "2021",
+        "make": "Hyundai",
+        "model": "NEXO",
+        "trim": "Blue4D SUV"
+    },
+    {
+        "year": "2021",
+        "make": "Hyundai",
+        "model": "NEXO",
+        "trim": "Limited4D SUV"
+    },
+    {
+        "year": "2021",
+        "make": "Hyundai",
+        "model": "Palisade",
+        "trim": "Calligraphy4D SUV AWD"
+    },
+    {
+        "year": "2021",
+        "make": "Hyundai",
+        "model": "Palisade",
+        "trim": "Calligraphy4D SUV FWD"
+    },
+    {
+        "year": "2021",
+        "make": "Hyundai",
+        "model": "Palisade",
+        "trim": "Limited4D SUV AWD"
+    },
+    {
+        "year": "2021",
+        "make": "Hyundai",
+        "model": "Palisade",
+        "trim": "Limited4D SUV FWD"
+    },
+    {
+        "year": "2021",
+        "make": "Hyundai",
+        "model": "Palisade",
+        "trim": "SE4D SUV AWD"
+    },
+    {
+        "year": "2021",
+        "make": "Hyundai",
+        "model": "Palisade",
+        "trim": "SE4D SUV FWD"
+    },
+    {
+        "year": "2021",
+        "make": "Hyundai",
+        "model": "Palisade",
+        "trim": "SEL4D SUV AWD"
+    },
+    {
+        "year": "2021",
+        "make": "Hyundai",
+        "model": "Palisade",
+        "trim": "SEL4D SUV FWD"
+    },
+    {
+        "year": "2021",
+        "make": "Hyundai",
+        "model": "Santa Fe",
+        "trim": "Blue HEV4D SUV AWD"
+    },
+    {
+        "year": "2021",
+        "make": "Hyundai",
+        "model": "Santa Fe",
+        "trim": "Calligraphy4D SUV AWD 2.5T"
+    },
+    {
+        "year": "2021",
+        "make": "Hyundai",
+        "model": "Santa Fe",
+        "trim": "Calligraphy4D SUV FWD 2.5T"
+    },
+    {
+        "year": "2021",
+        "make": "Hyundai",
+        "model": "Santa Fe",
+        "trim": "Limited4D SUV AWD 2.5T"
+    },
+    {
+        "year": "2021",
+        "make": "Hyundai",
+        "model": "Santa Fe",
+        "trim": "Limited4D SUV FWD 2.5T"
+    },
+    {
+        "year": "2021",
+        "make": "Hyundai",
+        "model": "Santa Fe",
+        "trim": "Limited HEV4D SUV AWD"
+    },
+    {
+        "year": "2021",
+        "make": "Hyundai",
+        "model": "Santa Fe",
+        "trim": "SE4D SUV AWD 2.5L"
+    },
+    {
+        "year": "2021",
+        "make": "Hyundai",
+        "model": "Santa Fe",
+        "trim": "SE4D SUV FWD 2.5L"
+    },
+    {
+        "year": "2021",
+        "make": "Hyundai",
+        "model": "Santa Fe",
+        "trim": "SEL4D SUV AWD 2.5L"
+    },
+    {
+        "year": "2021",
+        "make": "Hyundai",
+        "model": "Santa Fe",
+        "trim": "SEL4D SUV FWD 2.5L"
+    },
+    {
+        "year": "2021",
+        "make": "Hyundai",
+        "model": "Santa Fe",
+        "trim": "SEL Premium HEV4D SUV AWD"
+    },
+    {
+        "year": "2021",
+        "make": "Hyundai",
+        "model": "Sonata",
+        "trim": "Hybrid Blue4D Sedan"
+    },
+    {
+        "year": "2021",
+        "make": "Hyundai",
+        "model": "Sonata",
+        "trim": "Hybrid Limited4D Sedan"
+    },
+    {
+        "year": "2021",
+        "make": "Hyundai",
+        "model": "Sonata",
+        "trim": "Hybrid SEL4D Sedan"
+    },
+    {
+        "year": "2021",
+        "make": "Hyundai",
+        "model": "Sonata",
+        "trim": "Limited4D Sedan"
+    },
+    {
+        "year": "2021",
+        "make": "Hyundai",
+        "model": "Sonata",
+        "trim": "N-Line4D Sedan"
+    },
+    {
+        "year": "2021",
+        "make": "Hyundai",
+        "model": "Sonata",
+        "trim": "SE4D Sedan"
+    },
+    {
+        "year": "2021",
+        "make": "Hyundai",
+        "model": "Sonata",
+        "trim": "SEL4D Sedan"
+    },
+    {
+        "year": "2021",
+        "make": "Hyundai",
+        "model": "Sonata",
+        "trim": "SEL Plus4D Sedan"
+    },
+    {
+        "year": "2021",
+        "make": "Hyundai",
+        "model": "Tucson",
+        "trim": "Limited4D SUV AWD"
+    },
+    {
+        "year": "2021",
+        "make": "Hyundai",
+        "model": "Tucson",
+        "trim": "Limited4D SUV FWD"
+    },
+    {
+        "year": "2021",
+        "make": "Hyundai",
+        "model": "Tucson",
+        "trim": "SE4D SUV AWD"
+    },
+    {
+        "year": "2021",
+        "make": "Hyundai",
+        "model": "Tucson",
+        "trim": "SE4D SUV FWD"
+    },
+    {
+        "year": "2021",
+        "make": "Hyundai",
+        "model": "Tucson",
+        "trim": "SEL4D SUV AWD"
+    },
+    {
+        "year": "2021",
+        "make": "Hyundai",
+        "model": "Tucson",
+        "trim": "SEL4D SUV FWD"
+    },
+    {
+        "year": "2021",
+        "make": "Hyundai",
+        "model": "Tucson",
+        "trim": "Sport4D SUV AWD"
+    },
+    {
+        "year": "2021",
+        "make": "Hyundai",
+        "model": "Tucson",
+        "trim": "Sport4D SUV FWD"
+    },
+    {
+        "year": "2021",
+        "make": "Hyundai",
+        "model": "Tucson",
+        "trim": "Ultimate4D SUV AWD"
+    },
+    {
+        "year": "2021",
+        "make": "Hyundai",
+        "model": "Tucson",
+        "trim": "Ultimate4D SUV FWD"
+    },
+    {
+        "year": "2021",
+        "make": "Hyundai",
+        "model": "Tucson",
+        "trim": "Value4D SUV AWD"
+    },
+    {
+        "year": "2021",
+        "make": "Hyundai",
+        "model": "Tucson",
+        "trim": "Value4D SUV FWD"
+    },
+    {
+        "year": "2021",
+        "make": "Hyundai",
+        "model": "Veloster",
+        "trim": "Base3D Coupe 6sp"
+    },
+    {
+        "year": "2021",
+        "make": "Hyundai",
+        "model": "Veloster",
+        "trim": "Base3D Coupe at"
+    },
+    {
+        "year": "2021",
+        "make": "Hyundai",
+        "model": "Veloster",
+        "trim": "N3D Coupe 6sp"
+    },
+    {
+        "year": "2021",
+        "make": "Hyundai",
+        "model": "Veloster",
+        "trim": "N3D Coupe at"
+    },
+    {
+        "year": "2021",
+        "make": "Hyundai",
+        "model": "Veloster",
+        "trim": "Premium3D Coupe at"
+    },
+    {
+        "year": "2021",
+        "make": "Hyundai",
+        "model": "Veloster",
+        "trim": "Turbo3D Coupe at"
+    },
+    {
+        "year": "2021",
+        "make": "Hyundai",
+        "model": "Veloster",
+        "trim": "Turbo R-Spec3D Coupe 6sp"
+    },
+    {
+        "year": "2021",
+        "make": "Hyundai",
+        "model": "Veloster",
+        "trim": "Turbo Ultimate3D Coupe at"
+    },
+    {
+        "year": "2021",
+        "make": "Hyundai",
+        "model": "Venue",
+        "trim": "Denim4D SUV FWD at"
+    },
+    {
+        "year": "2021",
+        "make": "Hyundai",
+        "model": "Venue",
+        "trim": "SE4D SUV FWD at"
+    },
+    {
+        "year": "2021",
+        "make": "Hyundai",
+        "model": "Venue",
+        "trim": "SEL4D SUV FWD at"
+    },
+    {
+        "year": "2021",
+        "make": "Lexus",
+        "model": "ES 250",
+        "trim": "Base4D Sedan AWD"
+    },
+    {
+        "year": "2021",
+        "make": "Lexus",
+        "model": "ES 250",
+        "trim": "F Sport4D Sedan AWD"
+    },
+    {
+        "year": "2021",
+        "make": "Lexus",
+        "model": "ES 250",
+        "trim": "Luxury4D Sedan AWD"
+    },
+    {
+        "year": "2021",
+        "make": "Lexus",
+        "model": "ES 250",
+        "trim": "Ultra Luxury4D Sedan AWD"
+    },
+    {
+        "year": "2021",
+        "make": "Lexus",
+        "model": "ES 300h",
+        "trim": "Hybrid4D Sedan"
+    },
+    {
+        "year": "2021",
+        "make": "Lexus",
+        "model": "ES 300h",
+        "trim": "Luxury Hybrid4D Sedan"
+    },
+    {
+        "year": "2021",
+        "make": "Lexus",
+        "model": "ES 300h",
+        "trim": "Ultra Luxury Hybrid4D Sedan"
+    },
+    {
+        "year": "2021",
+        "make": "Lexus",
+        "model": "ES 350",
+        "trim": "Base4D Luxury Sedan"
+    },
+    {
+        "year": "2021",
+        "make": "Lexus",
+        "model": "ES 350",
+        "trim": "F Sport4D Luxury Sedan"
+    },
+    {
+        "year": "2021",
+        "make": "Lexus",
+        "model": "ES 350",
+        "trim": "Luxury4D Luxury Sedan"
+    },
+    {
+        "year": "2021",
+        "make": "Lexus",
+        "model": "ES 350",
+        "trim": "Ultra Luxury4D Luxury Sedan"
+    },
+    {
+        "year": "2021",
+        "make": "Lexus",
+        "model": "GX 460",
+        "trim": "Base4D SUV 4WD"
+    },
+    {
+        "year": "2021",
+        "make": "Lexus",
+        "model": "GX 460",
+        "trim": "Luxury4D SUV 4WD"
+    },
+    {
+        "year": "2021",
+        "make": "Lexus",
+        "model": "IS 300",
+        "trim": "4D Sedan"
+    },
+    {
+        "year": "2021",
+        "make": "Lexus",
+        "model": "IS 300",
+        "trim": "4D Sedan AWD"
+    },
+    {
+        "year": "2021",
+        "make": "Lexus",
+        "model": "IS 350",
+        "trim": "F Sport4D Sedan"
+    },
+    {
+        "year": "2021",
+        "make": "Lexus",
+        "model": "IS 350",
+        "trim": "F Sport4D Sedan AWD"
+    },
+    {
+        "year": "2021",
+        "make": "Lexus",
+        "model": "LC 500",
+        "trim": "2D Convertible"
+    },
+    {
+        "year": "2021",
+        "make": "Lexus",
+        "model": "LC 500",
+        "trim": "2D Coupe"
+    },
+    {
+        "year": "2021",
+        "make": "Lexus",
+        "model": "LC 500h",
+        "trim": "2D Coupe"
+    },
+    {
+        "year": "2021",
+        "make": "Lexus",
+        "model": "LS 500",
+        "trim": "Base4D Sedan"
+    },
+    {
+        "year": "2021",
+        "make": "Lexus",
+        "model": "LS 500",
+        "trim": "Base4D Sedan AWD"
+    },
+    {
+        "year": "2021",
+        "make": "Lexus",
+        "model": "LS 500",
+        "trim": "F Sport4D Sedan"
+    },
+    {
+        "year": "2021",
+        "make": "Lexus",
+        "model": "LS 500",
+        "trim": "F Sport4D Sedan AWD"
+    },
+    {
+        "year": "2021",
+        "make": "Lexus",
+        "model": "LX 570",
+        "trim": "4D SUV AWD w/2-Row"
+    },
+    {
+        "year": "2021",
+        "make": "Lexus",
+        "model": "LX 570",
+        "trim": "4D SUV AWD w/3-Row"
+    },
+    {
+        "year": "2021",
+        "make": "Lexus",
+        "model": "NX 300",
+        "trim": "Base4D SUV AWD"
+    },
+    {
+        "year": "2021",
+        "make": "Lexus",
+        "model": "NX 300",
+        "trim": "Base4D SUV FWD"
+    },
+    {
+        "year": "2021",
+        "make": "Lexus",
+        "model": "NX 300",
+        "trim": "F Sport4D SUV AWD"
+    },
+    {
+        "year": "2021",
+        "make": "Lexus",
+        "model": "NX 300",
+        "trim": "F Sport4D SUV FWD"
+    },
+    {
+        "year": "2021",
+        "make": "Lexus",
+        "model": "NX 300",
+        "trim": "Luxury4D SUV AWD"
+    },
+    {
+        "year": "2021",
+        "make": "Lexus",
+        "model": "NX 300",
+        "trim": "Luxury4D SUV FWD"
+    },
+    {
+        "year": "2021",
+        "make": "Lexus",
+        "model": "NX 300h",
+        "trim": "Base4D SUV AWD"
+    },
+    {
+        "year": "2021",
+        "make": "Lexus",
+        "model": "NX 300h",
+        "trim": "F Sport Black Line4D SUV AWD"
+    },
+    {
+        "year": "2021",
+        "make": "Lexus",
+        "model": "NX 300h",
+        "trim": "Luxury4D SUV AWD"
+    },
+    {
+        "year": "2021",
+        "make": "Lexus",
+        "model": "RC 300",
+        "trim": "Base2D Coupe"
+    },
+    {
+        "year": "2021",
+        "make": "Lexus",
+        "model": "RC 300",
+        "trim": "Base2D Coupe AWD"
+    },
+    {
+        "year": "2021",
+        "make": "Lexus",
+        "model": "RC 300",
+        "trim": "F Sport2D Coupe"
+    },
+    {
+        "year": "2021",
+        "make": "Lexus",
+        "model": "RC 300",
+        "trim": "F Sport2D Coupe AWD"
+    },
+    {
+        "year": "2021",
+        "make": "Lexus",
+        "model": "RC 350",
+        "trim": "Base2D Coupe"
+    },
+    {
+        "year": "2021",
+        "make": "Lexus",
+        "model": "RC 350",
+        "trim": "Base2D Coupe AWD"
+    },
+    {
+        "year": "2021",
+        "make": "Lexus",
+        "model": "RC 350",
+        "trim": "F Sport2D Coupe"
+    },
+    {
+        "year": "2021",
+        "make": "Lexus",
+        "model": "RC 350",
+        "trim": "F Sport2D Coupe AWD"
+    },
+    {
+        "year": "2021",
+        "make": "Lexus",
+        "model": "RC F",
+        "trim": "Base2D Coupe"
+    },
+    {
+        "year": "2021",
+        "make": "Lexus",
+        "model": "RC F",
+        "trim": "Track Edition2D Coupe"
+    },
+    {
+        "year": "2021",
+        "make": "Lexus",
+        "model": "RX 350",
+        "trim": "Base4D SUV AWD"
+    },
+    {
+        "year": "2021",
+        "make": "Lexus",
+        "model": "RX 350",
+        "trim": "Base4D SUV FWD"
+    },
+    {
+        "year": "2021",
+        "make": "Lexus",
+        "model": "RX 350",
+        "trim": "F Sport4D SUV AWD"
+    },
+    {
+        "year": "2021",
+        "make": "Lexus",
+        "model": "RX 350",
+        "trim": "F Sport4D SUV FWD"
+    },
+    {
+        "year": "2021",
+        "make": "Lexus",
+        "model": "RX 350",
+        "trim": "Performance4D SUV AWD"
+    },
+    {
+        "year": "2021",
+        "make": "Lexus",
+        "model": "RX 350",
+        "trim": "Performance4D SUV FWD"
+    },
+    {
+        "year": "2021",
+        "make": "Lexus",
+        "model": "RX 350L",
+        "trim": "Base4D SUV AWD"
+    },
+    {
+        "year": "2021",
+        "make": "Lexus",
+        "model": "RX 350L",
+        "trim": "Base4D SUV FWD"
+    },
+    {
+        "year": "2021",
+        "make": "Lexus",
+        "model": "RX 350L",
+        "trim": "Luxury4D SUV AWD"
+    },
+    {
+        "year": "2021",
+        "make": "Lexus",
+        "model": "RX 350L",
+        "trim": "Luxury4D SUV FWD"
+    },
+    {
+        "year": "2021",
+        "make": "Lexus",
+        "model": "RX 450h",
+        "trim": "F Sport4D SUV AWD"
+    },
+    {
+        "year": "2021",
+        "make": "Lexus",
+        "model": "RX 450h",
+        "trim": "F Sport Handling4D SUV AWD"
+    },
+    {
+        "year": "2021",
+        "make": "Lexus",
+        "model": "RX 450h",
+        "trim": "Hybrid4D SUV AWD"
+    },
+    {
+        "year": "2021",
+        "make": "Lexus",
+        "model": "RX 450hL",
+        "trim": "Base4D SUV AWD"
+    },
+    {
+        "year": "2021",
+        "make": "Lexus",
+        "model": "RX 450hL",
+        "trim": "Luxury4D SUV AWD"
+    },
+    {
+        "year": "2021",
+        "make": "Lexus",
+        "model": "UX 200",
+        "trim": "Base4D SUV FWD"
+    },
+    {
+        "year": "2021",
+        "make": "Lexus",
+        "model": "UX 200",
+        "trim": "F Sport4D SUV FWD"
+    },
+    {
+        "year": "2021",
+        "make": "Lexus",
+        "model": "UX 200",
+        "trim": "Luxury4D SUV FWD"
+    },
+    {
+        "year": "2021",
+        "make": "Lexus",
+        "model": "UX 250h",
+        "trim": "Base4D SUV AWD"
+    },
+    {
+        "year": "2021",
+        "make": "Lexus",
+        "model": "UX 250h",
+        "trim": "F Sport4D SUV AWD"
+    },
+    {
+        "year": "2021",
+        "make": "Lexus",
+        "model": "UX 250h",
+        "trim": "Luxury4D SUV AWD"
+    },
+    {
+        "year": "2021",
+        "make": "Mercedes-Benz",
+        "model": "1500 Sprinter Vans",
+        "trim": "High RoofWagon Gas 144WB"
+    },
+    {
+        "year": "2021",
+        "make": "Mercedes-Benz",
+        "model": "1500 Sprinter Vans",
+        "trim": "Std RoofCargo Van Gas 144WB"
+    },
+    {
+        "year": "2021",
+        "make": "Mercedes-Benz",
+        "model": "2500 Sprinter Vans",
+        "trim": "High RoofCargo Van 170 WB"
+    },
+    {
+        "year": "2021",
+        "make": "Mercedes-Benz",
+        "model": "2500 Sprinter Vans",
+        "trim": "High RoofCargo Van Gas 170WB"
+    },
+    {
+        "year": "2021",
+        "make": "Mercedes-Benz",
+        "model": "2500 Sprinter Vans",
+        "trim": "High RoofCrew Cargo 170WB"
+    },
+    {
+        "year": "2021",
+        "make": "Mercedes-Benz",
+        "model": "2500 Sprinter Vans",
+        "trim": "High RoofCrew Cargo Gas 170WB"
+    },
+    {
+        "year": "2021",
+        "make": "Mercedes-Benz",
+        "model": "2500 Sprinter Vans",
+        "trim": "High RoofExt Cargo Van 170 WB"
+    },
+    {
+        "year": "2021",
+        "make": "Mercedes-Benz",
+        "model": "2500 Sprinter Vans",
+        "trim": "High RoofWagon 144 WB"
+    },
+    {
+        "year": "2021",
+        "make": "Mercedes-Benz",
+        "model": "2500 Sprinter Vans",
+        "trim": "High RoofWagon 170 WB"
+    },
+    {
+        "year": "2021",
+        "make": "Mercedes-Benz",
+        "model": "2500 Sprinter Vans",
+        "trim": "High RoofWagon Gas 144WB"
+    },
+    {
+        "year": "2021",
+        "make": "Mercedes-Benz",
+        "model": "2500 Sprinter Vans",
+        "trim": "High RoofWagon Gas 170WB"
+    },
+    {
+        "year": "2021",
+        "make": "Mercedes-Benz",
+        "model": "2500 Sprinter Vans",
+        "trim": "Std RoofCargo Van 144 WB"
+    },
+    {
+        "year": "2021",
+        "make": "Mercedes-Benz",
+        "model": "2500 Sprinter Vans",
+        "trim": "Std RoofCargo Van Gas 144WB"
+    },
+    {
+        "year": "2021",
+        "make": "Mercedes-Benz",
+        "model": "2500 Sprinter Vans",
+        "trim": "Std RoofCrew Cargo 144WB"
+    },
+    {
+        "year": "2021",
+        "make": "Mercedes-Benz",
+        "model": "2500 Sprinter Vans",
+        "trim": "Std RoofCrew Cargo Gas 144WB"
+    },
+    {
+        "year": "2021",
+        "make": "Mercedes-Benz",
+        "model": "3500 Sprinter Vans",
+        "trim": "High RoofCargo Van 144 WB"
+    },
+    {
+        "year": "2021",
+        "make": "Mercedes-Benz",
+        "model": "3500 Sprinter Vans",
+        "trim": "High RoofCargo Van 170 WB"
+    },
+    {
+        "year": "2021",
+        "make": "Mercedes-Benz",
+        "model": "3500 Sprinter Vans",
+        "trim": "High RoofCrew Cargo 170WB"
+    },
+    {
+        "year": "2021",
+        "make": "Mercedes-Benz",
+        "model": "3500 Sprinter Vans",
+        "trim": "High RoofExt Cargo Van 170 WB"
+    },
+    {
+        "year": "2021",
+        "make": "Mercedes-Benz",
+        "model": "3500 Sprinter Vans",
+        "trim": "High Roof XDCargo Van 170 WB"
+    },
+    {
+        "year": "2021",
+        "make": "Mercedes-Benz",
+        "model": "3500 Sprinter Vans",
+        "trim": "High Roof XDCrew Cargo 170WB"
+    },
+    {
+        "year": "2021",
+        "make": "Mercedes-Benz",
+        "model": "3500 Sprinter Vans",
+        "trim": "High Roof XDExt Cargo Van 170 WB"
+    },
+    {
+        "year": "2021",
+        "make": "Mercedes-Benz",
+        "model": "3500 Sprinter Vans",
+        "trim": "Std RoofCrew Cargo 144WB"
+    },
+    {
+        "year": "2021",
+        "make": "Mercedes-Benz",
+        "model": "3500 Sprinter Vans",
+        "trim": "Std Roof XDCargo Van 144 WB"
+    },
+    {
+        "year": "2021",
+        "make": "Mercedes-Benz",
+        "model": "3500 Sprinter Vans",
+        "trim": "Std Roof XDCrew Cargo 144WB"
+    },
+    {
+        "year": "2021",
+        "make": "Mercedes-Benz",
+        "model": "3500XD Sprinter C/C",
+        "trim": "Cab/Chassis 144 WB"
+    },
+    {
+        "year": "2021",
+        "make": "Mercedes-Benz",
+        "model": "3500XD Sprinter C/C",
+        "trim": "Cab/Chassis 170 WB"
+    },
+    {
+        "year": "2021",
+        "make": "Mercedes-Benz",
+        "model": "4500 Sprinter C/C",
+        "trim": "Cab/Chassis 144 WB"
+    },
+    {
+        "year": "2021",
+        "make": "Mercedes-Benz",
+        "model": "4500 Sprinter C/C",
+        "trim": "Cab/Chassis 170 WB"
+    },
+    {
+        "year": "2021",
+        "make": "Mercedes-Benz",
+        "model": "A-Class",
+        "trim": "A2204D Sedan"
+    },
+    {
+        "year": "2021",
+        "make": "Mercedes-Benz",
+        "model": "A-Class",
+        "trim": "A2204D Sedan 4Matic"
+    },
+    {
+        "year": "2021",
+        "make": "Mercedes-Benz",
+        "model": "A-Class",
+        "trim": "AMG A354D Sedan 4Matic"
+    },
+    {
+        "year": "2021",
+        "make": "Mercedes-Benz",
+        "model": "AMG GT",
+        "trim": "434D Coupe"
+    },
+    {
+        "year": "2021",
+        "make": "Mercedes-Benz",
+        "model": "AMG GT",
+        "trim": "534D Coupe"
+    },
+    {
+        "year": "2021",
+        "make": "Mercedes-Benz",
+        "model": "AMG GT",
+        "trim": "634D Coupe"
+    },
+    {
+        "year": "2021",
+        "make": "Mercedes-Benz",
+        "model": "AMG GT",
+        "trim": "63 S4D Coupe"
+    },
+    {
+        "year": "2021",
+        "make": "Mercedes-Benz",
+        "model": "C-Class",
+        "trim": "AMG C432D Cabriolet"
+    },
+    {
+        "year": "2021",
+        "make": "Mercedes-Benz",
+        "model": "C-Class",
+        "trim": "AMG C432D Coupe"
+    },
+    {
+        "year": "2021",
+        "make": "Mercedes-Benz",
+        "model": "C-Class",
+        "trim": "AMG C434D Sedan"
+    },
+    {
+        "year": "2021",
+        "make": "Mercedes-Benz",
+        "model": "C-Class",
+        "trim": "AMG C632D Cabriolet"
+    },
+    {
+        "year": "2021",
+        "make": "Mercedes-Benz",
+        "model": "C-Class",
+        "trim": "AMG C632D Coupe"
+    },
+    {
+        "year": "2021",
+        "make": "Mercedes-Benz",
+        "model": "C-Class",
+        "trim": "AMG C634D Sedan"
+    },
+    {
+        "year": "2021",
+        "make": "Mercedes-Benz",
+        "model": "C-Class",
+        "trim": "AMG C63 S2D Cabriolet"
+    },
+    {
+        "year": "2021",
+        "make": "Mercedes-Benz",
+        "model": "C-Class",
+        "trim": "AMG C63 S2D Coupe"
+    },
+    {
+        "year": "2021",
+        "make": "Mercedes-Benz",
+        "model": "C-Class",
+        "trim": "AMG C63 S4D Sedan"
+    },
+    {
+        "year": "2021",
+        "make": "Mercedes-Benz",
+        "model": "C-Class",
+        "trim": "C3002D Cabriolet"
+    },
+    {
+        "year": "2021",
+        "make": "Mercedes-Benz",
+        "model": "C-Class",
+        "trim": "C3002D Cabriolet 4Matic"
+    },
+    {
+        "year": "2021",
+        "make": "Mercedes-Benz",
+        "model": "C-Class",
+        "trim": "C3002D Coupe"
+    },
+    {
+        "year": "2021",
+        "make": "Mercedes-Benz",
+        "model": "C-Class",
+        "trim": "C3002D Coupe 4Matic"
+    },
+    {
+        "year": "2021",
+        "make": "Mercedes-Benz",
+        "model": "C-Class",
+        "trim": "C3004D Sedan"
+    },
+    {
+        "year": "2021",
+        "make": "Mercedes-Benz",
+        "model": "C-Class",
+        "trim": "C3004D Sedan 4Matic"
+    },
+    {
+        "year": "2021",
+        "make": "Mercedes-Benz",
+        "model": "CLA",
+        "trim": "AMG CLA354D Coupe 4Matic"
+    },
+    {
+        "year": "2021",
+        "make": "Mercedes-Benz",
+        "model": "CLA",
+        "trim": "AMG CLA454D Coupe 4Matic"
+    },
+    {
+        "year": "2021",
+        "make": "Mercedes-Benz",
+        "model": "CLA",
+        "trim": "CLA2504D Coupe"
+    },
+    {
+        "year": "2021",
+        "make": "Mercedes-Benz",
+        "model": "CLA",
+        "trim": "CLA2504D Coupe 4Matic"
+    },
+    {
+        "year": "2021",
+        "make": "Mercedes-Benz",
+        "model": "E-Class",
+        "trim": "AMG E532D Cabriolet"
+    },
+    {
+        "year": "2021",
+        "make": "Mercedes-Benz",
+        "model": "E-Class",
+        "trim": "AMG E532D Coupe"
+    },
+    {
+        "year": "2021",
+        "make": "Mercedes-Benz",
+        "model": "E-Class",
+        "trim": "AMG E534D Sedan"
+    },
+    {
+        "year": "2021",
+        "make": "Mercedes-Benz",
+        "model": "E-Class",
+        "trim": "AMG E63 S4D Sedan"
+    },
+    {
+        "year": "2021",
+        "make": "Mercedes-Benz",
+        "model": "E-Class",
+        "trim": "AMG E63 S4D Wagon"
+    },
+    {
+        "year": "2021",
+        "make": "Mercedes-Benz",
+        "model": "E-Class",
+        "trim": "E3504D Sedan"
+    },
+    {
+        "year": "2021",
+        "make": "Mercedes-Benz",
+        "model": "E-Class",
+        "trim": "E3504D Sedan 4Matic"
+    },
+    {
+        "year": "2021",
+        "make": "Mercedes-Benz",
+        "model": "E-Class",
+        "trim": "E4502D Cabriolet"
+    },
+    {
+        "year": "2021",
+        "make": "Mercedes-Benz",
+        "model": "E-Class",
+        "trim": "E4502D Cabriolet 4Matic"
+    },
+    {
+        "year": "2021",
+        "make": "Mercedes-Benz",
+        "model": "E-Class",
+        "trim": "E4502D Coupe"
+    },
+    {
+        "year": "2021",
+        "make": "Mercedes-Benz",
+        "model": "E-Class",
+        "trim": "E4502D Coupe 4Matic"
+    },
+    {
+        "year": "2021",
+        "make": "Mercedes-Benz",
+        "model": "E-Class",
+        "trim": "E4504D Sedan 4Matic"
+    },
+    {
+        "year": "2021",
+        "make": "Mercedes-Benz",
+        "model": "E-Class",
+        "trim": "E4504D Wagon 4Matic"
+    },
+    {
+        "year": "2021",
+        "make": "Mercedes-Benz",
+        "model": "G-Class",
+        "trim": "AMG G634D SUV"
+    },
+    {
+        "year": "2021",
+        "make": "Mercedes-Benz",
+        "model": "G-Class",
+        "trim": "G5504D SUV"
+    },
+    {
+        "year": "2021",
+        "make": "Mercedes-Benz",
+        "model": "GLA",
+        "trim": "GLA2504D SAV"
+    },
+    {
+        "year": "2021",
+        "make": "Mercedes-Benz",
+        "model": "GLA",
+        "trim": "GLA2504D SAV 4Matic"
+    },
+    {
+        "year": "2021",
+        "make": "Mercedes-Benz",
+        "model": "GLB",
+        "trim": "GLB2504D SUV"
+    },
+    {
+        "year": "2021",
+        "make": "Mercedes-Benz",
+        "model": "GLB",
+        "trim": "GLB2504D SUV 4Matic"
+    },
+    {
+        "year": "2021",
+        "make": "Mercedes-Benz",
+        "model": "GLC",
+        "trim": "AMG GLC434D Coupe 4Matic"
+    },
+    {
+        "year": "2021",
+        "make": "Mercedes-Benz",
+        "model": "GLC",
+        "trim": "AMG GLC434D SUV 4Matic"
+    },
+    {
+        "year": "2021",
+        "make": "Mercedes-Benz",
+        "model": "GLC",
+        "trim": "AMG GLC634D Coupe 4Matic+"
+    },
+    {
+        "year": "2021",
+        "make": "Mercedes-Benz",
+        "model": "GLC",
+        "trim": "AMG GLC634D SUV 4Matic+"
+    },
+    {
+        "year": "2021",
+        "make": "Mercedes-Benz",
+        "model": "GLC",
+        "trim": "AMG GLC63 S4D Coupe 4Matic"
+    },
+    {
+        "year": "2021",
+        "make": "Mercedes-Benz",
+        "model": "GLC",
+        "trim": "GLC3004D Coupe 4Matic"
+    },
+    {
+        "year": "2021",
+        "make": "Mercedes-Benz",
+        "model": "GLC",
+        "trim": "GLC3004D SUV"
+    },
+    {
+        "year": "2021",
+        "make": "Mercedes-Benz",
+        "model": "GLC",
+        "trim": "GLC3004D SUV 4Matic"
+    },
+    {
+        "year": "2021",
+        "make": "Mercedes-Benz",
+        "model": "GLE",
+        "trim": "AMG GLE534D Coupe"
+    },
+    {
+        "year": "2021",
+        "make": "Mercedes-Benz",
+        "model": "GLE",
+        "trim": "AMG GLE534D SAV"
+    },
+    {
+        "year": "2021",
+        "make": "Mercedes-Benz",
+        "model": "GLE",
+        "trim": "AMG GLE63 S4D Coupe"
+    },
+    {
+        "year": "2021",
+        "make": "Mercedes-Benz",
+        "model": "GLE",
+        "trim": "AMG GLE63 S4D SAV"
+    },
+    {
+        "year": "2021",
+        "make": "Mercedes-Benz",
+        "model": "GLE",
+        "trim": "GLE3504D SAV"
+    },
+    {
+        "year": "2021",
+        "make": "Mercedes-Benz",
+        "model": "GLE",
+        "trim": "GLE3504D SAV 4Matic"
+    },
+    {
+        "year": "2021",
+        "make": "Mercedes-Benz",
+        "model": "GLE",
+        "trim": "GLE4504D SAV 4Matic"
+    },
+    {
+        "year": "2021",
+        "make": "Mercedes-Benz",
+        "model": "GLE",
+        "trim": "GLE5804D SAV 4Matic"
+    },
+    {
+        "year": "2021",
+        "make": "Mercedes-Benz",
+        "model": "GLS",
+        "trim": "AMG GLS634D SUV 4Matic"
+    },
+    {
+        "year": "2021",
+        "make": "Mercedes-Benz",
+        "model": "GLS",
+        "trim": "GLS4504D SUV 4Matic"
+    },
+    {
+        "year": "2021",
+        "make": "Mercedes-Benz",
+        "model": "GLS",
+        "trim": "GLS5804D SUV 4Matic"
+    },
+    {
+        "year": "2021",
+        "make": "Mercedes-Benz",
+        "model": "GLS",
+        "trim": "GLS6004D SUV 4Matic"
+    },
+    {
+        "year": "2021",
+        "make": "Mercedes-Benz",
+        "model": "Maybach",
+        "trim": "S5804D Sedan 4Matic"
+    },
+    {
+        "year": "2021",
+        "make": "Mercedes-Benz",
+        "model": "Metris",
+        "trim": "Cargo Van"
+    },
+    {
+        "year": "2021",
+        "make": "Mercedes-Benz",
+        "model": "Metris",
+        "trim": "Cargo Van LWB"
+    },
+    {
+        "year": "2021",
+        "make": "Mercedes-Benz",
+        "model": "Metris",
+        "trim": "Wagon"
+    },
+    {
+        "year": "2021",
+        "make": "Mercedes-Benz",
+        "model": "S-Class",
+        "trim": "AMG S632D Cabriolet 4Matic"
+    },
+    {
+        "year": "2021",
+        "make": "Mercedes-Benz",
+        "model": "S-Class",
+        "trim": "AMG S632D Coupe 4Matic"
+    },
+    {
+        "year": "2021",
+        "make": "Mercedes-Benz",
+        "model": "S-Class",
+        "trim": "S5004D Sedan 4Matic"
+    },
+    {
+        "year": "2021",
+        "make": "Mercedes-Benz",
+        "model": "S-Class",
+        "trim": "S5602D Cabriolet"
+    },
+    {
+        "year": "2021",
+        "make": "Mercedes-Benz",
+        "model": "S-Class",
+        "trim": "S5602D Coupe 4Matic"
+    },
+    {
+        "year": "2021",
+        "make": "Mercedes-Benz",
+        "model": "S-Class",
+        "trim": "S5804D Sedan 4Matic"
+    },
+    {
+        "year": "2021",
+        "make": "Toyota",
+        "model": "4Runner",
+        "trim": "Limited4D SUV 4WD V6"
+    },
+    {
+        "year": "2021",
+        "make": "Toyota",
+        "model": "4Runner",
+        "trim": "Limited4D SUV RWD V6"
+    },
+    {
+        "year": "2021",
+        "make": "Toyota",
+        "model": "4Runner",
+        "trim": "Nightshade4D SUV 4WD V6"
+    },
+    {
+        "year": "2021",
+        "make": "Toyota",
+        "model": "4Runner",
+        "trim": "Nightshade4D SUV RWD V6"
+    },
+    {
+        "year": "2021",
+        "make": "Toyota",
+        "model": "4Runner",
+        "trim": "SR54D SUV 4WD V6"
+    },
+    {
+        "year": "2021",
+        "make": "Toyota",
+        "model": "4Runner",
+        "trim": "SR54D SUV RWD V6"
+    },
+    {
+        "year": "2021",
+        "make": "Toyota",
+        "model": "4Runner",
+        "trim": "SR5 Premium4D SUV 4WD V6"
+    },
+    {
+        "year": "2021",
+        "make": "Toyota",
+        "model": "4Runner",
+        "trim": "SR5 Premium4D SUV RWD V6"
+    },
+    {
+        "year": "2021",
+        "make": "Toyota",
+        "model": "4Runner",
+        "trim": "Trail4D SUV 4WD V6"
+    },
+    {
+        "year": "2021",
+        "make": "Toyota",
+        "model": "4Runner",
+        "trim": "Trail4D SUV RWD V6"
+    },
+    {
+        "year": "2021",
+        "make": "Toyota",
+        "model": "4Runner",
+        "trim": "TRD Offroad4D SUV 4WD V6"
+    },
+    {
+        "year": "2021",
+        "make": "Toyota",
+        "model": "4Runner",
+        "trim": "TRD Offroad Premium4D SUV 4WD V6"
+    },
+    {
+        "year": "2021",
+        "make": "Toyota",
+        "model": "4Runner",
+        "trim": "TRD Pro4D SUV 4WD V6"
+    },
+    {
+        "year": "2021",
+        "make": "Toyota",
+        "model": "4Runner",
+        "trim": "Venture4D SUV 4WD V6"
+    },
+    {
+        "year": "2021",
+        "make": "Toyota",
+        "model": "Avalon",
+        "trim": "Hybrid Limited4D Sedan"
+    },
+    {
+        "year": "2021",
+        "make": "Toyota",
+        "model": "Avalon",
+        "trim": "Hybrid XLE4D Sedan"
+    },
+    {
+        "year": "2021",
+        "make": "Toyota",
+        "model": "Avalon",
+        "trim": "Hybrid XSE4D Sedan"
+    },
+    {
+        "year": "2021",
+        "make": "Toyota",
+        "model": "Avalon",
+        "trim": "Limited4D Sedan"
+    },
+    {
+        "year": "2021",
+        "make": "Toyota",
+        "model": "Avalon",
+        "trim": "Limited4D Sedan AWD"
+    },
+    {
+        "year": "2021",
+        "make": "Toyota",
+        "model": "Avalon",
+        "trim": "Touring4D Sedan"
+    },
+    {
+        "year": "2021",
+        "make": "Toyota",
+        "model": "Avalon",
+        "trim": "TRD4D Sedan"
+    },
+    {
+        "year": "2021",
+        "make": "Toyota",
+        "model": "Avalon",
+        "trim": "XLE4D Sedan"
+    },
+    {
+        "year": "2021",
+        "make": "Toyota",
+        "model": "Avalon",
+        "trim": "XLE4D Sedan AWD"
+    },
+    {
+        "year": "2021",
+        "make": "Toyota",
+        "model": "Avalon",
+        "trim": "XSE Nightshade4D Sedan"
+    },
+    {
+        "year": "2021",
+        "make": "Toyota",
+        "model": "C-HR",
+        "trim": "LE4D SUV"
+    },
+    {
+        "year": "2021",
+        "make": "Toyota",
+        "model": "C-HR",
+        "trim": "Limited4D SUV"
+    },
+    {
+        "year": "2021",
+        "make": "Toyota",
+        "model": "C-HR",
+        "trim": "Nightshade4D SUV"
+    },
+    {
+        "year": "2021",
+        "make": "Toyota",
+        "model": "C-HR",
+        "trim": "XLE4D SUV"
+    },
+    {
+        "year": "2021",
+        "make": "Toyota",
+        "model": "Camry",
+        "trim": "Hybrid LE4D Sedan"
+    },
+    {
+        "year": "2021",
+        "make": "Toyota",
+        "model": "Camry",
+        "trim": "Hybrid SE4D Sedan"
+    },
+    {
+        "year": "2021",
+        "make": "Toyota",
+        "model": "Camry",
+        "trim": "Hybrid XLE4D Sedan"
+    },
+    {
+        "year": "2021",
+        "make": "Toyota",
+        "model": "Camry",
+        "trim": "Hybrid XSE4D Sedan"
+    },
+    {
+        "year": "2021",
+        "make": "Toyota",
+        "model": "Camry",
+        "trim": "LE4D Sedan"
+    },
+    {
+        "year": "2021",
+        "make": "Toyota",
+        "model": "Camry",
+        "trim": "LE4D Sedan AWD"
+    },
+    {
+        "year": "2021",
+        "make": "Toyota",
+        "model": "Camry",
+        "trim": "Nightshade4D Sedan"
+    },
+    {
+        "year": "2021",
+        "make": "Toyota",
+        "model": "Camry",
+        "trim": "Nightshade4D Sedan AWD"
+    },
+    {
+        "year": "2021",
+        "make": "Toyota",
+        "model": "Camry",
+        "trim": "SE4D Sedan"
+    },
+    {
+        "year": "2021",
+        "make": "Toyota",
+        "model": "Camry",
+        "trim": "SE4D Sedan AWD"
+    },
+    {
+        "year": "2021",
+        "make": "Toyota",
+        "model": "Camry",
+        "trim": "TRD4D Sedan V6"
+    },
+    {
+        "year": "2021",
+        "make": "Toyota",
+        "model": "Camry",
+        "trim": "XLE4D Sedan"
+    },
+    {
+        "year": "2021",
+        "make": "Toyota",
+        "model": "Camry",
+        "trim": "XLE4D Sedan AWD"
+    },
+    {
+        "year": "2021",
+        "make": "Toyota",
+        "model": "Camry",
+        "trim": "XLE4D Sedan V6"
+    },
+    {
+        "year": "2021",
+        "make": "Toyota",
+        "model": "Camry",
+        "trim": "XSE4D Sedan"
+    },
+    {
+        "year": "2021",
+        "make": "Toyota",
+        "model": "Camry",
+        "trim": "XSE4D Sedan AWD"
+    },
+    {
+        "year": "2021",
+        "make": "Toyota",
+        "model": "Camry",
+        "trim": "XSE4D Sedan V6"
+    },
+    {
+        "year": "2021",
+        "make": "Toyota",
+        "model": "Corolla",
+        "trim": "APEX SE4D Sedan 6sp"
+    },
+    {
+        "year": "2021",
+        "make": "Toyota",
+        "model": "Corolla",
+        "trim": "APEX SE4D Sedan at"
+    },
+    {
+        "year": "2021",
+        "make": "Toyota",
+        "model": "Corolla",
+        "trim": "APEX XSE4D Sedan at"
+    },
+    {
+        "year": "2021",
+        "make": "Toyota",
+        "model": "Corolla",
+        "trim": "L4D Sedan at"
+    },
+    {
+        "year": "2021",
+        "make": "Toyota",
+        "model": "Corolla",
+        "trim": "LE4D Sedan at"
+    },
+    {
+        "year": "2021",
+        "make": "Toyota",
+        "model": "Corolla",
+        "trim": "LE Hybrid4D Sedan at"
+    },
+    {
+        "year": "2021",
+        "make": "Toyota",
+        "model": "Corolla",
+        "trim": "SE4D Hatchback 6sp"
+    },
+    {
+        "year": "2021",
+        "make": "Toyota",
+        "model": "Corolla",
+        "trim": "SE4D Hatchback at"
+    },
+    {
+        "year": "2021",
+        "make": "Toyota",
+        "model": "Corolla",
+        "trim": "SE4D Sedan 6sp"
+    },
+    {
+        "year": "2021",
+        "make": "Toyota",
+        "model": "Corolla",
+        "trim": "SE4D Sedan at"
+    },
+    {
+        "year": "2021",
+        "make": "Toyota",
+        "model": "Corolla",
+        "trim": "SE Nightshade4D Hatchback at"
+    },
+    {
+        "year": "2021",
+        "make": "Toyota",
+        "model": "Corolla",
+        "trim": "SE Nightshade4D Sedan at"
+    },
+    {
+        "year": "2021",
+        "make": "Toyota",
+        "model": "Corolla",
+        "trim": "XLE4D Sedan at"
+    },
+    {
+        "year": "2021",
+        "make": "Toyota",
+        "model": "Corolla",
+        "trim": "XSE4D Hatchback 6sp"
+    },
+    {
+        "year": "2021",
+        "make": "Toyota",
+        "model": "Corolla",
+        "trim": "XSE4D Hatchback at"
+    },
+    {
+        "year": "2021",
+        "make": "Toyota",
+        "model": "Corolla",
+        "trim": "XSE4D Sedan at"
+    },
+    {
+        "year": "2021",
+        "make": "Toyota",
+        "model": "Highlander",
+        "trim": "Hybrid LE4D SUV AWD"
+    },
+    {
+        "year": "2021",
+        "make": "Toyota",
+        "model": "Highlander",
+        "trim": "Hybrid LE4D SUV FWD"
+    },
+    {
+        "year": "2021",
+        "make": "Toyota",
+        "model": "Highlander",
+        "trim": "Hybrid Limited4D SUV AWD"
+    },
+    {
+        "year": "2021",
+        "make": "Toyota",
+        "model": "Highlander",
+        "trim": "Hybrid Limited4D SUV FWD"
+    },
+    {
+        "year": "2021",
+        "make": "Toyota",
+        "model": "Highlander",
+        "trim": "Hybrid Platinum4D SUV AWD"
+    },
+    {
+        "year": "2021",
+        "make": "Toyota",
+        "model": "Highlander",
+        "trim": "Hybrid Platinum4D SUV FWD"
+    },
+    {
+        "year": "2021",
+        "make": "Toyota",
+        "model": "Highlander",
+        "trim": "Hybrid XLE4D SUV AWD"
+    },
+    {
+        "year": "2021",
+        "make": "Toyota",
+        "model": "Highlander",
+        "trim": "Hybrid XLE4D SUV FWD"
+    },
+    {
+        "year": "2021",
+        "make": "Toyota",
+        "model": "Highlander",
+        "trim": "L4D SUV AWD"
+    },
+    {
+        "year": "2021",
+        "make": "Toyota",
+        "model": "Highlander",
+        "trim": "L4D SUV FWD"
+    },
+    {
+        "year": "2021",
+        "make": "Toyota",
+        "model": "Highlander",
+        "trim": "LE4D SUV AWD"
+    },
+    {
+        "year": "2021",
+        "make": "Toyota",
+        "model": "Highlander",
+        "trim": "LE4D SUV FWD"
+    },
+    {
+        "year": "2021",
+        "make": "Toyota",
+        "model": "Highlander",
+        "trim": "Limited4D SUV AWD"
+    },
+    {
+        "year": "2021",
+        "make": "Toyota",
+        "model": "Highlander",
+        "trim": "Limited4D SUV FWD"
+    },
+    {
+        "year": "2021",
+        "make": "Toyota",
+        "model": "Highlander",
+        "trim": "Platinum4D SUV AWD"
+    },
+    {
+        "year": "2021",
+        "make": "Toyota",
+        "model": "Highlander",
+        "trim": "Platinum4D SUV FWD"
+    },
+    {
+        "year": "2021",
+        "make": "Toyota",
+        "model": "Highlander",
+        "trim": "XLE4D SUV AWD"
+    },
+    {
+        "year": "2021",
+        "make": "Toyota",
+        "model": "Highlander",
+        "trim": "XLE4D SUV FWD"
+    },
+    {
+        "year": "2021",
+        "make": "Toyota",
+        "model": "Highlander",
+        "trim": "XSE4D SUV AWD"
+    },
+    {
+        "year": "2021",
+        "make": "Toyota",
+        "model": "Highlander",
+        "trim": "XSE4D SUV FWD"
+    },
+    {
+        "year": "2021",
+        "make": "Toyota",
+        "model": "Land Cruiser",
+        "trim": "Base4D SUV"
+    },
+    {
+        "year": "2021",
+        "make": "Toyota",
+        "model": "Land Cruiser",
+        "trim": "HE4D SUV"
+    },
+    {
+        "year": "2021",
+        "make": "Toyota",
+        "model": "Mirai",
+        "trim": "Limited4D Sedan"
+    },
+    {
+        "year": "2021",
+        "make": "Toyota",
+        "model": "Mirai",
+        "trim": "XLE4D Sedan"
+    },
+    {
+        "year": "2021",
+        "make": "Toyota",
+        "model": "Prius",
+        "trim": "20th Anniversary4D Hatchback"
+    },
+    {
+        "year": "2021",
+        "make": "Toyota",
+        "model": "Prius",
+        "trim": "L4D Hatchback"
+    },
+    {
+        "year": "2021",
+        "make": "Toyota",
+        "model": "Prius",
+        "trim": "LE4D Hatchback"
+    },
+    {
+        "year": "2021",
+        "make": "Toyota",
+        "model": "Prius",
+        "trim": "LE4D Hatchback AWD-e"
+    },
+    {
+        "year": "2021",
+        "make": "Toyota",
+        "model": "Prius",
+        "trim": "Limited4D Hatchback"
+    },
+    {
+        "year": "2021",
+        "make": "Toyota",
+        "model": "Prius",
+        "trim": "XLE4D Hatchback"
+    },
+    {
+        "year": "2021",
+        "make": "Toyota",
+        "model": "Prius",
+        "trim": "XLE4D Hatchback AWD-e"
+    },
+    {
+        "year": "2021",
+        "make": "Toyota",
+        "model": "Prius Prime",
+        "trim": "LE4D Hatchback"
+    },
+    {
+        "year": "2021",
+        "make": "Toyota",
+        "model": "Prius Prime",
+        "trim": "Limited4D Hatchback"
+    },
+    {
+        "year": "2021",
+        "make": "Toyota",
+        "model": "Prius Prime",
+        "trim": "XLE4D Hatchback"
+    },
+    {
+        "year": "2021",
+        "make": "Toyota",
+        "model": "RAV4",
+        "trim": "Adventure4D SUV AWD"
+    },
+    {
+        "year": "2021",
+        "make": "Toyota",
+        "model": "RAV4",
+        "trim": "Hybrid LE4D SUV AWD"
+    },
+    {
+        "year": "2021",
+        "make": "Toyota",
+        "model": "RAV4",
+        "trim": "Hybrid Limited4D SUV AWD"
+    },
+    {
+        "year": "2021",
+        "make": "Toyota",
+        "model": "RAV4",
+        "trim": "Hybrid XLE4D SUV AWD"
+    },
+    {
+        "year": "2021",
+        "make": "Toyota",
+        "model": "RAV4",
+        "trim": "Hybrid XLE Premium4D SUV AWD"
+    },
+    {
+        "year": "2021",
+        "make": "Toyota",
+        "model": "RAV4",
+        "trim": "Hybrid XSE4D SUV AWD"
+    },
+    {
+        "year": "2021",
+        "make": "Toyota",
+        "model": "RAV4",
+        "trim": "LE4D SUV AWD"
+    },
+    {
+        "year": "2021",
+        "make": "Toyota",
+        "model": "RAV4",
+        "trim": "LE4D SUV FWD"
+    },
+    {
+        "year": "2021",
+        "make": "Toyota",
+        "model": "RAV4",
+        "trim": "Limited4D SUV AWD"
+    },
+    {
+        "year": "2021",
+        "make": "Toyota",
+        "model": "RAV4",
+        "trim": "Limited4D SUV FWD"
+    },
+    {
+        "year": "2021",
+        "make": "Toyota",
+        "model": "RAV4",
+        "trim": "TRD Offroad4D SUV AWD"
+    },
+    {
+        "year": "2021",
+        "make": "Toyota",
+        "model": "RAV4",
+        "trim": "XLE4D SUV AWD"
+    },
+    {
+        "year": "2021",
+        "make": "Toyota",
+        "model": "RAV4",
+        "trim": "XLE4D SUV FWD"
+    },
+    {
+        "year": "2021",
+        "make": "Toyota",
+        "model": "RAV4",
+        "trim": "XLE Premium4D SUV AWD"
+    },
+    {
+        "year": "2021",
+        "make": "Toyota",
+        "model": "RAV4",
+        "trim": "XLE Premium4D SUV FWD"
+    },
+    {
+        "year": "2021",
+        "make": "Toyota",
+        "model": "RAV4 PRIME",
+        "trim": "SE4D SUV AWD"
+    },
+    {
+        "year": "2021",
+        "make": "Toyota",
+        "model": "RAV4 PRIME",
+        "trim": "XSE4D SUV AWD"
+    },
+    {
+        "year": "2021",
+        "make": "Toyota",
+        "model": "Sequoia",
+        "trim": "Limited4D SUV 4WD"
+    },
+    {
+        "year": "2021",
+        "make": "Toyota",
+        "model": "Sequoia",
+        "trim": "Limited4D SUV RWD"
+    },
+    {
+        "year": "2021",
+        "make": "Toyota",
+        "model": "Sequoia",
+        "trim": "Nightshade4D SUV 4WD"
+    },
+    {
+        "year": "2021",
+        "make": "Toyota",
+        "model": "Sequoia",
+        "trim": "Nightshade4D SUV RWD"
+    },
+    {
+        "year": "2021",
+        "make": "Toyota",
+        "model": "Sequoia",
+        "trim": "Platinum4D SUV 4WD"
+    },
+    {
+        "year": "2021",
+        "make": "Toyota",
+        "model": "Sequoia",
+        "trim": "Platinum4D SUV RWD"
+    },
+    {
+        "year": "2021",
+        "make": "Toyota",
+        "model": "Sequoia",
+        "trim": "SR54D SUV 4WD"
+    },
+    {
+        "year": "2021",
+        "make": "Toyota",
+        "model": "Sequoia",
+        "trim": "SR54D SUV RWD"
+    },
+    {
+        "year": "2021",
+        "make": "Toyota",
+        "model": "Sequoia",
+        "trim": "TRD Pro4D SUV 4WD"
+    },
+    {
+        "year": "2021",
+        "make": "Toyota",
+        "model": "Sequoia",
+        "trim": "TRD Sport4D SUV 4WD"
+    },
+    {
+        "year": "2021",
+        "make": "Toyota",
+        "model": "Sequoia",
+        "trim": "TRD Sport4D SUV RWD"
+    },
+    {
+        "year": "2021",
+        "make": "Toyota",
+        "model": "Sienna",
+        "trim": "Hybrid LE5D Wagon 8 Pass"
+    },
+    {
+        "year": "2021",
+        "make": "Toyota",
+        "model": "Sienna",
+        "trim": "Hybrid LE5D Wagon 8 Pass AWD"
+    },
+    {
+        "year": "2021",
+        "make": "Toyota",
+        "model": "Sienna",
+        "trim": "Hybrid Limited5D Wagon 7 Pass"
+    },
+    {
+        "year": "2021",
+        "make": "Toyota",
+        "model": "Sienna",
+        "trim": "Hybrid Limited5D Wagon 7 Pass AWD"
+    },
+    {
+        "year": "2021",
+        "make": "Toyota",
+        "model": "Sienna",
+        "trim": "Hybrid Platinum5D Wagon 7 Pass"
+    },
+    {
+        "year": "2021",
+        "make": "Toyota",
+        "model": "Sienna",
+        "trim": "Hybrid Platinum5D Wagon 7 Pass AWD"
+    },
+    {
+        "year": "2021",
+        "make": "Toyota",
+        "model": "Sienna",
+        "trim": "Hybrid XLE5D Wagon 7 Pass"
+    },
+    {
+        "year": "2021",
+        "make": "Toyota",
+        "model": "Sienna",
+        "trim": "Hybrid XLE5D Wagon 7 Pass AWD"
+    },
+    {
+        "year": "2021",
+        "make": "Toyota",
+        "model": "Sienna",
+        "trim": "Hybrid XLE5D Wagon 8 Pass"
+    },
+    {
+        "year": "2021",
+        "make": "Toyota",
+        "model": "Sienna",
+        "trim": "Hybrid XSE5D Wagon 7 Pass"
+    },
+    {
+        "year": "2021",
+        "make": "Toyota",
+        "model": "Sienna",
+        "trim": "Hybrid XSE5D Wagon 7 Pass AWD"
+    },
+    {
+        "year": "2021",
+        "make": "Toyota",
+        "model": "Supra",
+        "trim": "A91 Edition2D Coupe"
+    },
+    {
+        "year": "2021",
+        "make": "Toyota",
+        "model": "Supra",
+        "trim": "Base2D Coupe 2.0"
+    },
+    {
+        "year": "2021",
+        "make": "Toyota",
+        "model": "Supra",
+        "trim": "Base2D Coupe 3.0"
+    },
+    {
+        "year": "2021",
+        "make": "Toyota",
+        "model": "Supra",
+        "trim": "Premium2D Coupe"
+    },
+    {
+        "year": "2021",
+        "make": "Toyota",
+        "model": "Tacoma",
+        "trim": "LimitedDbl Cab 2WD V6 at"
+    },
+    {
+        "year": "2021",
+        "make": "Toyota",
+        "model": "Tacoma",
+        "trim": "LimitedDbl Cab 4WD V6 at"
+    },
+    {
+        "year": "2021",
+        "make": "Toyota",
+        "model": "Tacoma",
+        "trim": "LimitedDblCab 4WD V6 LB at"
+    },
+    {
+        "year": "2021",
+        "make": "Toyota",
+        "model": "Tacoma",
+        "trim": "SRAccess Cab 2WD at"
+    },
+    {
+        "year": "2021",
+        "make": "Toyota",
+        "model": "Tacoma",
+        "trim": "SRAccess Cab 4WD at"
+    },
+    {
+        "year": "2021",
+        "make": "Toyota",
+        "model": "Tacoma",
+        "trim": "SRAccess Cab 4WD V6 at"
+    },
+    {
+        "year": "2021",
+        "make": "Toyota",
+        "model": "Tacoma",
+        "trim": "SRAccessCab 2WD V6 at"
+    },
+    {
+        "year": "2021",
+        "make": "Toyota",
+        "model": "Tacoma",
+        "trim": "SRDbl Cab 2WD at"
+    },
+    {
+        "year": "2021",
+        "make": "Toyota",
+        "model": "Tacoma",
+        "trim": "SRDbl Cab 4WD V6 at"
+    },
+    {
+        "year": "2021",
+        "make": "Toyota",
+        "model": "Tacoma",
+        "trim": "SR5Access Cab 2WD at"
+    },
+    {
+        "year": "2021",
+        "make": "Toyota",
+        "model": "Tacoma",
+        "trim": "SR5Access Cab 4WD at"
+    },
+    {
+        "year": "2021",
+        "make": "Toyota",
+        "model": "Tacoma",
+        "trim": "SR5Access Cab 4WD V6 at"
+    },
+    {
+        "year": "2021",
+        "make": "Toyota",
+        "model": "Tacoma",
+        "trim": "SR5AccessCab 2WD V6 at"
+    },
+    {
+        "year": "2021",
+        "make": "Toyota",
+        "model": "Tacoma",
+        "trim": "SR5Dbl Cab 2WD at"
+    },
+    {
+        "year": "2021",
+        "make": "Toyota",
+        "model": "Tacoma",
+        "trim": "SR5Dbl Cab 2WD V6 at"
+    },
+    {
+        "year": "2021",
+        "make": "Toyota",
+        "model": "Tacoma",
+        "trim": "SR5Dbl Cab 4WD V6 at"
+    },
+    {
+        "year": "2021",
+        "make": "Toyota",
+        "model": "Tacoma",
+        "trim": "SR5DblCab 2WD V6 LB at"
+    },
+    {
+        "year": "2021",
+        "make": "Toyota",
+        "model": "Tacoma",
+        "trim": "SR5DblCab 4WD V6 LB at"
+    },
+    {
+        "year": "2021",
+        "make": "Toyota",
+        "model": "Tacoma",
+        "trim": "TRD OffroadAccess Cab 4WD V6 at"
+    },
+    {
+        "year": "2021",
+        "make": "Toyota",
+        "model": "Tacoma",
+        "trim": "TRD OffroadDbl Cab 2WD V6 at"
+    },
+    {
+        "year": "2021",
+        "make": "Toyota",
+        "model": "Tacoma",
+        "trim": "TRD OffroadDbl Cab 4WD V6 6sp"
+    },
+    {
+        "year": "2021",
+        "make": "Toyota",
+        "model": "Tacoma",
+        "trim": "TRD OffroadDbl Cab 4WD V6 at"
+    },
+    {
+        "year": "2021",
+        "make": "Toyota",
+        "model": "Tacoma",
+        "trim": "TRD OffroadDblCab 4WD V6 LB at"
+    },
+    {
+        "year": "2021",
+        "make": "Toyota",
+        "model": "Tacoma",
+        "trim": "TRD ProDbl Cab 4WD V6 6sp"
+    },
+    {
+        "year": "2021",
+        "make": "Toyota",
+        "model": "Tacoma",
+        "trim": "TRD ProDbl Cab 4WD V6 at"
+    },
+    {
+        "year": "2021",
+        "make": "Toyota",
+        "model": "Tacoma",
+        "trim": "TRD SportAccess Cab 4WD V6 at"
+    },
+    {
+        "year": "2021",
+        "make": "Toyota",
+        "model": "Tacoma",
+        "trim": "TRD SportAccessCab 2WD V6 at"
+    },
+    {
+        "year": "2021",
+        "make": "Toyota",
+        "model": "Tacoma",
+        "trim": "TRD SportAccessCab 4WD V6 6sp"
+    },
+    {
+        "year": "2021",
+        "make": "Toyota",
+        "model": "Tacoma",
+        "trim": "TRD SportDbl Cab 2WD V6 at"
+    },
+    {
+        "year": "2021",
+        "make": "Toyota",
+        "model": "Tacoma",
+        "trim": "TRD SportDbl Cab 4WD V6 6sp"
+    },
+    {
+        "year": "2021",
+        "make": "Toyota",
+        "model": "Tacoma",
+        "trim": "TRD SportDbl Cab 4WD V6 at"
+    },
+    {
+        "year": "2021",
+        "make": "Toyota",
+        "model": "Tacoma",
+        "trim": "TRD SportDblCab 2WD V6 LB at"
+    },
+    {
+        "year": "2021",
+        "make": "Toyota",
+        "model": "Tacoma",
+        "trim": "TRD SportDblCab 4WD V6 LB at"
+    },
+    {
+        "year": "2021",
+        "make": "Toyota",
+        "model": "Tundra",
+        "trim": "1794 EditionCrew Max 2WD 5.7L V8"
+    },
+    {
+        "year": "2021",
+        "make": "Toyota",
+        "model": "Tundra",
+        "trim": "1794 EditionCrew Max 4WD 5.7L V8"
+    },
+    {
+        "year": "2021",
+        "make": "Toyota",
+        "model": "Tundra",
+        "trim": "LimitedCrew Max 2WD 5.7L V8"
+    },
+    {
+        "year": "2021",
+        "make": "Toyota",
+        "model": "Tundra",
+        "trim": "LimitedCrew Max 4WD 5.7L V8"
+    },
+    {
+        "year": "2021",
+        "make": "Toyota",
+        "model": "Tundra",
+        "trim": "LimitedDblCab 2WD 5.7L V8"
+    },
+    {
+        "year": "2021",
+        "make": "Toyota",
+        "model": "Tundra",
+        "trim": "LimitedDblCab 4WD 5.7L V8"
+    },
+    {
+        "year": "2021",
+        "make": "Toyota",
+        "model": "Tundra",
+        "trim": "PlatinumCrew Max 2WD 5.7L V8"
+    },
+    {
+        "year": "2021",
+        "make": "Toyota",
+        "model": "Tundra",
+        "trim": "PlatinumCrew Max 4WD 5.7L V8"
+    },
+    {
+        "year": "2021",
+        "make": "Toyota",
+        "model": "Tundra",
+        "trim": "SRDblCab 2WD 5.7L V8"
+    },
+    {
+        "year": "2021",
+        "make": "Toyota",
+        "model": "Tundra",
+        "trim": "SRDblCab 4WD 5.7L V8"
+    },
+    {
+        "year": "2021",
+        "make": "Toyota",
+        "model": "Tundra",
+        "trim": "SRDblCb 2WD LB 5.7 V8"
+    },
+    {
+        "year": "2021",
+        "make": "Toyota",
+        "model": "Tundra",
+        "trim": "SRDblCb 4WD LB 5.7L V8"
+    },
+    {
+        "year": "2021",
+        "make": "Toyota",
+        "model": "Tundra",
+        "trim": "SR5Crew Max 2WD 5.7L V8"
+    },
+    {
+        "year": "2021",
+        "make": "Toyota",
+        "model": "Tundra",
+        "trim": "SR5Crew Max 4WD 5.7L V8"
+    },
+    {
+        "year": "2021",
+        "make": "Toyota",
+        "model": "Tundra",
+        "trim": "SR5DblCab 2WD 5.7L V8"
+    },
+    {
+        "year": "2021",
+        "make": "Toyota",
+        "model": "Tundra",
+        "trim": "SR5DblCab 4WD 5.7L V8"
+    },
+    {
+        "year": "2021",
+        "make": "Toyota",
+        "model": "Tundra",
+        "trim": "SR5DblCb 2WD LB 5.7 V8"
+    },
+    {
+        "year": "2021",
+        "make": "Toyota",
+        "model": "Tundra",
+        "trim": "SR5DblCb 4WD LB 5.7L V8"
+    },
+    {
+        "year": "2021",
+        "make": "Toyota",
+        "model": "Tundra",
+        "trim": "TRD ProCrew Max 4WD 5.7L V8"
+    },
+    {
+        "year": "2021",
+        "make": "Toyota",
+        "model": "Tundra",
+        "trim": "TRD ProDblCab 4WD 5.7L V8"
+    },
+    {
+        "year": "2021",
+        "make": "Toyota",
+        "model": "Venza",
+        "trim": "LE4D SUV"
+    },
+    {
+        "year": "2021",
+        "make": "Toyota",
+        "model": "Venza",
+        "trim": "Limited4D SUV"
+    },
+    {
+        "year": "2021",
+        "make": "Toyota",
+        "model": "Venza",
+        "trim": "XLE4D SUV"
+    }
+]
